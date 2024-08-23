@@ -1,15 +1,17 @@
 import os
-import dotenv
+from dotenv import load_dotenv
 import re
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain.chains import LLMChain
 
-dotenv.load_dotenv()
+load_dotenv()
+
 key = os.environ.get('OPENAI_API_KEY')
 
-def getResponseFromLLM(model_name: str,input: str,category: str):
-    llm = ChatOpenAI(temperature=0, model=model_name, openai_api_key = key)
+def getResponseFromLLM(model_name: str, input: str, category: str):
+    llm = ChatOpenAI(temperature=0, model=model_name, openai_api_key=key)
+    
     prompt_what = ChatPromptTemplate.from_template(
     """Your job is to answer questions that need a bit more detail but keep your answers easy to understand. Follow these guidelines to help you:
 
@@ -23,6 +25,7 @@ def getResponseFromLLM(model_name: str,input: str,category: str):
 
     When answering a question that asks for a detailed explanation on a topic (like explaining a concept or providing a list of needed items or steps), use these rules to create your response. Aim to be helpful and clear without using complicated language or ideas.
     Here is the question : {user_input_eng}""")
+    
     prompt_is = ChatPromptTemplate.from_template(
     """Your main task is to give a clear 'Yes' or 'No' answer to the question asked. After you answer, add a short paragraph explaining your answer in a simple way. Here’s how to do it:
 
@@ -36,6 +39,7 @@ def getResponseFromLLM(model_name: str,input: str,category: str):
 
     Your goal is to provide straightforward, helpful answers that anyone can understand, especially focusing on topics relevant to India. This approach helps make sure your response is both useful and easy to read for people with different levels of reading skills.
     Here is the question : {user_input_eng}""")
+    
     prompt_how = ChatPromptTemplate.from_template(
     """When you receive a question that needs a step-by-step answer, your task is to break it down into simpler, straightforward Yes/No questions. These questions should guide someone with little to no background knowledge through understanding and action. Here’s how you can do it effectively:
 
@@ -52,20 +56,22 @@ def getResponseFromLLM(model_name: str,input: str,category: str):
     At the end of the flowchart, based on the paths taken through the Yes/No questions, provide a final answer or advice that directly addresses the user's original query. Remember, your goal is to make the process as clear and helpful as possible, even for someone who might not be familiar with the topic.
     Here is the question: {user_input_eng}"""
     )
+    
     if category == "Procedure-Based Question":
-        chain = LLMChain(llm = llm, prompt = prompt_how)
-        response = chain.run(user_input_eng = input)
-        print(response)
+        chain = LLMChain(llm=llm, prompt=prompt_how)
+        response = chain.run(user_input_eng=input)
     elif category == "Yes/No Question":
-        chain = LLMChain(llm = llm, prompt = prompt_is)
-        response = chain.run(user_input_eng = input)
+        chain = LLMChain(llm=llm, prompt=prompt_is)
+        response = chain.run(user_input_eng=input)
     elif category == "Informative Paragraph Question":
-        chain = LLMChain(llm = llm, prompt = prompt_what)
-        response = chain.run(user_input_eng = input)
+        chain = LLMChain(llm=llm, prompt=prompt_what)
+        response = chain.run(user_input_eng=input)
 
     return response
-def getCategoryOfInput(model_name:str, input: str):
-    llm = ChatOpenAI(temperature=0, model=model_name, openai_api_key = key)
+
+def getCategoryOfInput(model_name: str, input: str):
+    llm = ChatOpenAI(temperature=0, model=model_name, openai_api_key=key)
+    
     prompt_categ = ChatPromptTemplate.from_template(
     """Task Overview:
     Your objective is to categorize any presented question into one of the following distinct types, based on the nature of the response it seeks:
@@ -92,7 +98,6 @@ def getCategoryOfInput(model_name:str, input: str):
     "Which programs offer help for women in India above 58?"
     "What aid is there for students from poor families for higher education?"
 
-
     Now which category does this {input} belong to?
     The answer should exactly with no other text be one of the following:
     Procedure-Based Question
@@ -100,44 +105,44 @@ def getCategoryOfInput(model_name:str, input: str):
     Informative Paragraph Question
     """
     )
-    chain = LLMChain(llm = llm, prompt = prompt_categ)
-    category = chain.run(input = input)
+    
+    chain = LLMChain(llm=llm, prompt=prompt_categ)
+    category = chain.run(input=input)
 
     return category
 
 def formatParagraphType(response: str):
     headingRegex = re.compile(r'\*\*.*\*\*')
-    headingRegex.search("Hello **Hello World** !").group(0).split("**")[1]
     paragraphs = response.split("\n\n")
     headings = []
     bodies = []
-    for i,para in enumerate(paragraphs):
-        if i==0:
+    
+    for i, para in enumerate(paragraphs):
+        if i == 0:
             headings.append("Introduction")
             bodies.append(para)
-        elif i==len(paragraphs)-1:
+        elif i == len(paragraphs) - 1:
             headings.append("Conclusion")
             bodies.append(para)
         else:
             headings.append(headingRegex.search(para).group(0).split("**")[1])
             pts = [x.split("\n")[0] for x in para.split("  - ")[1:]]
-            temp = ""
-            for pt in pts:
-                temp+=pt
-                temp+=" "
+            temp = " ".join(pts)
             bodies.append(temp)
     
-    return headings,bodies
+    return headings, bodies
 
 def formatFlowchartType(response: str):
     steps = response.split("\n\n")
     questionMatcher = re.compile(r"\*\*.*\*\*")
     answerMatcher = re.compile(r"-\s+Yes:.+[^\n]")
     noMatcher = re.compile(r"-\s+No:.+[^\n]")
+    
     questions = []
     yes_actions = []
     no_actions = []
     q_json = []
+    
     for step in steps:
         if questionMatcher.search(step) != None:
             questions.append(questionMatcher.search(step).group().split("**")[1])
@@ -145,41 +150,56 @@ def formatFlowchartType(response: str):
             questions.append(None)
 
         if answerMatcher.search(step) != None:
-            if len(answerMatcher.search(step).group().split(": ")[1].split(r"question "))> 1:
-                yes_actions.append(int(answerMatcher.search(step).group().split(": ")[1].split(r"question ")[1].split(" ")[0].split(".")[0]))
+            yes_action = answerMatcher.search(step).group().split(": ")[1]
+            if "question " in yes_action:
+                yes_actions.append(int(yes_action.split("question ")[1].split(" ")[0].split(".")[0]))
             else:
-                yes_actions.append(answerMatcher.search(step).group().split(": ")[1])
+                yes_actions.append(yes_action)
         else:
             yes_actions.append(None)
 
         if noMatcher.search(step) != None:
-            if len(noMatcher.search(step).group().split(": ")[1].split(r"question "))> 1:
-                no_actions.append(int(noMatcher.search(step).group().split(": ")[1].split(r"question ")[1].split(" ")[0].split(".")[0]))
+            no_action = noMatcher.search(step).group().split(": ")[1]
+            if "question " in no_action:
+                no_actions.append(int(no_action.split("question ")[1].split(" ")[0].split(".")[0]))
             else:
-                no_actions.append(noMatcher.search(step).group().split(": ")[1])
-        else:
-            no_actions.append(None)\
-            
-    for index in range(len(steps)):
-        if questions[index] != None:
-            q_json.append({
-                "question": questions[index],
-                "yes": {
-                    "goto": yes_actions[index] if type(yes_actions[index])== int else -1,
-                    "content": None if type(yes_actions[index])!=str else yes_actions[index]
-                },
-                "no":{
-                    "goto": no_actions[index] if type(no_actions[index])==int else -1,
-                    "content": None if type(no_actions[index])!=str else no_actions[index]
-                }
-            })
-    
-    introduction,conclusion = steps[0],steps[-1]
+                no
 
-    res = {
-    "introduction": introduction,
-    "conclusion": conclusion,
-    "questions": q_json
-    }
 
-    return res
+# test_inputs = [
+#     "How can a woman with no financial support find a safe place to live?",
+#     "Can women who left home due to violence get shelter?",
+#     "What aid is available for women affected by HIV without support?",
+#     "How do I get support if I lost my job and need money?",
+#     "Are children allowed in shelters for women in difficulty?"
+# ]
+
+# # Expected categories
+# expected_categories = [
+#     "Procedure-Based Question",
+#     "Yes/No Question",
+#     "Informative Paragraph Question",
+#     "Procedure-Based Question",
+#     "Yes/No Question"
+# ]
+
+model_name= "gpt-4o"
+
+# print("Testing getCategoryOfInput function...")
+# for i, input_text in enumerate(test_inputs):
+#     category = getCategoryOfInput(model_name, input_text)
+#     print(f"Input: {input_text}")
+#     print(f"Expected Category: {expected_categories[i]}")
+#     print(f"Predicted Category: {category}")
+#     print(f"Test Passed: {category == expected_categories[i]}")
+#     print()
+
+# Test getResponseFromLLM function
+# print("Testing getResponseFromLLM function...")
+# for i, input_text in enumerate(test_inputs):
+#     category = expected_categories[i]
+#     response = getResponseFromLLM(model_name, input_text, category)
+#     print(f"Input: {input_text}")
+#     print(f"Category: {category}")
+#     print(f"Response: {response}")
+#     print()

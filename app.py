@@ -2,7 +2,7 @@ from flask import Flask,jsonify,request
 from utils import getCategoryOfInput,getResponseFromLLM, formatParagraphType,formatFlowchartType
 
 app = Flask(__name__)
-model = "gpt-4-0125-preview"
+model = "gpt-4o"
 
 @app.route('/',methods=["POST"])
 def index():
