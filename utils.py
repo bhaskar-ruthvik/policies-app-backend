@@ -165,6 +165,51 @@ def formatParagraphType(response: str):
 #             else:
 #                 no
 
+# def formatFlowchartType(response: str):
+#     steps = response.split("\n\n")
+#     questionMatcher = re.compile(r"\*\*.*\*\*")
+#     answerMatcher = re.compile(r"-\s+Yes:.+[^\n]")
+#     noMatcher = re.compile(r"-\s+No:.+[^\n]")
+    
+#     questions = []
+#     yes_actions = []
+#     no_actions = []
+#     q_json = []
+    
+#     for step in steps:
+#         if questionMatcher.search(step) is not None:
+#             questions.append(questionMatcher.search(step).group().split("**")[1])
+#         else:
+#             questions.append(None)
+
+#         if answerMatcher.search(step) is not None:
+#             yes_action = answerMatcher.search(step).group().split(": ")[1]
+#             if "question " in yes_action:
+#                 yes_actions.append(int(yes_action.split("question ")[1].split(" ")[0].split(".")[0]))
+#             else:
+#                 yes_actions.append(yes_action)
+#         else:
+#             yes_actions.append(None)
+
+#         if noMatcher.search(step) is not None:
+#             no_action = noMatcher.search(step).group().split(": ")[1]
+#             if "question " in no_action:
+#                 no_actions.append(int(no_action.split("question ")[1].split(" ")[0].split(".")[0]))
+#             else:
+#                 no_actions.append(no_action)
+#         else:
+#             no_actions.append(None)
+
+#     # Combine the results into a JSON-friendly format
+#     for i, question in enumerate(questions):
+#         q_json.append({
+#             "question": question,
+#             "yes_action": yes_actions[i],
+#             "no_action": no_actions[i]
+#         })
+
+#     return q_json
+
 def formatFlowchartType(response: str):
     steps = response.split("\n\n")
     questionMatcher = re.compile(r"\*\*.*\*\*")
@@ -174,7 +219,6 @@ def formatFlowchartType(response: str):
     questions = []
     yes_actions = []
     no_actions = []
-    q_json = []
     
     for step in steps:
         if questionMatcher.search(step) is not None:
@@ -200,15 +244,18 @@ def formatFlowchartType(response: str):
         else:
             no_actions.append(None)
 
-    # Combine the results into a JSON-friendly format
-    for i, question in enumerate(questions):
-        q_json.append({
-            "question": question,
-            "yes_action": yes_actions[i],
-            "no_action": no_actions[i]
-        })
+    # Combine the results into a map with a single key "flowchart"
+    return {
+        "flowchart": [
+            {
+                "question": questions[i],
+                "yes_action": yes_actions[i],
+                "no_action": no_actions[i]
+            }
+            for i in range(len(questions))
+        ]
+    }
 
-    return q_json
 
 
 # test_inputs = [
