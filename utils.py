@@ -132,166 +132,45 @@ def formatParagraphType(response: str):
     
     return headings, bodies
 
-# def formatFlowchartType(response: str):
-#     steps = response.split("\n\n")
-#     questionMatcher = re.compile(r"\*\*.*\*\*")
-#     answerMatcher = re.compile(r"-\s+Yes:.+[^\n]")
-#     noMatcher = re.compile(r"-\s+No:.+[^\n]")
-    
-#     questions = []
-#     yes_actions = []
-#     no_actions = []
-#     q_json = []
-    
-#     for step in steps:
-#         if questionMatcher.search(step) != None:
-#             questions.append(questionMatcher.search(step).group().split("**")[1])
-#         else:
-#             questions.append(None)
-
-#         if answerMatcher.search(step) != None:
-#             yes_action = answerMatcher.search(step).group().split(": ")[1]
-#             if "question " in yes_action:
-#                 yes_actions.append(int(yes_action.split("question ")[1].split(" ")[0].split(".")[0]))
-#             else:
-#                 yes_actions.append(yes_action)
-#         else:
-#             yes_actions.append(None)
-
-#         if noMatcher.search(step) != None:
-#             no_action = noMatcher.search(step).group().split(": ")[1]
-#             if "question " in no_action:
-#                 no_actions.append(int(no_action.split("question ")[1].split(" ")[0].split(".")[0]))
-#             else:
-#                 no
-
-# def formatFlowchartType(response: str):
-#     steps = response.split("\n\n")
-#     questionMatcher = re.compile(r"\*\*.*\*\*")
-#     answerMatcher = re.compile(r"-\s+Yes:.+[^\n]")
-#     noMatcher = re.compile(r"-\s+No:.+[^\n]")
-    
-#     questions = []
-#     yes_actions = []
-#     no_actions = []
-#     q_json = []
-    
-#     for step in steps:
-#         if questionMatcher.search(step) is not None:
-#             questions.append(questionMatcher.search(step).group().split("**")[1])
-#         else:
-#             questions.append(None)
-
-#         if answerMatcher.search(step) is not None:
-#             yes_action = answerMatcher.search(step).group().split(": ")[1]
-#             if "question " in yes_action:
-#                 yes_actions.append(int(yes_action.split("question ")[1].split(" ")[0].split(".")[0]))
-#             else:
-#                 yes_actions.append(yes_action)
-#         else:
-#             yes_actions.append(None)
-
-#         if noMatcher.search(step) is not None:
-#             no_action = noMatcher.search(step).group().split(": ")[1]
-#             if "question " in no_action:
-#                 no_actions.append(int(no_action.split("question ")[1].split(" ")[0].split(".")[0]))
-#             else:
-#                 no_actions.append(no_action)
-#         else:
-#             no_actions.append(None)
-
-#     # Combine the results into a JSON-friendly format
-#     for i, question in enumerate(questions):
-#         q_json.append({
-#             "question": question,
-#             "yes_action": yes_actions[i],
-#             "no_action": no_actions[i]
-#         })
-
-#     return q_json
-
-# def formatFlowchartType(response: str):
-#     steps = response.split("\n\n")
-#     questionMatcher = re.compile(r"\*\*.*\*\*")
-#     answerMatcher = re.compile(r"-\s+Yes:.+[^\n]")
-#     noMatcher = re.compile(r"-\s+No:.+[^\n]")
-    
-#     questions = []
-#     yes_actions = []
-#     no_actions = []
-    
-#     for step in steps:
-#         if questionMatcher.search(step) is not None:
-#             questions.append(questionMatcher.search(step).group().split("**")[1])
-#         else:
-#             questions.append(None)
-
-#         if answerMatcher.search(step) is not None:
-#             yes_action = answerMatcher.search(step).group().split(": ")[1]
-#             if "question " in yes_action:
-#                 yes_actions.append(int(yes_action.split("question ")[1].split(" ")[0].split(".")[0]))
-#             else:
-#                 yes_actions.append(yes_action)
-#         else:
-#             yes_actions.append(None)
-
-#         if noMatcher.search(step) is not None:
-#             no_action = noMatcher.search(step).group().split(": ")[1]
-#             if "question " in no_action:
-#                 no_actions.append(int(no_action.split("question ")[1].split(" ")[0].split(".")[0]))
-#             else:
-#                 no_actions.append(no_action)
-#         else:
-#             no_actions.append(None)
-
-#     # Combine the results into a map with a single key "flowchart"
-#     return {
-#         "flowchart": [
-#             {
-#                 "question": questions[i],
-#                 "yes_action": yes_actions[i],
-#                 "no_action": no_actions[i]
-#             }
-#             for i in range(len(questions))
-#         ]
-#     }
 
 def formatFlowchartType(response: str):
     steps = response.strip().split("\n\n")
-    
-    questionMatcher = re.compile(r"\*\*(.+?)\*\*")
-    answerMatcher = re.compile(r"-\s+Yes:\s*(.+)")
-    noMatcher = re.compile(r"-\s+No:\s*(.+)")
+
+    questionMatcher = re.compile(r"\*\*(.+?)\*\*")  # Matches any text inside ** **
+    yesMatcher = re.compile(r"Yes:\s*(.+?)(?=(?:\s*-\s+No:|\Z))", re.DOTALL)  # Matches Yes actions
+    noMatcher = re.compile(r"No:\s*(.+?)(?=(?:\n|$))", re.DOTALL)  # Matches No actions
 
     flowchart = []
 
     for step in steps:
-        question = questionMatcher.search(step)
-        yes_action = answerMatcher.search(step)
-        no_action = noMatcher.search(step)
+        # Check if step contains a question (marked by **)
+        question_match = questionMatcher.search(step)
+        yes_action_match = yesMatcher.search(step)
+        no_action_match = noMatcher.search(step)
         
-        question_text = question.group(1).strip() if question else None
-        yes_text = yes_action.group(1).strip() if yes_action else None
-        no_text = no_action.group(1).strip() if no_action else None
-        
-        # Convert 'Proceed to question X' to numeric reference
-        if yes_text and "question" in yes_text:
-            try:
-                yes_text = int(re.search(r"question (\d+)", yes_text).group(1))
-            except AttributeError:
-                pass  # Leave as-is if no number is found
-        if no_text and "question" in no_text:
-            try:
-                no_text = int(re.search(r"question (\d+)", no_text).group(1))
-            except AttributeError:
-                pass  # Leave as-is if no number is found
-        
-        # Add to flowchart list
-        flowchart.append({
-            "question": question_text,
-            "yes_action": yes_text,
-            "no_action": no_text
-        })
+        if question_match:
+            question_text = question_match.group(1).strip()
+            yes_text = yes_action_match.group(1).strip() if yes_action_match else None
+            no_text = no_action_match.group(1).strip() if no_action_match else None
+            
+            # Convert 'Proceed to question X' to numeric reference
+            if yes_text and "question" in yes_text:
+                try:
+                    yes_text = int(re.search(r"question (\d+)", yes_text).group(1))
+                except AttributeError:
+                    pass  # Leave as-is if no number is found
+            if no_text and "question" in no_text:
+                try:
+                    no_text = int(re.search(r"question (\d+)", no_text).group(1))
+                except AttributeError:
+                    pass  # Leave as-is if no number is found
+
+            # Add the question and actions to the flowchart
+            flowchart.append({
+                "question": question_text,
+                "yes_action": yes_text,
+                "no_action": no_text
+            })
 
     return {"flowchart": flowchart}
 
