@@ -45,15 +45,12 @@ def getResponseFromLLM(model_name: str, input: str, category: str):
 
     Create Simple Yes/No Questions: Turn the main question into smaller questions that can be answered with a 'Yes' or a 'No'. Each question should be easy to understand, using basic language.
 
-    Design a Flowchart: Arrange these Yes/No questions in a flowchart format. This means that each 'Yes' or 'No' answer will lead to the next step or question. Ensure the flowchart is logical and guides the user towards a final answer or action.
-
-    Provide Clear Outcomes: For every possible path through the Yes/No questions (every combination of 'Yes' and 'No' answers), give a clear, final outcome. This outcome should be straightforward and offer guidance or information in response to the original question.
+    Provide Clear Outcomes: For every possible path through the Yes/No questions (every combination of 'Yes' and 'No' answers), give a clear, final outcome. This outcome should be straightforward and offer guidance or information in response to the original question. Don't make a seperate section for this. Incorporate it in the Yes/No Questions.
 
     Keep it Relevant to India: Make sure your questions and outcomes are suitable and accurate for someone in India. Use examples, language, and context that make sense locally.
 
     Be Elaborate and Accurate: Even though the language should be simple, ensure your answers cover all necessary details and are correct. Aim to leave no room for confusion or misinterpretation.
 
-    At the end of the flowchart, based on the paths taken through the Yes/No questions, provide a final answer or advice that directly addresses the user's original query. Remember, your goal is to make the process as clear and helpful as possible, even for someone who might not be familiar with the topic.
     Here is the question: {user_input_eng}"""
     )
     
@@ -136,14 +133,14 @@ def formatParagraphType(response: str):
 def formatFlowchartType(response: str):
     steps = response.strip().split("\n\n")
 
-    questionMatcher = re.compile(r"\*\*(.+?)\*\*")  # Matches any text inside ** **
-    yesMatcher = re.compile(r"Yes:\s*(.+?)(?=(?:\s*-\s+No:|\Z))", re.DOTALL)  # Matches Yes actions
-    noMatcher = re.compile(r"No:\s*(.+?)(?=(?:\n|$))", re.DOTALL)  # Matches No actions
+    questionMatcher = re.compile(r"^\d+\.\s*(.+)")  # Matches the numbered question at the start of a line
+    yesMatcher = re.compile(r"-\s*Yes:\s*(.+?)(?=\s*-\s*No:|\Z)", re.DOTALL)  # Matches Yes actions
+    noMatcher = re.compile(r"-\s*No:\s*(.+?)(?=\n|$)", re.DOTALL)  # Matches No actions
 
     flowchart = []
-
+    
     for step in steps:
-        # Check if step contains a question (marked by **)
+        # Check if step contains a question (marked by "1. ", "2. ", etc.)
         question_match = questionMatcher.search(step)
         yes_action_match = yesMatcher.search(step)
         no_action_match = noMatcher.search(step)
@@ -153,18 +150,6 @@ def formatFlowchartType(response: str):
             yes_text = yes_action_match.group(1).strip() if yes_action_match else None
             no_text = no_action_match.group(1).strip() if no_action_match else None
             
-            # Convert 'Proceed to question X' to numeric reference
-            if yes_text and "question" in yes_text:
-                try:
-                    yes_text = int(re.search(r"question (\d+)", yes_text).group(1))
-                except AttributeError:
-                    pass  # Leave as-is if no number is found
-            if no_text and "question" in no_text:
-                try:
-                    no_text = int(re.search(r"question (\d+)", no_text).group(1))
-                except AttributeError:
-                    pass  # Leave as-is if no number is found
-
             # Add the question and actions to the flowchart
             flowchart.append({
                 "question": question_text,
@@ -173,7 +158,6 @@ def formatFlowchartType(response: str):
             })
 
     return {"flowchart": flowchart}
-
 
 
 # test_inputs = [
