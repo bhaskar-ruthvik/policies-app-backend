@@ -133,14 +133,12 @@ def formatParagraphType(response: str):
 def formatFlowchartType(response: str):
     steps = response.strip().split("\n\n")
 
-    questionMatcher = re.compile(r"^\d+\.\s*(.+)")  # Matches the numbered question at the start of a line
-    yesMatcher = re.compile(r"-\s*Yes:\s*(.+?)(?=\s*-\s*No:|\Z)", re.DOTALL)  # Matches Yes actions
-    noMatcher = re.compile(r"-\s*No:\s*(.+?)(?=\n|$)", re.DOTALL)  # Matches No actions
-
+    questionMatcher = re.compile(r"^\d+\.\s*(.+)") 
+    yesMatcher = re.compile(r"-\s*Yes:\s*(.+?)(?=\s*-\s*No:|\Z)", re.DOTALL)  
+    noMatcher = re.compile(r"-\s*No:\s*(.+?)(?=\n|$)", re.DOTALL) 
     flowchart = []
     
     for step in steps:
-        # Check if step contains a question (marked by "1. ", "2. ", etc.)
         question_match = questionMatcher.search(step)
         yes_action_match = yesMatcher.search(step)
         no_action_match = noMatcher.search(step)
@@ -150,7 +148,6 @@ def formatFlowchartType(response: str):
             yes_text = yes_action_match.group(1).strip() if yes_action_match else None
             no_text = no_action_match.group(1).strip() if no_action_match else None
             
-            # Add the question and actions to the flowchart
             flowchart.append({
                 "question": question_text,
                 "yes_action": yes_text,
@@ -160,40 +157,6 @@ def formatFlowchartType(response: str):
     return {"flowchart": flowchart}
 
 
-# test_inputs = [
-#     "How can a woman with no financial support find a safe place to live?",
-#     "Can women who left home due to violence get shelter?",
-#     "What aid is available for women affected by HIV without support?",
-#     "How do I get support if I lost my job and need money?",
-#     "Are children allowed in shelters for women in difficulty?"
-# ]
-
-# # Expected categories
-# expected_categories = [
-#     "Procedure-Based Question",
-#     "Yes/No Question",
-#     "Informative Paragraph Question",
-#     "Procedure-Based Question",
-#     "Yes/No Question"
-# ]
-
 model_name= "gpt-4o"
 
-# print("Testing getCategoryOfInput function...")
-# for i, input_text in enumerate(test_inputs):
-#     category = getCategoryOfInput(model_name, input_text)
-#     print(f"Input: {input_text}")
-#     print(f"Expected Category: {expected_categories[i]}")
-#     print(f"Predicted Category: {category}")
-#     print(f"Test Passed: {category == expected_categories[i]}")
-#     print()
 
-# Test getResponseFromLLM function
-# print("Testing getResponseFromLLM function...")
-# for i, input_text in enumerate(test_inputs):
-#     category = expected_categories[i]
-#     response = getResponseFromLLM(model_name, input_text, category)
-#     print(f"Input: {input_text}")
-#     print(f"Category: {category}")
-#     print(f"Response: {response}")
-#     print()
