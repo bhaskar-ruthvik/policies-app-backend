@@ -51,6 +51,8 @@ def getResponseFromLLM(model_name: str, input: str, category: str):
 
     Be Elaborate and Accurate: Even though the language should be simple, ensure your answers cover all necessary details and are correct. Aim to leave no room for confusion or misinterpretation.
 
+    When formatting how type questions, format it such that there are no "*"s used and the response is given as 1. question, next line "- Yes:" what to do, next line "- No:" what to do
+
     Here is the question: {user_input_eng}"""
     )
     
