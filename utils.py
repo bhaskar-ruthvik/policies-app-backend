@@ -5,11 +5,21 @@ from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain.chains import LLMChain
 
+
 load_dotenv()
+key = os.getenv("OPENAI_API_KEY")
 
-key = os.environ.get('OPENAI_API_KEY')
+# Load FAISS vector store and embeddings
+DB_FAISS_PATH = 'vectorstores/db_faiss'
+embeddings = OpenAIEmbeddings(api_key=key)
+vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
 
-def getResponseFromLLM(model_name: str, input: str, category: str):
+def retrieveDocuments(input_text):
+    # Retrieve documents from FAISS based on the input
+    retrieved_documents = vectorstore.as_retriever().get_relevant_documents(input_text)
+    return retrieved_documents
+
+def getResponseFromLLM(model_name: str, input: str, category: str, context: str):
     llm = ChatOpenAI(temperature=0, model=model_name, openai_api_key=key)
     
     prompt_what = ChatPromptTemplate.from_template(
@@ -24,6 +34,7 @@ def getResponseFromLLM(model_name: str, input: str, category: str):
     4. *Keep Context in Mind:* Remember, your answers should make sense to someone living in India. Use examples or explanations that fit with what's common or known in India.
 
     When answering a question that asks for a detailed explanation on a topic (like explaining a concept or providing a list of needed items or steps), use these rules to create your response. Aim to be helpful and clear without using complicated language or ideas.
+    This is the context, based on this information, answer the question: {context}
     Here is the question : {user_input_eng}""")
     
     prompt_is = ChatPromptTemplate.from_template(
@@ -38,6 +49,7 @@ def getResponseFromLLM(model_name: str, input: str, category: str):
     4. *Be Positive and Helpful:* Even if the answer is 'No', try to keep your explanation positive and helpful. If possible, offer a brief suggestion or an alternative idea.
 
     Your goal is to provide straightforward, helpful answers that anyone can understand, especially focusing on topics relevant to India. This approach helps make sure your response is both useful and easy to read for people with different levels of reading skills.
+    This is the context, based on this information, answer the question: {context}
     Here is the question : {user_input_eng}""")
     
     prompt_how = ChatPromptTemplate.from_template(
@@ -53,18 +65,19 @@ def getResponseFromLLM(model_name: str, input: str, category: str):
 
     When formatting how type questions, format it such that there are no "*"s used and the response is given as 1. question, next line "- Yes:" what to do, next line "- No:" what to do
 
+    This is the context, based on this information, answer the question: {context}
     Here is the question: {user_input_eng}"""
     )
     
     if category == "Procedure-Based Question":
         chain = LLMChain(llm=llm, prompt=prompt_how)
-        response = chain.run(user_input_eng=input)
+        response = chain.run(user_input_eng=input, context=context)
     elif category == "Yes/No Question":
         chain = LLMChain(llm=llm, prompt=prompt_is)
-        response = chain.run(user_input_eng=input)
+        response = chain.run(user_input_eng=input, context=context)
     elif category == "Informative Paragraph Question":
         chain = LLMChain(llm=llm, prompt=prompt_what)
-        response = chain.run(user_input_eng=input)
+        response = chain.run(user_input_eng=input, context=context)
 
     return response
 
@@ -77,25 +90,12 @@ def getCategoryOfInput(model_name: str, input: str):
 
     Procedure-Based Questions:
     Definition: These questions require a detailed, step-by-step guide or process as an answer. They are focused on how to accomplish a specific task or achieve a particular outcome.
-    Key Indicators: Look for questions that ask "How to," "What are the steps," or "What should I do to."
-    Examples:
-    "How can a woman with no financial support find a safe place to live?"
-    "I want to buy a house. How much money can I withdraw from my PF?"
-    "How do I get support if I lost my job and need money?"
+    
     Yes/No Questions:
-    Definition: These questions can be directly answered with a "Yes" or "No," potentially followed by a succinct explanation. They typically inquire about the possibility, availability, or existence of something.
-    Key Indicators: Questions that can be directly responded to with a binary answer.
-    Examples:
-    "Can women who left home due to violence get shelter?"
-    "Is there support for women who have been trafficked?"
-    "Are children allowed in shelters for women in difficulty?"
+    Definition: These questions can be directly answered with a "Yes" or "No," potentially followed by a succinct explanation.
+
     Informative Paragraph Questions:
-    Definition: These questions demand an answer in the form of a comprehensive, informative paragraph. They generally request explanations, definitions, or detailed information about a specific subject.
-    Key Indicators: Questions that ask "What," "Which," or "Who" that seek detailed information or explanation, but not in a step-by-step format.
-    Examples:
-    "What aid is available for women affected by HIV without support?"
-    "Which programs offer help for women in India above 58?"
-    "What aid is there for students from poor families for higher education?"
+    Definition: These questions demand an answer in the form of a comprehensive, informative paragraph.
 
     Now which category does this {input} belong to?
     The answer should exactly with no other text be one of the following:
@@ -109,6 +109,34 @@ def getCategoryOfInput(model_name: str, input: str):
     category = chain.run(input=input)
 
     return category
+
+def formatFlowchartType(response: str):
+    steps = response.strip().split("\n\n")
+
+    questionMatcher = re.compile(r"^\d+\.\s*(.+)") 
+    yesMatcher = re.compile(r"-\s*Yes:\s*(.+?)(?=\s*-\s*No:|\Z)", re.DOTALL)  
+    noMatcher = re.compile(r"-\s*No:\s*(.+?)(?=\n|$)", re.DOTALL) 
+    flowchart = []
+    
+    for step in steps:
+        question_match = questionMatcher.search(step)
+        yes_action_match = yesMatcher.search(step)
+        no_action_match = noMatcher.search(step)
+        
+        if question_match:
+            question_text = question_match.group(1).strip()
+            yes_text = yes_action_match.group(1).strip() if yes_action_match else None
+            no_text = no_action_match.group(1).strip() if no_action_match else None
+            
+            flowchart.append({
+                "question": question_text,
+                "yes_action": yes_text,
+                "no_action": no_text
+            })
+
+    return {"flowchart": flowchart}
+
+
 
 def formatParagraphType(response: str):
     headingRegex = re.compile(r'\*\*.*\*\*')
@@ -160,5 +188,3 @@ def formatFlowchartType(response: str):
 
 
 model_name= "gpt-4o"
-
-
