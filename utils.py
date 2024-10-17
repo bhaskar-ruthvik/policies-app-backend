@@ -1,10 +1,15 @@
 import os
 from dotenv import load_dotenv
 import re
+from flask import Flask, jsonify, request
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from langchain.chains import LLMChain
-from langchain.embeddings import OpenAIEmbeddings
+from langchain.embeddings.openai import OpenAIEmbeddings  
+from langchain.vectorstores import FAISS 
+from langchain.document_loaders import TextLoader 
+from langchain.text_splitter import RecursiveCharacterTextSplitter  
+from langchain.schema import Document 
 
 
 load_dotenv()
