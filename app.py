@@ -48,9 +48,18 @@ def setup_vector_store():
     else:
         print("FAISS vector store already exists.")
 
-setup_vector_store()
-vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
+def load_vector_store():
+    if os.path.exists(DB_FAISS_PATH):
+        print("Loading pre-built FAISS vector store...")
+        return FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
+    else:
+        raise FileNotFoundError(f"FAISS vector store not found at {DB_FAISS_PATH}. Please upload the vector store.")
 
+
+#setup_vector_store()
+#vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
+
+vectorstore = load_vector_store()
 
 @app.route('/',methods=["POST"])
 def index():
