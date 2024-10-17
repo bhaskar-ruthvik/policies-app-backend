@@ -10,6 +10,8 @@ from langchain.embeddings.openai import OpenAIEmbeddings
 from langchain.chains import RetrievalQA
 from langchain.prompts import ChatPromptTemplate
 from langchain_openai import ChatOpenAI
+import re
+from dotenv import load_dotenv
 
 app = Flask(__name__)
 model = "gpt-4o"
