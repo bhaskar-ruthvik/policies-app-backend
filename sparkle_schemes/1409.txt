@@ -1,0 +1,41 @@
+SVAMITVA Yojana (Survey of Villages and Mapping with Improvised Technology in Village Areas)
+Ministry Of Panchayati Raj
+DronePropertyRuralSurveyVillage
+Details
+SVAMITVA, a Central Sector scheme of the Ministry of Panchayati Raj provides a ‘Record of Rights’ to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners by mapping land parcels using drone technology.
+Objectives
+Creation of accurate land records for rural planning and reducing property-related disputes.
+To bring financial stability to the citizens in rural India by enabling them to use their property as a financial asset for taking loans and other financial benefits.
+Determination of property tax, which would accrue to the GPs directly in States where it is devolved or else, add to the State exchequer.
+Creation of survey infrastructure and GIS maps that can be leveraged by any department for their use. 
+To support in the preparation of a better-quality Gram Panchayat Development Plan (GPDP) by making use of GIS maps
+The scheme is a reformative step towards the establishment of clear ownership of property in rural inhabited (Abadi) areas, by mapping of land parcels using drone technology and providing ‘Record of Rights’ to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners. 
+There are about 6.62 lakh villages in the country which will be eventually covered in this scheme. The entire work is likely to be spread for five years.
+
+Benefits
+Drone Digitally Maps All the Land Parcels of the Inhabited Area of the Village.
+Creation of Property Cards on the Exact Area of Each Property in the Village.
+Proprietary Rights to the Village Household Owner.
+Property as a Financial Asset for Taking Loans and Other Financial Benefits.
+Reduce Property Disputes and Legal Cases.
+Determination of Property Tax.
+Creation of Accurate Land Records for Rural Planning.
+Better Gpdp - Leveraging Gis Database/ Maps Created for Better Planning and Execution of Plans.
+Eligibility
+The applicant should have a property in rural inhabited (Abadi) area.
+Application Process
+Offline
+Pre-Survey Activities
+Step 1: Permission is sought to conduct the survey, followed by organizing a Gram Sabha to inform villagers about the schedule, methodology, and benefits.
+Step 2: Identification, marking, and delineation of properties, including government assets, Gram Sabha land parcels, individual properties, roads, and open plots, are carried out.
+Step 3: Public notification is issued for the survey area, along with obtaining permission for drone flights.
+Survey Activities
+Step 1: The CORS network is established, and ground control points are set up.
+Step 2: Drone images are acquired, processed, and used for generating digital maps.
+Post Survey Activities
+Step 1: An inquiry/objection process is initiated to verify land parcel ownership, resolve disputes, and issue property cards to village household owners.
+Step 2: Regular record updates and storage maintenance are ensured alongside training and capacity-building for government officials involved in the scheme.
+Documents Required
+Identity Proof of the Property Owners.
+Proof of Ownership of the Property Owners.
+Any other documents as required by the Revenue Officials.

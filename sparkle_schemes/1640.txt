@@ -1,0 +1,39 @@
+Phase-II Of The Grid Connected Rooftop Solar Programme
+Ministry Of New and Renewable Energy
+InfrastructureSolar
+Details
+Phase-II of the Grid Connected Rooftop Solar Programme, is introduced by Ministry of New & Renewable Energy (MNRE), Government of India with Jammu & Kashmir Energy Development Agency (JAKEDA) as a nodal agency in the U.T of Jammu & Kashmir for achieving cumulative capacity  of 220MW under 20MW  Residential Scheme and 200 MW Jammu Solar City “Solar City Mission” respectively.
+Objectives:
+The key objectives of the programme are:
+To promote grid connected RTS in all consumer segments, viz., residential, institutional, social, Govt., commercial, industrial etc.
+To bring DISCOMs at forefront as key drivers for rapid deployment of RTS.
+To create awareness, capacity building, human resource development, etc.
+To promote sustainable business models.
+To create additional RTS capacity of 38000 MW in the country by 31.12.2022 out of which a capacity of 4000 MW in residential sector with Central Financial Assistance and 34000 MW in other sectors (i.e., Social, Government, educational, PSUs, Statutory /Autonomous bodies, Private Commercial, Industrial Sectors etc.) by suitably incentivizing DISCOMs.
+To promote domestic manufacturing of solar cells and module.
+
+Benefits
+Benefits of Phase II GCRT Scheme: 
+A single platform to monitor various Solar PV based plants. 
+Consumer gets a subsidy of 40% for 1-3 KW and 20% for above 3Kw capacity.
+Consumer can apply hassle free through “National Portal For Rooftop Solar” on http://solarrooftop.gov.in.
+Consumer has to pay only Beneficiary Share  and CFA will be disbursed to Empaneled  Vendor directly after proper inspection by Jammu & Kashmir Energy Development Agency (JAKEDA).
+Eligibility
+Residential consumers and Group Housing Society can apply for the installation of a solar rooftop system.
+If you have electricity connection in your name and you pay regularly the electricity bill in your own name and also you have the permission of use the roof for solar rooftop installation from the owner, you can install the RTS.
+Application Process
+Online
+The applicants willing to install rooftop solar system under simplified procedure will be required to apply through National Portal. In order to register at National Portal the applicant will require an active mobile number and an active e-mail id. The applicant will also have to download SANDES APP for received OTP.
+The entire process has been explained in the following steps.
+Step-1: Download SANDES app and register on the National Portal by selecting the local Distribution Company or Electricity department, as the case may be, referred as DISCOM, and enter Electricity connection number / Consumer number  mentioned in electricity bill), email id and mobile number. The registration process involves OTP authentication of mobile number and activation through email id. While sending activation link on email, the entire procedure will also be communicated to the applicant.
+Step-2: After successful registration the applicant can proceed for submitting application for installation of grid connected rooftop solar system at residential house. The information already entered at the time of registration will be prefilled in the application form and the applicant will have to enter details such as, name on electricity bill, address, capacity of proposed rooftop solar system and details of existing rooftop solar system capacity installed, if any. The applicant also has to upload copy of latest electricity bill. On submission of application, the applicant will get a copy of application on email and it can also be downloaded after login to the portal. 
+Step-3: Application will be forwarded to the DISCOM for technical feasibility approval as per prevailing regulations. The applicant is advised to initiate installation of the rooftop solar system only after getting the feasibility approval from DISCOM. The technical feasibility approval or rejection, as the case may be, will be informed to the applicant through email.
+Step-4. On receipt of feasibility approval from DISCOM, the applicant can proceed to install rooftop solar system. It is mandatory to get the rooftop solar system installed from any of the vendor registered/empaneled with DISCOM. Ministry has specified minimum technical specifications and standards for rooftops solar systems, which are to be followed. The applicant will have the option to choose equipment of higher quality/efficiency. The domestically manufactured solar modules using domestically manufactured solar cells listed in the ALMM should only be used by the applicant. In addition, the inverter should also be BIS certified. In order to protect the interest of the applicant an agreement to be signed between applicant and the vendor and a model format of the agreement is available on National Portal under Help Document section. It is mandatory for the vendor to provide comprehensive maintenance of the rooftop solar plant installed by the firm for at least 5 years.
+Step-5: On completion of installation of rooftop solar system, the applicant has to submit project completion details for net-metering and approval (The project completion details will include wattage, make and numbers of solar modules, make and wattage of inverter, name of vendor that has installed the system, uploading of photograph of system, etc). Applicant also has to apply for net-metering. The net-metering application will forwarded to DISCOM and applicant has to follow instructions of DISCOM regarding payment of net-metering charges, signing of net-metering agreement, etc., as applicable.
+Step-6: DISCOM officials will install the net-meter and inspect the system for fulfilment of minimum technical specifications and standards.
+Step-7: Upon successful inspection and installation of net-meter, commissioning certificate would be generated online by DISCOM.
+Step-8: Applicant has to submit bank details and upload copy of cancelled cheque. The fund handling agency will release the central Government subsidy directly into the bank account. The details of central Government subsidy available under simplified procedure may be checked on the National Portal.
+Note: The applicant shall also check various informative material placed at Help Document section of the portal for better understanding of the procedure.
+Apply Now
+Documents Required
+1. copy of the latest electricity bill

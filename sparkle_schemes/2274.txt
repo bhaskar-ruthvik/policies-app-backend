@@ -1,0 +1,54 @@
+Old Age Assistance
+Delhi
+Financial AssistanceOld Age HelpSenior CitizenSocial Welfare
+Details
+The Delhi government has launched an Old Age Pension Program, which aims to provide financial assistance to eligible senior citizens in the form of periodic pensions. Under this scheme, candidates aged 60-69 years receive monthly financial assistance.
+The Financial Assistance Scheme is only available to Delhi residents who meet the eligibility criteria established by the Government of National Capital Territory of Delhi (GNCTD) for annual income and residency within the city, as mandated by the government directive. However, the scheme also includes provisions for individuals who do not have proof of residence to submit.
+
+Benefits
+Eligible candidates in the 60–69 age range financial assistance of Rs. 2,000/- per month. 
+The government also gives SC/ST/Minority group members an extra Rs. 500/- month.
+Rs. 2,500/- per month will be given to people over 70 years. 
+Eligibility
+Applicants must be 60 years or older.
+They must have resided in Delhi for a minimum of five years before the date of application.
+The applicant's annual family income from all sources, including rent, interest/dividends on savings and investments, earnings from farming, property sale proceeds, etc., should be less than Rs. 1,00,000.
+The applicant must have an Aadhaar number.
+The applicant must have a singly-operated account in any bank within the National Capital Territory of Delhi only for receiving payment through the Public Financial Management System (PFMS).
+The applicant must not be receiving any pension/financial assistance from the Central Government/State Government/other governmental local bodies or any other source for this purpose.
+Application Process
+Online
+Applicants have to visit https://edistrict.delhigovt.nic.in/
+Under Citizen Corner click on New User
+Click on select the document – Aadhar or Voter ID
+Enter your Aadhar Card Number/Voter ID Card Number
+Type the Captcha in the box shown
+
+Citizen Registration Form will Open for registration 
+Fill up all fields including details of the Present Residential Address
+Enter Captcha, and Click on Continue.
+Login ID and Password will be received on the given mobile number/e-mail address.
+Now Registration on the e-district portal is complete
+
+Registration for Financial Assistance Services
+Click on Registered User Login
+Enter the given login ID and Password
+Enter Captcha and Click on Login
+Go to Main Page (Main Page) will open click on apply online.
+Drop Box apply for services will open – click
+List of Departments providing online services shall open –
+Select Department of Social Welfare and click on scheme name
+The form will open fill up all required fields & upload all required documents as per the requirement of the scheme selected.
+Then click next and upload a photograph
+Then click on finish.
+One OTP will be received on the registered mobile number.
+Enter OTP and Submit.
+Acknowledgment of successful submission shall be generated.
+Documents Required
+Age proof.
+Residence proof.
+Bank account number (Single account).
+In the case of SC/ST applicants in the age bracket 60-69 years, a caste certificate in the name of the applicant issued by the Competent Authority has to be submitted. 
+In the case of Minority applicants within 60-69 years, self-declaration of the religion of the applicant duly verified by the religious institution has to be submitted.
+One passport-size photo of the applicant.
+Income self-declaration in the format given on the portal itself.

@@ -1,0 +1,45 @@
+Cash Award (A.B.O.C.W.W.B)
+Assam
+Building WorkerCash AwardConstruction WorkerLabourStudent
+Details
+The “Cash Award” scheme was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, cash awards shall be given to the three male & three female children of the registered construction workers in each district to those students who score 75% or above, 65% or less than 75%, and 55% or less than 65% mark in HSLC, AHM and H.S. examinations.
+
+Benefits
+The cash awards shall be given to the children of the beneficiaries who score 75% or above, 65% or less than 75%, and 55% or less than 65% mark @ ₹5,000/-, ₹4,000/- and ₹3,500/- respectively in HSLC, AHM, and H.S. examinations.
+The Board offers cash awards to three male and three female children of the beneficiaries in each district.
+Eligibility
+The applicant student should be a permanent resident of Assam.
+The applicant’s parent should be engaged in any building & other construction work.
+The applicant’s parent should be registered with the Assam Building and Other Construction Workers Welfare Board.
+The parent of the applicant should have an active membership with the Board.
+To avail of the benefits of the scheme, students must have obtained a minimum of 55% or above in the HSLC, AHM, and H.S. examinations.
+Application Process
+Online
+Online - Via CSCs
+Application Process to apply under the scheme:
+Step 01: To avail the benefits of the scheme, the eligible applicant may apply through the Official Portal. https://abocwwb.assam.gov.in/
+Step 02: On the home page of the portal, click on ‘Login Now’ and enter the registered Mobile Number or User ID. OTP received on the registered mobile number should be entered to complete the login.
+Step 03: The individual console of the applicant gets opened with various functions such as detail updating, Fees due, and benefits eligible.
+Step 04: Click on ‘Benefit’ and select the applicable scheme (Cash Award Benefit) under the benefit and the portal redirects to an online application form specific to the scheme.
+Step 05: The applicant may fill up the application with all mandatory fields and upload the necessary documents.
+Step 06: The applicant submits the application form and a tracking/reference number is generated as a future reference for the applicant.
+Post-Application Process:
+Step 01: Successfully submitted applications pop up in the concerned Officers console. The officer may assign a subordinate to make verifications through the portal.
+Step 02: Subsequent to preliminary verification, the application is placed in the scrutiny committee for detailed checks.
+Step 03: Minutes of the Scrutiny Committee meeting get uploaded and Forwarded to the H.O.
+Step 04: Applications/ Pops up in the Officer’s Console of Head Office. Officer assigns to the Assistant concerned and allotted with the District concerned.
+Step 05: The assistant processes the application through PFMS. Account details get auto-verified in PFMS.
+Step 06: On successful PFMS verification, Print Advice is generated through PFMS.
+Step 07: Approving authority approves for disbursement of the benefit through PFMS.  
+(User Manual)
+Documents Required
+1. ABOCWWB ID Card
+2. Applicant's Photo
+3. Signature of the Parent
+4. Signature of the Applicant Student
+5. Attested Copy of the ID Card of the Father/Mother
+6. Attested Copy of the Pass Certificate from the Head of the Institution
+7. Attested Copy of the Mark sheet of the Exam
+8. Copy of Payslip of Account Paybook
+9. Caste Certificate (Other than General category)
+10. Any other relevant documents

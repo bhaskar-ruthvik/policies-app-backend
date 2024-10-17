@@ -1,0 +1,71 @@
+Krishi Yantra
+Rajasthan
+DevelopmentEquipmentFarmerFarming
+Details
+The Krishi Yantra Scheme under the Agriculture Department of the Rajasthan government has decided to start the Agricultural Machinery Subsidy Scheme for the convenience of farmers. In this scheme, if the farmer purchases farming equipment from an authorized dealer, then the state government gives a subsidy to the farmers which is 40% of the total price. Up to 50% subsidy is given to government farmers.
+
+Payment of grant
+Physical verification of the instrument will be done by the Agriculture Supervisor/Assistant Agriculture Officer.
+Purchase bill will have to be presented at the time of verification.
+The grant will be paid online into the farmer's bank account.
+
+Benefits
+Grant Details : Details of grant payable scheme-wise and category-wise of instruments
+
+S. No. Mechanization (Tractor/Power Operated Equipment) Horsepower Range SC/ST/small/marginal and women farmers Other category farmers
+1 Seed drill/seed cum fertilizer drill 20 B.H.P. With a capacity of less than 35 B.H.P. to a capacity of more than 50 percent of the price or maximum ₹15,000-₹28,000 whichever is less.. 40 percent of the price or maximum ₹12,000-₹22,400, whichever is less.
+2 Disc Plough/Disc Harrow 20 B.H.P. ( Brake Horse Power) With a capacity of less than 35 B.H.P. to a capacity of more than 50 percent of the value or maximum ₹20,000-₹50,000 whichever is less 40 percent of the price or maximum ₹16,000-₹40,000, whichever is less
+3 Rotovator 20 B.H.P. With a capacity of less than 35 B.H.P. to a capacity of more than 50 percent of the price or maximum ₹42,000-₹50,400. Whichever is less 40 percent of the price or maximum ₹34,000-₹40,300, whichever is less. 
+4 Multi crop thresher 20 B.H.P. With a capacity of less than 35 B.H.P. to a capacity of more than 50 percent of the value or maximum ₹30,000-₹1,00,000. whichever is less. 40 percent of the value or maximum ₹25,000-₹80,000, whichever is less.
+5 Ridge Furrow Planter/ Multi Crop Planter/ Tractor Operated Ripper 20 B.H.P. With a capacity of less than 35 B.H.P. to a capacity of more than 50 percent of the value or maximum ₹30,000-₹75,000. Whichever is less 40 percent of the price or maximum ₹24,000-₹60,000, whichever is less.
+6 Chisel plow 20 B.H.P. With a capacity of less than 35 B.H.P. to a capacity of more than 50 percent of the price or maximum ₹10,000-₹20,000. Whichever is less 40 percent of the price or maximum ₹8,000-₹16,000, whichever is lower. 
+
+
+The limit of maximum grant on agricultural equipment mentioned above is the BHP of their tractor/power tiller/power driven equipment. Based on capacity.
+
+Note- 
+Subsidy on all other approved agricultural machinery will be payable as per the provisions of Sub Mission on Agricultural Mechanization (SMAM).
+NFSM (Wheat and Pulses) Under the scheme, SMAM on agricultural equipment like Rotavator/Turbo Seeder, Multicrop Thresher, Seed Drill/Seed cum Fertilizer Drill, Disc Harrow/Disc Plow etc. The grant is payable as per the provisions of the scheme.
+Eligibility
+Own agricultural land in his/her own name.
+In case of undivided family, the applicant's name must be in the revenue record.
+For tractor-operated agricultural implements, the tractor must be registered in the applicant's name.
+Not have received a grant for the same type of agricultural implement in the last three years.
+Not have received a grant for more than 3 different types of agricultural implements in a financial year.
+Application Process
+Online
+Registration
+Step-1: Applicant have to visit the official portal. 
+Step-2: Click on the option “Register”.
+Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.
+  Citizen
+Step-4: Choose the either one option from  the Jan Aadhaar Or Google to process further.
+Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,
+Select your name, the name of the head of the family and all the other members and 
+Click on the ‘Send OTP’ button. Enter the ‘OTP’ and 
+Click on the ‘Verify OTP’ button to Complete the registration. 
+Google : Enter the Gmail ID, click on the ‘Next’ button, 
+Enter the password.
+A new link appear on screen, now click on new SSO link.
+SSO id will appear on screen, now create the password.
+Enter Mobile number, click on registration.
+Step-5: Complete the registration process.
+Apply
+Step-1: Applicant have to visit the official portal. 
+Step-2: After login, dashboard will open.
+Step-3: Click on “ RAJ-KISAN ” option. 
+Step-4: In "Citizen", click on "Application Entry Request".
+Step-5: Enter the "Bhamashah Family ID" or "Jan Aadhaar" and search.  
+Step-6: Select the person name and scheme name. 
+Step-7: Complete the Aadhaar Authentication and click on Get details. 
+Step-8: Provide the required details.
+            - Pensioner Details.
+            - Bank Details.
+            - Disability Details.
+            - Verification Details.
+            - Upload Documents.
+Step-9: Submit.
+Documents Required
+Aadhar Card / Jan Aadhar Card,
+Caste certificate, 
+Copy of tractor registration certificate (R.C.) (mandatory for tractor-driven equipment).

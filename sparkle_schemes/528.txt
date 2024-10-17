@@ -1,0 +1,99 @@
+Startup India Seed Fund Scheme- For Incubators
+Ministry Of Commerce And Industry
+Financial AssistanceIncubatorSeed FundStartup
+Details
+The scheme “Startup India Seed Fund Scheme (SISFS)” was launched by the Department for Promotion of Industry and Internal Trade (DPIIT) on 19th April 2021 with an outlay of INR 945 Crore to provide financial assistance to startups for Proof of Concept, prototype development, product trials, market-entry, and commercialization. Eligible startups can apply for the scheme on the Startup India portal. The Seed Fund will be disbursed to selected startups through eligible incubators across India.
+Objective Of The Scheme:
+Startup India Seed Fund Scheme (SISFS) aims to provide financial assistance to startups for proof of concept, prototype development, product trials, market-entry, and commercialization. This would enable these startups to graduate to a level where they will be able to raise investments from angel investors or venture capitalists or seek loans from commercial banks or financial institutions.
+Features:
+• Year-round ‘Call for Applications’ for Incubators and Startups
+• Sector-agnostic
+• No mandatory physical incubation
+• PAN-India startup programme
+• Startups can apply to 3 incubators simultaneously
+
+Benefits
+A Grant of up to ₹5 (five) crore would be provided to a selected incubator in milestone-based three (or) more installments.
+A component of Management Fee @ 5% of the Seed Fund grant to the incubator will be provisioned (i.e. if an incubator is granted ₹1 crore of Seed Fund, then by including management fee @ 5%, the total assistance would be ₹1.050 crore).
+Note 01: The exact quantum of grant and installments for each incubator will be decided by the Experts Advisory Committee (EAC) based on its evaluation.
+Note 02: Incubators shall use the grant only for disbursal to eligible startups and shall not use the grant for facility creation or any other expenses.
+Note 03: The Management Fee provisioned for incubators shall not be used by the incubator for facility creation or any other administrative expenses. The Management Fee will be utilized for administrative expenditure, selection and due diligence of startups, and monitoring of the progress of beneficiary startups.
+Note 04: Installments shall be released to incubators upon submission of proofs of achievement of milestones as decided by EAC. A Proportionate Management fee shall also be released with each installment.
+Note 05: The quantum of the first installment may be up to 40% of the total approved commitment. When the cash-in-hand of the incubator goes below 10% of the total commitment by EAC, the Incubator may request for the next installment, which shall be released to the incubator within 30 days of submission of proof of achievement of milestones.
+Note 06: The grant should be utilized fully by the incubator within a period of three years from the date of receipt of the first installment of funds.
+Note 07: If the Incubator has not utilized at least 50% of the total commitment within the first 2 years, then the Incubator will not be eligible for any further drawdowns. It will return all unutilized funds along with interest.
+Note 08: Interest earned on all unutilized funds available with incubators shall be taken into account and adjusted at the time of the next release.
+Note 09: The financing of beneficiaries will be done with efficiency and care. Selected incubators would be responsible for proper management and disbursement of the Seed Fund.
+Note 10: The selected incubator shall maintain a transparent process of selection, monitoring, and disbursement mechanism for the fund. Seed Fund would be disbursed to selected startups after due diligence by the incubator.
+Note 11: The incubators shall be responsible for providing physical infrastructure to the selected startups for regular functioning, support for testing and validating ideas, mentoring for prototype or product development or commercialization, and developing capacities in finance, human resources, legal compliances, and other functions. They are also expected to provide networking with investors and opportunities for showcasing at various national and international events. If the selected startup does not want to utilize the physical infrastructure of the incubator, the incubator shall offer all other resources and services to the startup.
+Note 12: A startup selected by an incubator for assistance under this scheme shall not be charged any fees.
+Eligibility
+The eligibility criteria for an incubator to apply in the Startup India Seed Fund scheme are as follows:
+1. Incubator must be a legal entity:
+    a) A society registered under the Societies Registration Act 1860, or
+    b) A Trust registered under the Indian Trusts Act 1882, or
+    c) A Private Limited company registered under the Companies Act 1956 or the Companies Act 2013, or
+    d) A statutory body created through an Act of the legislature.
+2. The incubator should be operational for at least two years from the date of application to the scheme.
+3. The incubator must have facilities to seat at least 25 individuals.
+4. The incubator must have at least 5 startups undergoing incubation physically on the date of application.
+5. The incubator must have a full-time Chief Executive Officer, experienced in business development and entrepreneurship, supported by a capable team responsible for mentoring startups in testing and validating ideas, as well as in finance, legal, and human resources functions.
+6. Incubator should not be disbursing seed funds to incubatees using funding from any third-party private entity.
+7. The incubator must have been assisted by the Central/State Government(s).
+8. In case the incubator has not been assisted by Central or State Government(s):
+    a) The incubator must be operational for at least three years.
+   b) Must have at least 10 separate startups undergoing incubation in the incubator physically on the date of application.
+   c) Must present audited annual reports for the last 2 years.
+Note: Any additional criteria as may be decided by the Experts Advisory Committee (EAC).
+Application Process
+Online
+Application Procedure:
+Step 01: The Call for Applications for incubators will be open online throughout the year.
+Step 02: Online Applications will be invited from incubators across India to participate in the scheme on https://www.startupindia.gov.in or any other platform specifically designated for the purpose. (https://seedfund.startupindia.gov.in/)
+Step 03: Applicants need to register on the Startup India portal, if not registered, using their details.
+Step 04: After successful registration, the applicant can login and apply under the scheme by selecting ‘Incubator’.
+Note 01: The application submission is completely online, and no physical submission of documents is required. 
+Note 02: There are no application fees for the scheme. Even after the selection of a startup by an incubator for assistance under this scheme, the startup shall not be charged any fees. The incubator or any of its staff members shall not charge any fee in cash or in kind from applicants or beneficiaries under the scheme for any process of selection, disbursement, incubation, or monitoring.
+Note 03: An incubator can reapply for funds under the Scheme when it has disbursed or committed its entire previously released grant.
+Selection of Incubators:
+Incubators shall be selected on the basis of the following parameters:
+1. Fulfillment of eligibility criteria
+2. Quality of the team of Incubator
+3. Available infrastructure, testing labs, etc.
+4. Composition of Incubator Seed Management Committee (ISMC)
+5. Incubation support provided by incubator in the last three years:
+No. of startups incubated
+No. of startups graduated, i.e. progressed from one stage of the business development cycle to the next
+No. of startups that raised follow-on investments
+No. of startups that crossed revenue of Rs 1 Cr in the last 1 year
+2-year survival rate of startups from the date of joining incubator
+6. Funding support extended to incubatees in the last three years:
+Investment agreements signed between incubators and startups
+No. of startups invested in
+Total corpus allocated to incubatees
+Total investments raised by incubatees from external sources
+7. Mentoring provided to incubatees in the last three years:
+No. of mentors hired
+Average mentoring hours allocated per startup per month
+No. of IP (patents, copyrights, designs, and trademarks) registered by incubatees
+8. Other support extended to incubatees in the last three years:
+Industry/Corporate connects
+Events held for stakeholder engagements
+Participation in other events
+9. Number of startups that the incubator intends to support
+10. Quantum of funds applied for, along with fund deployment plan with timelines
+11. Any other relevant parameters that decided by the Experts Advisory Committee (EAC).
+Documents Required
+Proof of legal entity Incubator
+Proof of assistance from Central/State Government
+Incorporation Certificate
+PAN Card of legal entity
+Board Resolution / Authorisation letter / PoA
+Aadhaar Card of authorized signatory
+Audited Annual Report for last 2 years
+Agreement between incubator and startup
+Pictures of facilities
+CVs of full-time employees Working for the Incubation Center
+Incubator Pitch deck
+Self-declaration from authorized signatory of the incubator
+Any other relevant document

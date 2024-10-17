@@ -1,0 +1,37 @@
+RKVY Soil Health and Fertility - Soil Health Card
+Ministry Of Agriculture and Farmers Welfare
+FarmerINMRKVYSoil HealthSoil Testing
+Details
+SHC can be downloaded by the farmers from the SHC portal or through SMS link received on mobile. It will contain the status of his soil with respect to 12 parameters, namely N,P,K, S (Macro-nutrients); Zn, Fe, Cu, Mn, Bo (Micro - nutrients) ; and pH, EC, OC. Based on this, the SHC will also indicate fertilizer recommendations and soil amendment required for the farm.
+
+Component Rate
+Soil sampling, testing, and generation of SHC Rs 300 per SHC (Rs 40 for soil collection + Rs 150 for testing (analysing soil samples + cost of chemical) + Rs. 110 for awareness
+
+The key objectives of the scheme are as follows:
+• To promote soil test based nutrient management across the country
+• To issue soil health cards to all farmers across the country
+• Strengthen the functioning of soil testing laboratories and associated infrastructure 
+• Capacity building of district and state level staff for promotion of nutrient management practices
+• To diagnose soil fertility related constraints with standardized procedures for sampling uniformly across states; and analyse and design fertilizer recommendations.
+
+Benefits
+The scheme targets to provide following benefits:
+1) Provide free / affordable access to soil test
+2) Provide farmers with timely and accurate soil analysis results
+3) Facilitate customized soil nutrient recommendations based on test results
+4) Enable farmers to optimize their fertiliser use and minimise input costs, and hence avoid under- or over- application of fertiliser
+Eligibility
+The scheme is applicable for all farmers in India.
+Application Process
+Offline
+Step 01: Farmer approaches a District Agriculture Officer / Block Agriculture Officer for soil testing and generation of a SHC.
+
+Step 02: The concerned officer shall initiate the process for the concerned farmer wherein they assess whether the applicant’s district / village falls under State Annual Action Plan for generation of SHC.
+
+Step 03: Agent visits the farmer and collects farmer details, land details and geo-tags the land through mobile app and takes a sample of the soil for testing
+
+Step 04: The soil is tested on set parameters and a Soil Health report is generated for the farmer’s land
+
+Step 05: The report contains results as well as recommendations on suitable crops for the soil type, and the quantity and type of fertiliser to be used. 
+Documents Required
+The documents may vary for each state. It is recommended to consult with the relevant authorities for detailed information.

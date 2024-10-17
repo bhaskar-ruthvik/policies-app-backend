@@ -1,0 +1,56 @@
+Women In Science and Engineering-Societal Challenges with Opportunities Fellowship
+Ministry Of Science And Technology
+FellowshipResearchScientistSCOPEWISEWoman
+Details
+The “Women In Science and Engineering-Societal Challenges with Opportunities (WISE-SCOPE) Fellowship” Program was started by the Department of Science & Technology, Government of India to provide opportunities to Women Scientists and Technologists who have completed Ph.D. and want to utilize their Science & Technology knowledge and expertise for the benefit of society. This program promotes projects that directly deal with challenges at the grassroots level and address them through Science & Technology interventions.  Projects under WISE-SCOPE (WISE-Societal Challenges with Opportunities) should provide Science & Technology solutions to our social problems, livelihood generation, drudgery reduction, health and nutrition-related issues, management of natural resources, sustainable agriculture, climate change, disaster management, etc.
+    The project proposal should include the development of viable technology/technique with the possibility of lab-to-land transfer, adaptation and scaling up for the benefit of society under the following identified broad thematic areas.
+Energy, Water and Waste Management (EWWM)
+Engineering and Technology Development (ETD)
+Environment, Climate and Sustainable Development (ECSD)
+Agriculture and Allied Sciences (AAS)
+Health, Food, and Nutrition (HFN)
+Project Tenure: 
+The project tenure shall be up to 3 years.
+
+Benefits
+Under this Program, a fellowship amount of ₹55,000/- and HRA (as per norms) per month will be given to the eligible candidates.
+The selected fellow will also be eligible for a Research Grant of ₹2.00 Lakhs per year, a Field Demonstration, etc. of ₹1.00 Lakh (for project tenure), and the cost of small equipment (up to a maximum of ₹2.00 Lakhs) along with Institutional overhead charges as per DST norms.
+Eligibility
+Employment:
+Candidates in regular employment are not eligible for WISE-SCOPE.
+Note 01: The women scientists who are temporarily employed in research or academics may apply to this program but they have to leave earlier assignments, if, selected for the WISE-SCOPE program.
+Note 02: The position of the applicant in any project, as Post-Doctoral Fellow, Research Associate, etc. will be considered a temporary assignment.
+Age:
+The minimum age to apply is 27 years and the maximum is 60 years as of the date of submission.
+Educational Qualification:
+Women Scientists who have completed a Ph.D. in Basic or Applied Sciences or have equivalent degrees like MD/MS/MDS are eligible for the WISE-SCOPE fellowship.
+Application Process
+Online
+Step 01: The call is open for proposal submission under WISE-SCOPE at ePMS (https://onlinedst.gov.in).
+Step 02: The proposal format is available at https://dst.gov.in, https://onlinedst.gov.in.
+Step 03: Log on to https://onlinedst.gov.in/ to access the home page of the “DST e-PMS Portal”.
+Step 04: Click on “New PI Registration” and fill in the requisite details for New user registration. In the ‘Personal Information’ section, fill in- department, Institute, and Institute Address as per the Host Institute identified for the WISE-SCOPE Fellowship project. Fill in the Designation as ‘WISE-SCOPE Fellow’.
+Step 05: After logging in, click on the “Submit proposals” link, which will take you to a page seeking information like – General information, Principal Investigator, Mentor detail, Suggested Referees (Those who are working and also experts in the proposed area), Financial Details, PFMS Details, Ongoing Project Details (if any), Programme details, then finally Submission. Fill in all the information sought against each menu, as applicable.
+Step 06: Project detail under the Programme detail menu would require information about the category of the project. Please carefully choose the category of the project based on the objective and expected outcome of the proposed work. Need to mention the specific challenge of the society which is being addressed by this scientific proposal and also the target beneficiary which would be affected by its outcome.
+Step 07: In the ‘Financial Details’ section, enter the ‘WISE-SCOPE Fellow’ in the description in each year of the fellowship section of the recurring budget section. The amount for each year is calculated based on ₹6,60,000/- per year (@₹55,000/- per month). If claiming for HRA, fill in the amount based on the applicable rate @ 9/ 18/ 27 % (as per GOI norms for X, Y and Z class of city) of the fellowship amount. Research grant is @ ₹2,00,000/- per year. In case of field testing, demonstration, or knowledge dissemination of the technology the max. limit of @ ₹1,00,000/- is allocated. Overhead would be as per norms. Non-recurring grant is up to max. ₹2,00,000/- for small equipment. In case of a request for more than one small equipment within the maximum limit, please fill names of each equipment with its cost in the desired year. Quotation of each equipment would require to be uploaded as a supporting document. Justification of all requirements (especially research grants, equipment etc.) should properly be filled.
+Step 08: If you have the PFMS Unique Agency Code of the Host Institute, fill it in the ‘PFMS Details’; else, leave this section. It will be required later during the project amount release process, therefore keep this information ready later on accordingly, if not available now. 
+Step 09: After filling in all the above particulars, preview all given details before the final submission of the application form by clicking on the “Preview” button. The preview page will display all the facts/ particulars that you have mentioned. If there is something that you wish to update, go back and correct the information or else proceed with the filled details by clicking on the “Submit” button to finally push data into the server.
+Step 10: Candidates are advised to carefully fill and verify the details filled in the online application themselves as no change will be possible/ entertained after clicking the FINAL SUBMIT BUTTON.
+Note 01: It is mandatory to submit the proposals only through online mode. There is no need to submit the hard copy of the proposal at the DST. Proposal submitted through e-mail will not be entertained
+Note 02: The PI is required to see the completeness of the application before it is submitted finally. The PI shall keep a copy of the submitted proposal for their reference. 
+Note 03: In case more than one proposal is found submitted by the same PI, the last submitted proposal would be considered for evaluation.
+Note 04: Incomplete or wrongly filled-up application format or application with a lack of essential information/ documents will be summarily rejected.
+Note 05: Application format is available at the online portal (https://onlinedst.gov.in/, https://online-wosa.gov.in/)/ given on the website (https://dst.gov.in/). Submission of proposals other than in the prescribed format shall summarily be rejected without any further processing as per programme norms.
+Last Date for Receipt of Application:
+• The online Application portal is open throughout the year for proposal submission.
+• For any enquiry, please contact enquiry-wosdst@gov.in
+Documents Required
+1. CV of Mentor
+2. Conflict of Interest Policy Document
+3. Endorsement from the Head of the Institute
+4. Complete Project Proposal
+5. Highest Degree Certificate
+6. Consent Letter from Mentor
+7. Undertaking
+8. HRA declaration certificate
+9. Date of Birth Proof 

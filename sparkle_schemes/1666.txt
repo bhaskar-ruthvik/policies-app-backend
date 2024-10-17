@@ -1,0 +1,78 @@
+R&D Reimbursement Scheme
+Goa
+BusinessEntrepreneurshipReimbursementStartup
+Details
+The scheme “R&D Reimbursement Scheme” is a scheme by the Department of Information Technology, Electronics and Communications, Government of Goa, for the Startups of Goa. The scheme is a part of the Start-up Policy 2017. The objective of the policy is to promote innovation amongst the Goans and local start-ups. 50% of R&D expenses, including salaries of PhD holders employed by start-ups, will be reimbursed for a period of two years, subject to a cap of ₹ 5,00,000 per annum.
+
+Benefits
+50% of R&D expenses, including salaries of PhD holders employed by startups, will be reimbursed for a period of two years, subject to a cap of ₹ 5,00,000 per annum. The salary component must not be in excess of ₹ 2,00,000.
+
+Number of Slots
+This benefit can be availed by a maximum of 100 startups each year.
+
+Validity
+The applicant can avail of the benefits of this scheme bi-annually/ annually.
+
+Disbursal
+Once the application is approved by the SPC, the approved amount shall be disbursed within 60 days from the date of approval.
+
+NOTE: Under no circumstance shall the benefits under this scheme be considered an entitlement. The SPC shall reserve the sole right to accept or reject applications.
+Eligibility
+This is applicable only to Goans and local start-ups.
+The applicant should be a local startup certified by the Start-up Promotion Cell (SPC).
+The startup should have a valid start-up certificate number.
+The employees whose salaries are to be reimbursed should be hired for a period of at least 12 months.
+The employee whose salary is to be reimbursed should have a PhD or equivalent from a government-recognised institute.
+The startup should be in the R&D stage and developing technology/ products in the domains specified in the Policy.
+The startup should have a working prototype of the technology/ product.
+Only expenditures incurred after notification of Goa Start-up Policy 2017, being within the validity of this policy and paid for digitally will be considered. If digital payments are not possible then it shall be up to the decision of SPC based on its due diligence to admit the expenditure.
+NOTE: For the purpose of determining eligible expenses towards R&D Expenditure, the "Accounting Standard 18 on Research and Development" by the Institute of Cost Accountants of India would be used.
+
+Relaxation / Preference / Priority
+Preference will be given to the startups who are working on a technology/ product that have successfully applied for a patent or have obtained a patent.
+
+Definitions
+Local Startup: A startup in which at least 50% equity/share is held by one or more Goans continuously since the time of inception.  
+
+Goan: The person satisfying at least one of the following criteria - 
+1. Born in the State of Goa; or,
+2. Person having domicile for 10 years or more in the State; or,
+3. Spouse of a person covered under any of the conditions mentioned in (1.) and (2.), through marriages registered in Goa.
+
+Employees: PhD or equivalent employees for whom a reimbursement is being claimed.
+Application Process
+Online
+Step 1: Visit the Official Website of Goa Startup Mission.
+Step 2: Verify your Email ID and Mobile Number using OTP. You will be redirected to the Registration Page.
+Step 3: On the Registration/Signup Page, fill in all the mandatory fields of the registration form (Country, Name, Date of Birth, Address, PIN Code, Gender, etc.).
+Step 4: Create a Login Name and a strong Password (Password can have special characters like @ # $ % ^ & + =).
+Step 5: Carefully read the Declaration and the Terms & Conditions, and tick the checkboxes.
+Step 6: Fill in the Captcha Code, and click "Register/Signup".
+Step 7: Login to the website using your Login Name and Password. Fill in the Captcha Code, and click "Login".
+Step 8: Navigate to the online application form for the relevant scheme.
+Step 9: In the application form, fill in all the mandatory fields and upload all the mandatory documents (self-attest if required).
+Step 10: Submit the application and note the application reference number for application tracking.
+
+OR 
+
+Step 1: Take a print of the proforma of the application form. Fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest if required).
+Step 2: Submit the duly filled and signed application form along with the documents to SPC via Email at spc-dit.goa@gov.in
+
+NOTE: The applicant can apply for this scheme at any time of the financial year but only within 6 months of incurring the relevant expenditure.
+
+Notification
+The applications received by the SPC shall be evaluated and approval or rejection shall be notified within 45 days from receipt of the application by the SPC.
+Documents Required
+1. Copy of the Aadhaar Card of Director/ CEO*
+2. Documents of PhD salaried employees*
+3. HR letter certifying that the employment contract of employees fulfil conditions mentioned in the policy and work profile*
+4. Contract of Employment (should be of at least 12 months)*
+5. Salary slips of concerned employees*
+6. Bank certification/ Bank account statement showing debit of salary*
+7. Research proposal detailing the relevance and application of the research proposed*
+8. Copy of research work*
+9. Original Proof of Payment of R&D as per Cost and Accounting Standard 18*
+10. The form and documents as mentioned in Annexure 1*
+
+NOTE 1: The bank accounts of the Directors of the company should be linked to Aadhaar.
+NOTE 2: The bank accounts of said employees should be linked to Aadhaar.

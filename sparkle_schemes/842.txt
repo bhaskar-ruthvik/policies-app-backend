@@ -1,0 +1,67 @@
+Kantedar Tarbandi Yojana
+Rajasthan
+FarmingFinancial BenefitsTaarabandi
+Details
+The Taarbandi Scheme for Fields was launched on July 21, 2017, under the auspices of the Agriculture Department of the Rajasthan government. The primary objective of this scheme is to safeguard farmers' crops from damage caused by stray animals. Many farmers face crop losses due to the intrusion of such animals into their unfenced fields, particularly those who lack the financial means to secure their land. To address this issue, the Rajasthan Taarbandi Scheme was introduced, offering financial assistance to farmers across the state for the installation of fencing around their fields. This initiative aims to enable farmers to protect their crops effectively by erecting barbed wire enclosures around their fields.
+
+Priority 
+Scheduled Caste 17.83 percent,
+Scheduled Caste 13.48 percent,
+Women category farmers will be given priority for 30.0 percent participation.
+
+Benefits
+Subsidy amount:
+Small and marginal farmers: 60% of the total cost, capped at ₹48,000/-.
+Other farmers: 50% of the total cost, capped at ₹40,000/-.
+Community application (group of 10+ farmers with min. 5 hectares collectively): 70% of the total cost, capped at ₹56,000/- per farmer .
+Land covered: 
+Up to 400 meters of fencing per farmer.
+Eligibility
+This scheme is available to all categories of farmers.
+For individual farmers and farmer groups, the applicant must possess a minimum of 1.5 hectares of land at a single location.
+In Scheduled Tribe areas, a minimum of 0.5 hectares of land at one location is required.
+For community applications, a group comprising 10 or more farmers must collectively own a minimum of 5 hectares of land.
+Additionally, the boundaries of the group's land must fall within the specified perimeter.
+Application Process
+Online
+Registration
+Step-1: Applicant have to visit the official portal. 
+Step-2: Click on the option “Register”.
+Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.
+  Citizen
+Step-4: Choose the either one option from  the Jan Aadhaar Or Google to process further.
+Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,
+Select your name, the name of the head of the family and all the other members and 
+Click on the ‘Send OTP’ button. Enter the ‘OTP’ and 
+Click on the ‘Verify OTP’ button to Complete the registration. 
+Google : Enter the Gmail ID, click on the ‘Next’ button, 
+Enter the password.
+A new link appear on screen, now click on the new SSO link.
+SSO id will appear on the screen, now create the password.
+Enter Mobile number, click on registration.
+Step-5: Submit.
+
+APPLY
+Step-1: Applicant have to visit the official portal. 
+Step-2: After login, dashboard will open.
+Step-3: Click on “ RAJ-KISAN ” option. 
+Step-4: In "Farmer", click on "Application Entry Request".
+Step-5: Enter the "Bhamashah ID" or "Janaadhaar ID" and search.  
+Step-6: Select the person name and scheme name. 
+Step-7: Complete the Aadhaar Authentication and click on Get details. 
+Step-8: Provide the required details.
+            - Pensioner Details.
+            - Bank Details.
+            - Disability Details.
+            - Verification Details.
+            - Upload Documents.
+Step-9: Submit.
+ 
+Documents Required
+Aadhar card.
+Address proof.
+Identity card.
+Land related documents.
+Ration card.
+Mobile number.
+Passport size photo.

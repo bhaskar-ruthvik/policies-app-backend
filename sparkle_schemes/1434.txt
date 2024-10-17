@@ -1,0 +1,61 @@
+Pashu Bima Yojana
+Bihar
+AnimalDiseaseFarmersInsurance
+Details
+The scheme 'Pashu Bima Yojna' was launched by the Directorate of Dairy Development, Government of Bihar. The scheme aims to insure the milch cattle of all categories of cattle owners against serious diseases like chronic skin disease, HSBQ. In case of death for other reasons providing financial security to the livestock farmers against the financial loss caused by livestock insurance and improve the rural economy. The implementation of the scheme will be done by the District Rural Development Officer in all the districts of the state.
+Objective:
+It will help in the economic progress of the cattle rearers of the state.
+The scheme will be helpful in capital formation.
+Gavya will be helpful in managing the business.
+Long term goals can be accomplished.
+
+Benefits
+The maximum price per milch cattle has been fixed at ₹60,000/-. 
+The total amount of insurance at the rate of 3.5 percent will be ₹2,100/-.
+The insurance company will insure milch cattle for 01 year. 
+The insurance company will fit the data ear tags in the milch cattle. 
+
+Note 01: 75% amount of ₹1,575/- will be paid by the state government as a grant and the remaining 25% amount of ₹525/- will be paid by the cattle farmers to the insurance company. 
+Note 02: The responsibility for the safety of milch cattle will be on the beneficiary.
+Eligibility
+The beneficiary should be a farmer of milch cattle. 
+The beneficiary should be a member of the Milk Producer Cooperation Committee. 
+The milch cattle should be healthy at the time of insurance. 
+Application Process
+Online
+Registration Process:
+Visit the registration page: https://misdairy.bihar.gov.in/Registration/Register
+Provide the below details for the registration
+Full name.
+Father's name or husband's name (as applicable).
+Select date of birth.
+Choose gender from the dropdown menu.
+Select your district from the available options.
+Enter your valid Aadhaar number in the designated field.
+Form Submission via mobile OTP:
+Provide your active mobile phone number.
+An OTP (One-Time Password) will be sent to your phone. Enter the received OTP in the designated field.
+After entering the OTP, submit the completed registration form.
+Upon successful registration, a password will be sent to applicant's registered mobile number. This password will be used for future logins.
+
+
+Application Process:
+Visit the login page: https://misdairy.bihar.gov.in/ and do login with following details:
+Enter registered mobile number.
+Use the password received during registration to log in.
+Complete the captcha verification.
+Applicant Details (Pre-populated):
+The portal will automatically display your pre-registered information, including mobile number, district, block, and PIN code. You cannot edit this information.
+Provide the following details:
+Enter the full name of the proposer.
+Select the proposer's occupation from the provided options.
+Choose the proposer's qualification from the available list.
+Supporting Documents Upload:
+Upload a scanned copy of your Milk Producer Society membership receipt.
+Upload a passport-sized photograph of the proposer.
+Submission:
+After completing all sections, click the "Submit" button.
+Documents Required
+Aadhaar Card.
+Milk Producer Society Membership Receipt.
+Proposer's Photo. 

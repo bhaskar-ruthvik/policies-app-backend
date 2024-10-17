@@ -1,0 +1,63 @@
+Promotion of Energy Audit and Conservation of Energy (PEACE): Incentive for Implementing Energy Audit Recommendations
+Tamil Nadu
+AuditBusinessEnergyEnterpriseMSME
+Details
+"Promotion of Energy Audit and Conservation of Energy (PEACE)" is a scheme by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu. The scheme comprises four main components: Awareness Programme; Training Programme; Detailed Energy Audit; and Implementation of Energy Audit Recommendations. The "Incentive for lmplementing Energy Audit Recommendations" component of this scheme is introduced to incentivise MSMEs to implement the recommendations of the Energy Audit Report and to optimize energy consumption leading to energy saving and money savings in electricity bills.
+
+Benefits
+50% of the cost of eligible components, subject to a maximum limit of ₹ 10,00,000/ -.
+Investments made after the energy audit alone will be eligible for the subsidy.
+*The overall ceiling on subsidy should not be applied for the original energy audit and subsequent energy audit taken together but should be applied separately for the original energy audit and the subsequent energy audit.
+
+Time of Disbursal
+The subsidy will be released to the MSME after the implementation of the recommendations in the Energy Audit Report that is duly certified by the energy auditor.
+*If the unit has availed a loan for the implementation of the recommendations of the energy audit, the subsidy will be released to the bank to adjust in the loan account if the loan is in currency.
+Eligibility
+AIl manufacturing MSMEs in the state which have undertaken energy audits arid have achieved at least 10% energy savings in terms of the number of units of energy consumed per unit of product manufactured with reference to the last 12 months average.
+Enterprises having more than one unit may also avail of this concession, separately for each unit.
+There should be a gap of a minimum of three years between the previous energy audit and the subsequent energy audit i.e. present energy audit.
+*The percentage of savings in specific energy consumption (Kwh/Kcal per unit of product) shall be reckoned on twelve-month average energy consumption before the implementation of energy audit recommendations and a minimum three-month average after the implementation of the recommendation of the energy audit.
+
+Eligible Components
+Cost of technology acquired for energy saving.
+Cost of replacement of equipment for energy conservation/ cost of machinery/accessories newly purchased & installed for the purpose.
+Cost of modification/ alteration made in the existing machinery/equipment/retrofit equipment for energy conservation.
+Application Process
+Online
+Step 1: Registration
+Visit the Official Website/Portal of the Micro, Small, and Medium Enterprises Department of the Government of Tamil Nadu. In the top ribbon, click "Login / Registration".
+In the registration form, fill in the mandatory details accurately, Name, Date of Birth, Aadhaar Number, Email ID, and Mobile Number. Create a new password. The password must contain a minimum of 8 characters, 1 Upper Case Letter, 1 Lower Case Letter, and 1 Numeric Field.
+Fill in the captcha code, and click "Register".
+
+Step 2: Login
+Visit the Login Page and click "Login", and then fill in the credentials received on your registered Email ID and the registered Mobile Number.
+
+Step 3: Form Filling
+After successfully logging in, hover over "Schemes" in the top ribbon, and then click on the concerned scheme from the dropdown.
+On the next page, hover over "Apply Online" in the top ribbon, and then click on "New Application" from the dropdown.
+Fill in all the mandatory fields of the Application Form. Carefully review all the information provided, acknowledge and agree to the terms and conditions, declaration, and privacy policy, and then click "Proceed".
+Note down the reference number appearing on the screen and then click "Close".
+
+Step 4: Upload Documents
+Now, hover over "Schemes" in the top ribbon, and then click "Upload Documents" from the dropdown.
+On the next page, provide the Application ID and click "Submit".
+On the next page, upload all the mandatory documents in the specified format and size.
+After uploading the documents, click "View" to verify the documents uploaded for correctness.
+
+Step 5: Submission
+Fill in all the checkboxes appearing at the bottom of the screen and then click "Submit Application".
+The message regarding the submission of the online application to GM/DIC / RJD will be received on your mobile phone.
+
+(Optional) Step 6: Track Application Status
+You can check the status of your application here. The portal may provide updates via email or SMS regarding your application status.
+Documents Required
+Copy of Udyog Aadhaar Memorandum / Copy of Udyam Certificate.
+Certificate of Registration under Indian Partnership Act / LLP / Societies Registration Act / Certificate of Incorporation [Memorandum of Association & Article of Association] under Company Act.
+Proof for Connected Load i.e., EB Meter Card/Online Statement.
+If Alternate Source of Energy [other than Electricity] Used, Proof for the Usage.
+Documents for Engagement of Energy Auditor/Letter of Acceptance from Energy Auditor.
+If the Energy Auditor is Employed in a Firm/Co., or Partner or Director of a Firm/Co., Then Proof for the Same.
+Copy of Accreditation of Energy Auditor by Bureau of Energy Efficiency [BEE].
+Self-Certified Statement on Expenditure Incurred for Energy Audit with Copy of the Bills/Vouchers and Receipt, etc.
+Copy of the Detailed Energy Audit Report.
+*The file type should be PDF (.pdf). The file size should be less than 200 kb.

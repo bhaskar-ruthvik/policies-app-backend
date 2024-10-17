@@ -1,0 +1,73 @@
+Medical Assistance/Wage Compensation during Illness (HBOCWWB)
+Haryana
+Building WorkerConstruction WorkerFinancial AssistanceIllnessLabourWage Compensation
+Details
+The scheme “Medical Assistance/Wage Compensation during Illness” is implemented by the Haryana Building and Other Construction Workers Welfare Board (HBOCWWB), Labour Department, Government of Haryana. Under this scheme, wage compensation/financial assistance is provided to registered construction workers as per the prevailing minimum wages in the state in case of an accident or illness. This assistance applies if the registered worker is admitted to a government or government-approved private hospital for treatment for a period ranging from 4 to 30 days.
+
+Benefits
+Under this scheme, wage compensation or financial assistance is provided to registered workers if they are admitted to any government or empanelled private hospital for treatment for a minimum of 4 days and a maximum of 30 days.
+Eligibility
+The applicant should be engaged in any building or construction work.
+The applicant should be registered with the Haryana Building & Other Construction Workers Welfare Board.
+The registered worker must have a minimum of one year of regular membership.
+The worker must have an active membership with the Board.
+A worker who is admitted to a government or government-approved private hospital for treatment for 4 to 30 days due to an accident or illness is eligible for assistance.
+The assistance shall be for a period not exceeding one month in a year.
+Application Process
+Online
+Registration of a Construction Worker under HBOCWWB:
+Step 01: The construction worker should visit the Official Website of the Labour Department Haryana. 
+Step 02: On the home page, click on the “Building & Ors Const. Workers Welfare Board” link. A new window page will be opened. If you don't have login details then click on “Click Here” to register.
+Step 03: Applicant has to read all the instructions and then “Tick” the acknowledgment, then click on the “Submit” button.
+Step 04: Verification using Parivar Pehchan Patra (PPP)- Family ID:
+a) Forget/not having Family ID: If you do not have PPP ID or forget the PPP ID, then you have to select that radio button and you are redirected to the PPP Portal for getting their PPP ID.
+b) Having a Family ID: If you have a family ID, then only you can move to the next step for registration. To proceed further, follow the given steps:
+• Select the “I have family ID” radio button
+• Enter Parivar Pehchan Patra number - Family ID
+• Click on “Fetch Family Details” which displays the family members registered under the given Family ID
+• Select a family member for registration
+• Enter the OTP that is being sent to the selected family member for verification
+• Click on “Click to Verify”
+Step 05: Aadhaar Verification before Registration: Provide your Aadhaar number and tick mark the checkbox for the declaration. Click on the “Continue” button.
+Step 06: After verification, fill out the complete registration form and submit the form.
+Step 07: Login into the account: After the final submission of the registration form, a worker can login into his/her account using their username and password but unable to avail of any benefit. 
+Step 08: To avail of the benefits, a worker has to pay the registration fee and add a work experience of a minimum of 90 days of the preceding year.
+Step 09: Now, the worker needs to add work experience, to add 90 days of experience, the applicant has to fill in all the details where he/she has worked.
+Step 10: The schemes and other benefits can be availed once the 90 days’ work experience is approved by the Officer.
+
+Apply for scheme benefits through the Antyodaya-SARAL Portal:
+Registration Process on Antyodaya-SARAL Portal:
+Step 01: To avail of the benefits of the scheme, the applicant needs to visit the Official Portal -Antyodaya-SARAL Portal: https://saralharyana.gov.in/
+Step 02: If the applicant is not registered on the portal, then he/she gets registered on the portal. 
+Step 03: For registration, click on “New User” under ‘Sign In Here’ and fill in all the mandatory details i.e. Full Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.
+Step 04: Verify your mobile number and email ID through the received OTP and complete the registration process.
+Login to Apply for the Scheme:
+Step 01: Now, to avail the benefits of the scheme, visit the Official Portal -Antyodaya-SARAL Portal and login through the email ID that is used while registering.
+Step 02: Enter Password & Captcha and click on ‘Login’.
+Step 03: After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’
+Step 04: Now, search for the scheme and click on the scheme to proceed to fill out the application form.
+Step 05: Enter Parivar Pehchan Patra number - Family ID and Click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.
+Step 06: Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”
+Step 07: Fill in all the mandatory details and upload all the mandatory documents.
+Step 08: Preview the application form and click on ‘Submit’.
+HBOCW Registration User Manual HBOCW
+Documents Required
+Documents required for registration under HBOCWWB:
+Identity proof i.e. Aadhaar Card, Voter Card
+Passport-size photograph
+Attested work experience document
+Proof of Residence
+Ration Card
+Bank account details
+Caste Certificate (If applicable)
+Proof of age 
+Parivar Pehchan Patra (Family ID)
+Disability certificate (If applicable)
+Any other documents as required
+Documents required for Scheme Benefits:
+Identity proof/ID Card of Worker
+Certificate by Medical Officer
+Discharge slip
+Parivar Pehchan Patra (Family ID)
+Undertaking by applicant
+Any other documents as required

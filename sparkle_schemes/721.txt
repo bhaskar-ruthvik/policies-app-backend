@@ -1,0 +1,73 @@
+Production Linked Incentive Scheme (pli) For Promoting Telecom & Networking Products Manufacturing In India
+Ministry Of Communication
+Electronic ManufacturingMake In IndiaNetworking ProductsPLIProduction Linked Incentive SchemeTelecom Equipments
+Details
+With the objective to boost domestic manufacturing, investments and export in the telecom and networking products Department of Telecommunications (DoT) notified the “Production Linked Incentive (PLI) Scheme” on 24th February 2021.The PLI Scheme will be implemented within the overall financial limits of ₹ 12,195 Crores only (Rupees Twelve Thousand One Hundred and Ninety-Five Crore only) for implementation of the Scheme over a period of 5 years. For MSME category, financial allocation will be ₹2500 Crores. Small Industries Development Bank of India (SIDBI) has been appointed as the Project Management Agency (PMA) for the PLI scheme.The scheme is effective from 1st April, 2021. Investment made by successful applicants in India from 1 st April, 2021 onwards and up to Financial Year (FY) 2024-2025 shall be eligible, subject to qualifying incremental annual thresholds. The support under the Scheme shall be provided for a period of five (5) years, i.e. between FY 2021-22 and FY 2026-27.
+Support under the Scheme will be provided to companies who will manufacture specified telecom and networking products in following 4 product categories in India :
+1. Core transmission Equipment
+2. 4G/5G, Next Generation RAN and Wireless Equipment
+3. Access & CPE, IoT Access Devices and Other Wireless Equipment
+4. Enterprise Equipment: Switch and Router
+
+Benefits
+Incentive Outlay & Eligibility Threshold"
+
+a) For MSMEs- Minimum Threshold of Investment Rs. 10 Crores
+Year Proposed Incentive Rate Cumulative Investment Minimum Eligible Incremental Net Sales# of Manufactured Goods over the Base Year Maximum Eligible Incremental Net Sales of Manufactured Goods over the Base year
+1 7% Greater than or equal to 20% of X 3*(20% of X) 20*(20% of X)
+2 7% Greater than or equal to 40% of X 3*(40% of X) 20*(40% of X)
+3 6% Greater than or equal to 70% of X 3*(70% of X) 20*(70% of X)
+4 5% Greater than or equal to X 3*X 20*X
+5 4%
+3*X 20*X
+
+b) Other than MSMEs- Minimum Threshold of Investment Rs. 100 Crores
+Year Proposed Incentive Rate Cumulative Investment Minimum Eligible Incremental Net Sales# of Manufactured Goods over the Base Year Maximum Eligible Incremental Net Sales of Manufactured Goods over the Base year
+1 6% Greater than or equal to 20% of X 3*(20% of X) 20*(20% of X)
+2 6% Greater than or equal to 40% of X 3*(40% of X) 20*(40% of X)
+3 5% Greater than or equal to 70% of X 3*(70% of X) 20*(70% of X)
+4 5% Greater than or equal to X 3*X 20*X
+5 4%
+3*X 20*X
+
+Where X = Committed Total Investment by the Company / entity over a period of four years
+MSMEs = Micro, Small and Medium Enterprises as defined by the Government of India.
+# As defined under Clause 2.20 of the Scheme Guidelines.
+An additional incentive of 1% over and above the applicable rates of incentive for products qualified under Design-led Manufacturing, as defined at Clause 2.8A, in each year.
+Eligibility
+Qualification and Eligibility
+1. Support under the Scheme shall be provided only to companies for manufacturing of goods in India as covered under Scheme Target Segments. Further any foreign (non-resident) investment in the Applicant company shall PLI Scheme Guidelines for Telecom and Networking Products be in compliance to the FDI Policy 2020, as amended and effective from time to time. 
+2. Eligibility shall be subject to qualification criteria for the Global Manufacturing Revenue as defined in Clause 2.15 of Scheme guidelines, as under: 
+Global companies: Global Manufacturing Revenue should be more than Rs. 10,000 Crore in the base year. In case of Group companies of Applicant, whose revenues for the base year have not been consolidated in INR, the revenue in the respective currency shall be converted to INR at an average of currency exchange rates as on April 01, 2019 and March 31, 2020.
+Domestic companies: Global Manufacturing Revenue should be more than Rs. 250 Crore in the base year. 
+MSMEs: Global Manufacturing Revenue should be more than Rs. 10 Crore in the base year.
+3. Eligibility shall be subject to thresholds of minimum cumulative Incremental Investment during the year and Incremental Sales of Manufactured Goods (covered under Scheme Target Segments) over the base year.
+An Applicant must meet threshold criteria to be eligible for disbursement of incentive for the year under consideration. Eligibility threshold criteria are annexed in the Scheme and in Annexure 2 of these Guidelines.
+In case an Applicant does not meet eligibility threshold criteria as per Annexure 2, for any given year, the Applicant shall not be eligible for incentive in that particular year. There will not be any carryover of incentive for such years. However, the Applicant will not be restricted from claiming incentive due in subsequent years during the tenure of the Scheme, provided eligibility criteria are met for such subsequent years.
+4. For the purpose of determining eligibility of an Applicant with respect to Incremental Investment for any year, the cumulative value of investment done till such year (including the year under consideration) from 01.04.2021 shall be considered. Even if the entire committed investment is made by the Applicant in less than 4 years, the incentive will be disbursed annually to the eligible Applicants based on the annual threshold investment communicated in the letter of approval.
+5. For the purpose of determining eligibility of an Applicant with respect to Net Incremental Sales of Manufactured Goods covered under Scheme Target Segments for any year, the Net Sales of Manufactured Goods covered under Scheme Target Segments for such year over the Base Year shall be considered.
+6. An Applicant shall become ineligible for availing benefits under the DoT PLI Scheme, if it has applied/availed benefits under any other PLI Scheme of the Central Government for the same product. However, eligibility under PLI Scheme will not affect eligibility under any other Scheme being implemented by State/UT Governments and vice-versa. Further, for the purpose of determining eligibility of an Applicant with respect to incremental investment, the investment covered under the Scheme may not be considered for determining eligibility under any other PLI Scheme and vice-versa.
+7. Maximum financial allocation over 5 years for MSME category will be limited to Rs. 1000 crores only.
+8. The status of Applicants as MSMEs or Non-MSMEs will be determined at the time of selection only and it will remain so during the entire duration of the Scheme. 
+Application Process
+Online
+1. Applicants are required to visit the Scheme implementation portal and register then filling the application form.
+2. On submission of the above information, a mail will be sent to the Nodal Officer's e-mail id with a link for verification for mobile number.
+3. The information and documents submitted will be checked by PMA and once this process is completed, Applicant will receive a mail towards successful registration on the Portal within 2 working days.
+4 After the registration process, Nodal Officer will be able to Sign-in the Portal by using his registered mobile number and OTP and start the submission of application. The application format can also be accessed from Scheme Implementation Portal. The above format is provided only for understanding the information required to be submitted online. However, the application can only be submitted online at the portal.
+5. The section – 3 (commitment section) of the application is to be password protected before submission. The section 3 will get unlocked at close of the application submission period and would then be available for scrutiny of the submitted application by PMA/DoT.
+6. The applicant needs to pay non-refundable application fee of Rs.1 Lakh by RTGS / NEFT in the bank details as under:
+        Bank Name: Indian Overseas Bank
+        Beneficiary Name: PAOHQDOTNEWDELHI
+        Account No.: 256502000001000
+        Branch: Sanchar Bhawan Branch, 20 Ashoka Road, New Delhi
+        IFSC Code: IOBA0002565
+7. On receipt of the application, an initial scrutiny shall be carried out by the PMA to ascertain that the information, documents, certificates, proof of deposit of application fees etc. as required under the Scheme have been submitted, within 15 working days from the last date of Application submission. Deficiencies, if any, found in the applications during the initial scrutiny shall be intimated to the Applicants.
+8. The applicant shall rectify the deficiency within 15 working days from the date of intimation of the deficiency by PMA failing which the application may be marked ineligible for the Scheme. After completion of the scrutiny process, the list of shortlisted eligible application shall be recommended by PMA to DoT for approval of the Competent Authority.
+Documents Required
+Applicants are required to upload following 3 documents, namely –
+1. PAN  
+2. Authority Letter for Nodal Officer  
+3. Certificate of Incorporation.
+
+For more details, please refer to the Scheme Implementation Portal. 

@@ -1,0 +1,68 @@
+Marriage Benefit (MBOCWWB)
+Meghalaya
+Building WorkerConstruction WorkerFinancial AssistanceLabourMarriage
+Details
+The scheme “Marriage Benefit” is a social security scheme, implemented by the Meghalaya Building and Other Construction Workers Welfare Board (MBOCWWB), Labour Department, Government of Meghalaya. Under the scheme, financial assistance shall be provided to registered construction workers for their own marriage. This assistance shall also be sanctioned for the marriage of all adult children of a worker subject to the production of proper documentation such as Marriage Certificates etc.
+
+Benefits
+The financial assistance of ₹5,000/- shall be given to the registered workers for their own marriage.
+The financial assistance of ₹5,000/- shall be provided to registered workers for the marriage of all their adult children, subject to the production of proper documentation such as Marriage Certificates, etc.
+Eligibility
+The beneficiary should be a resident of Meghalaya.
+The beneficiary should be engaged in a building or other construction work.
+The beneficiary should be registered under the Meghalaya Building & Other Construction Workers Welfare Board.
+The workers having continuous membership for 3 years shall be eligible to get financial assistance under the scheme.
+The registered workers can apply for financial assistance for their own marriage. A registered worker can avail of this assistance once only.
+The registered workers can apply for financial assistance for the marriage of all their adult children, subject to the production of proper documentation such as Marriage Certificates, etc.
+Application Process
+Online
+Offline
+Online Worker Registration Process (Portal):
+Step 01: The applicants may visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm
+Step 02: The applicant can register by creating a new account, on the home page click on the ‘Worker’ button and enter all the mandatory information.
+Step 03: After filling in all the details, click on ‘Register’.
+Step 04: After successful registration, the applicant will see the message “Registered Successfully”.
+Application Process for New Registration under the MBOCWWB:
+Step 01: Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm
+Step 02: Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.
+Step 03: After successful login, click on ‘Apply for New Registration’ from the menu.
+Step 04: Fill in all the required details in the Registration Form i.e. Personal Details, Service/Work Details, Bank Details, and Demographic Details, etc.
+Step 05: Click on 'Submit'.
+Step 06: After successful registration, you will be directed to another page to manage all the Family & Nominee Details. Click on ‘Add New’ to add Family members and Nominee Details.
+Step 07: After adding all the Family & Nominee Details, click on Proceed.
+Step 08: Now upload all the required enclosures i.e. Photograph, ID Proof, Employer Certificate/Self Certification, Bank Passbook of the Worker.
+Step 09: Click on the ‘Complete’ Button to complete the registration process.
+Step 10: Once your application has been processed and verified by Block/District LDA, Block/District Labour Inspector and approved District Labour Commissioner (DLC), Registration Certificate will be generated.
+Application Process for Marriage Assistance:
+Step 01: Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm 
+Step 02: Enter your User ID (Registered Mobile Number), Password and Enter Security Code. Click on Login.
+Step 03: After successful login, click on the “Marriage Assistance” scheme from the Dashboard.
+Step 04: Fill in all the required information and necessary enclosures.
+Step 05: Click ‘Submit’ to apply for benefits.
+Application Process to Track/Update:
+Step 01: Visit the online Portal: https://megbocwwb.gov.in/bocw_services/login.htm
+Step 02: Enter your User ID (Registered Mobile Number), Password, and Enter Security Code. Click on Login.
+Step 03: From the menu, click on ‘Track Application Status’.
+Step 04: Click on ‘View Details’ to view your application.
+Step 05: Click on ‘Application History’ to view the application history.
+Step 06: Click on ‘Update’ to update your application.
+Note: Once your application is under process or processed, you cannot update it.
+(Worker’s User Manual)     
+Documents Required
+Enclosures required for New Registration under MBOCWWB:
+Photograph of the worker
+ID Proof of worker (Electoral Card, Ration Card, Driver's License, Aadhaar Card, Passport are acceptable)
+Employer Certificate/Self Certification (Issued Either by the Labour Inspector or the Employer or SDO/AEE of Works Department)
+Bank Passbook of the worker
+eShram ID card, if any
+Age proof of concerned building worker/applicant i.e. School certificate, Certificate from the Registrar of Birth and Deaths, Certificate from the Medical Officer not below the rank of an Assistant Surgeon in Government Service, Electoral Photo Identity Card
+Nomination Form duly signed by the applicant
+Self-declaration towards non-enrolment as a member of any other welfare fund/ board
+SC/ST Certificate (if applicable)
+Any other documents as required
+Enclosures required for application of Marriage Assistance:
+MBOCWWB ID Card of worker
+Marriage Certificate
+Challan/Receipt of the Last Monthly Subscription paid
+Bank Passbook
+Any other documents as required

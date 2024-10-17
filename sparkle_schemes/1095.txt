@@ -1,0 +1,46 @@
+Generator Subsidy
+Tamil Nadu
+ElectricityEnterpriseMSMEPowerSubsidy
+Details
+The scheme "Generator Subsidy" by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced with the objective of assisting all new and existing Micro, Small, and Medium Manufacturing Enterprises through a subsidy of 25% on the cost of generator purchased (up to 320 KVA capacity), subject to a maximum of ₹ 5,00,000.
+
+Benefits
+Subsidy of 25% on the cost of generator purchased (up to 320 KVA capacity), subject to a maximum of ₹ 5,00,000.
+Eligibility
+All new and existing Micro, Small, and Medium Manufacturing Enterprises.
+Application Process
+Online
+
+Step 1: Registration
+Visit the Official Website/Portal of the Micro, Small, and Medium Enterprises Department of the Government of Tamil Nadu. In the top ribbon, click "Login / Registration".
+In the registration form, fill in the mandatory details accurately, Name, Date of Birth, Aadhaar Number, Email ID, and Mobile Number. Create a new password. The password must contain a minimum of 8 characters, 1 Upper Case Letter, 1 Lower Case Letter, and 1 Numeric Field.
+Fill in the captcha code, and click "Register".
+
+Step 2: Login
+Visit the Login Page and click "Login", and then fill in the credentials received on your registered Email ID and the registered Mobile Number.
+
+Step 3: Form Filling
+After successfully logging in, hover over "Schemes" in the top ribbon, and then click on the concerned scheme from the dropdown.
+On the next page, hover over "Apply Online" in the top ribbon, and then click on "New Application" from the dropdown.
+Fill in all the mandatory fields of the Application Form. Carefully review all the information provided, acknowledge and agree to the terms and conditions, declaration, and privacy policy, and then click "Proceed".
+Note down the reference number appearing on the screen and then click "Close".
+
+Step 4: Upload Documents
+Now, hover over "Schemes" in the top ribbon, and then click "Upload Documents" from the dropdown.
+On the next page, provide the Application ID and click "Submit".
+On the next page, upload all the mandatory documents in the specified format and size.
+After uploading the documents, click "View" to verify the documents uploaded for correctness.
+
+Step 5: Submission
+Fill in all the checkboxes appearing at the bottom of the screen and then click "Submit Application".
+The message regarding the submission of the online application to GM/DIC / RJD will be received on your mobile phone.
+
+(Optional) Step 6: Track Application Status
+You can check the status of your application here. The portal may provide updates via email or SMS regarding your application status.
+
+Application Timeline
+Within six months from the date of purchase of the generator set or date of installation of the generator set i.e. the date of issue of safety certificate by the Electrical Inspectorate Department, whichever is later.
+Documents Required
+Copy of Udyog Aadhaar Memorandum.
+*The file type should be PDF (.pdf).
+*The file size should be less than 200 kb.

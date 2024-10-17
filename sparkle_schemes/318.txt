@@ -1,0 +1,62 @@
+Diggy
+Rajasthan
+DevelopmentFarmerFarming
+Details
+In Agriculture Department, Rajasthan Government has started the Diggy Scheme to provide subsidies to the farmers of Rajasthan for making dig for irrigation. Under the scheme, farmers can prepare ways in their fields collect water in one place, and do more irrigation with the help of sprinklers. By providing this grant amount to the farmers, the government will encourage the farmers to grow good crops by building dig and irrigating the crops without any financial pressure. This scheme is to help farmers improve their farming by using more water resources and encourage them to grow good crops.
+
+Other Important Points
+Start the construction of the dig only after the administrative approval of the Agriculture Department.
+Verification will be done by the department before and after construction.
+Installation of drip/sprinkler set on dig is mandatory.
+The grant amount will be deposited directly into the farmer's account.
+
+Benefits
+The farmer must purchase a permanent container with a minimum filling capacity of 4 lakh liters and above.
+The state government will provide a 75% to 85% subsidy.
+Farmer will be provided a grant amount of up to ₹ 3,00,000/- to ₹ 3,40,000/- by the government for making a dig in fields.
+Eligibility
+The applicant should have a native of Rajasthan.
+The applicant should be a farmer.
+A farmer must have at least 0.5 (half) hectares of irrigated agricultural land.
+Application Process
+Online
+Registration
+Step-1: Applicant have to visit the official portal. 
+Step-2: Click on the option “Register”.
+Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.
+  Citizen
+Step-4: Choose the either one option from  the Jan Aadhaar Or Google to process further.
+Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,
+Select your name, the name of the head of the family and all the other members and 
+Click on the ‘Send OTP’ button. Enter the ‘OTP’ and 
+Click on the ‘Verify OTP’ button to Complete the registration. 
+Google : Enter the Gmail ID, click on the ‘Next’ button, 
+Enter the password.
+A new link appear on screen, now click on the new SSO link.
+SSO id will appear on the screen, now create the password.
+Enter Mobile number, click on registration.
+Step-5: Submit.
+
+APPLY
+Step-1: Applicant have to visit the official portal. 
+Step-2: After login, dashboard will open.
+Step-3: Click on “ RAJ-KISAN ” option. 
+Step-4: In "Farmer", click on "Application Entry Request".
+Step-5: Enter the "Bhamashah ID" or "Janaadhaar ID" and search.  
+Step-6: Select the person name and scheme name. 
+Step-7: Complete the Aadhaar Authentication and click on Get details. 
+Step-8: Provide the required details.
+            - Pensioner Details.
+            - Bank Details.
+            - Disability Details.
+            - Verification Details.
+            - Upload Documents.
+Step-9: Submit.
+Documents Required
+Aadhar card.
+Address proof.
+Identity card.
+Land related documents.
+Ration card.
+Mobile number.
+Passport size photo

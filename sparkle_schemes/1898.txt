@@ -1,0 +1,72 @@
+Sinchai Pipeline Karyakram
+Rajasthan
+AgricultureDevelopmentIrrigationPipe Line
+Details
+ The "Sinchai Pipeline Karyakram" under The Agriculture Department of the  Rajasthan government will provide subsidy to farmers on purchasing irrigation pipelines. So that farmers can get rid of the problem of irrigation. And their income can increase. There are many farmers in our country whose financial condition is weak and are unable to buy pipelines, due to which their crops get ruined due to lack of water. To overcome the problem of irrigation, many types of schemes are also being run by the Central and State Governments. In this direction, considering the problems of farmers.
+
+Feature :
+Farmers will be eligible for a grant only if they purchase BIS-marked pipes from a manufacturer or their authorized distributor/seller registered with the Agriculture Department, either in cash or by taking a loan from a bank, and successfully install them on their farm.
+Each pipe distributed on a grant basis must be embossed with the year of manufacture and the grant distribution year. The grant will be admissible only on pipes manufactured and sold in the eligible year. Additionally, the grant will be admissible on the remaining pipes from the previous year in the next financial year as well.
+The concerned manufacturer will necessarily provide information about the remaining stock of the previous financial year to the Deputy Director and Assistant Director of Agriculture (Ext.) office in the district. The grant will not be admissible in the absence of information.
+In the financial year, the list of maximum retail price (MRP) of pipes will be sent by the pipe manufacturers to the Deputy Director and Assistant Director of Agriculture (Ext.) office through selected dealers in the district. The dealer will also submit an affidavit that no bill will be charged more than the MRP.
+
+Component Component Ice. Code Description
+Pipeline Pipe 4984 /14151 Pt I & II : 199 H.D.P.E. irrigation pipe
+Pipeline Pipe 4985 ¼4 kg/cm2 &63 ¼2-5 kg/cm2 &90 mm and above ½ PVC for water supply. irrigation pipe
+Pipeline Pipe IS 16190 : 2014 ¼ 63 mm and above and 200 mm and above ½ HDPE High Density Polyethylene Laminated Knitted Flat Tube Irrigation Pipe for Water Supply
+
+
+The subsidy will be payable only on pipes of diameter 63 mm or more than 63 mm.
+
+Benefits
+Cost of transporting water: 50% of the cost (capped at ₹1000/-).
+Pipe material cost:
+HDPE pipe: ₹50 per meter (capped at ₹15,000/- total).
+PVC pipe: ₹35 per meter (capped at ₹15,000/- total).
+HDPE laminated flat tube pipe: ₹20 per meter (capped at ₹15,000/- total).
+Eligibility
+The agricultural land should be owned by the applicant.
+The applicant must be a farmer residing in Rajasthan.
+This scheme applies to farmers who have a diesel engine, electric pump, or tractor-driven pump set available on a borewell or well.
+Applicants must own at least 2 bighas of cultivable agricultural land.
+The farmer's bank account must be linked to an Aadhar card. Additionally, no farmer can apply again for the next 10 years after receiving the benefit.
+Farmers must apply for the grant within 30 days of purchasing the pipe and after this timeframe will not be considered.
+Application Process
+Online
+Registration
+Step-1: Applicant have to visit the official portal. 
+Step-2: Click on the option “Register”.
+Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.
+  Citizen
+Step-4: Choose the either one option from  the Jan Aadhaar Or Google to process further.
+Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,
+Select your name, the name of the head of the family and all the other members and 
+Click on the ‘Send OTP’ button. Enter the ‘OTP’ and 
+Click on the ‘Verify OTP’ button to Complete the registration. 
+Google : Enter the Gmail ID, click on the ‘Next’ button, 
+Enter the password.
+A new link appear on screen, now click on new SSO link.
+SSO id will appear on screen, now create the password.
+Enter Mobile number, click on registration.
+Step-5: Complete the registration process.
+
+Apply
+Step-1: Applicant have to visit the official portal. 
+Step-2: After login, dashboard will open.
+Step-3: Click on “ RAJ-KISAN ” option. 
+Step-4: In "Citizen", click on "Application Entry Request".
+Step-5: Enter the "Bhamashah ID" or "Janaadhaar ID" and search.  
+Step-6: Select the person name and scheme name. 
+Step-7: Complete the Aadhaar Authentication and click on Get details. 
+Step-8: Provide the required details.
+            - Pensioner Details.
+            - Bank Details.
+            - Disability Details.
+            - Verification Details.
+            - Upload Documents.
+Step-9: Submit.
+Documents Required
+Passport size photo.
+Copy of Aadhar Card.
+Copy of Jamabandi or Jamabandi.
+Copy of Bank Passbook.

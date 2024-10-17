@@ -1,0 +1,35 @@
+Testing Fee Reimbursement Scheme
+Ministry Of Micro, Small and Medium Enterprises
+BusinessEnterpremeurship
+Details
+Testing Fee Reimbursement Scheme for Scheduled Caste / Scheduled Tribe is a sub scheme under National Scheduled Caste and Scheduled Tribe Hub (NSSH) scheme. This component has provision for reimbursement on testing fee charged by various National Accreditation Board for Testing(NABL) or Bureau of Indian Standards(BIS) accredited laboratories across the country to SC-ST MSEs.
+
+This is a financial assistance program offered to micro and small enterprises (MSEs) owned by Scheduled Castes (SCs) and Scheduled Tribes (STs) in India. The scheme aims to reduce the financial burden of quality testing for SC/ST MSEs, helping them improve product quality and compete effectively.
+
+Benefits
+SC-ST MSEs can receive reimbursement of 80% or ₹1,00,000/- (excluding GST and other applicable taxes), whichever is lower, for testing fees paid to NABL or BIS accredited laboratories, labs of government departments/PSUs, and for BIS licenses/certifications.
+The scheme covers testing of raw materials, semi-finished products, and finished products.
+Reimbursement can be availed multiple times within a financial year, though there's a cap on the total amount.
+Eligibility
+Applicant should have a micro or small scale industry.
+Applicant should belong to Scheduled Caste (SC) or Scheduled Tribe (ST).
+The enterprise must be registered with the Udyam portal or any other valid registration platform recognized by the MSME Ministry.
+Application Process
+Online
+Applicant need to visit the official website https://www.scsthub.in.
+For registration click on sign-up and provide the following details 
+Full Name
+Valid Email ID
+Mobile Number
+Password and confirm password
+For login click on login.
+After login complete the required information. 
+Documents Required
+Self-certified copy of UAM & GST
+Self-certified copy of PAN card - In case of proprietorship, PAN card of SC/ST proprietor ought to be submitted
+Self-certified copy of Caste certificate of proprietor/ all partners/ directors 
+Details of shareholding in case of partnership / Pvt. Ltd / LLP firm. In case of partnership concerns, shareholding of the enterprise would be required to ascertain status of the MSE as SC/ST MSE (shareholding of SC/ST entrepreneur to be > 51%). Attested copy of Partnership Deed for Partnership Firm / Memorandum and Article of Association in case of LLP/Private Limited Company are required
+Attested or original copy (signature with stamp) of payment receipt and system generated GST invoice for total amount paid to respective testing center or laboratory for availing various testing services 
+NABL/ BIS attested copy of final testing report received from the laboratory duly stamped and signed for all tests availed by SC-ST MSE unit
+Proof of transferred amount as reimbursement by NSSHO/ NSIC through PFMS under the scheme, where any such assistance is availed earlier with in the same financial year
+Cancelled Cheque of the current account of the enterprise from which the testing charges have been debited

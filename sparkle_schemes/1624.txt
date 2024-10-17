@@ -1,0 +1,52 @@
+SERB-Technology Translation Award
+Ministry Of Science And Technology
+AwardPrincipal InventorResearchSERBTechnology TranslationTETRA
+Details
+The “SERB-Technology Translation Award (SERB-TETRA)” is a new scheme launched by the Science and Engineering Research Board, Government of India for catalyzing technology translation in academic settings. Translation research has gained considerable focus as it has the potential to elevate results from fundamental research to a given technology readiness level, in turn catalyzing symbiotic growth of institutional infrastructure to offer a platform for scale-up of entrepreneurial ventures, supported by a variety of funding mechanisms. SERB-TETRA will challenge scientists executing SERB grants, such as CRG, to establish an effective, functional, and synergistic working collaboration with an industry partner to elevate their breakthrough results and technologies to TRL level 5 and beyond. It is implicit that PIs would have obtained the necessary patents and IPRs.
+         TETRA Support will help entities have successful ideas to kick-start new venture processes. With seed capital, flexible working spaces, and interaction between mentor and start-up entrepreneurs, the SERB-TETRA will expand the scope by providing numerous networking opportunities, followed by presenting the finished prototype to an audience of large investors, established MSMEs and private companies, and public sector enterprises.
+        SERB-TETRA would be awarded to select PIs who have clearly demonstrated the translational potential of their research (patents, etc.) and have established contact with industrial partners for fast-track graduation to a prototype stage and beyond. PIs would have also identified technology incubators in their own institution or in the vicinity who could support their endeavors. It is envisaged that a well-defined strategy to augment research innovation, via technology incubators, will add value to the CRG and other funding mechanisms supported by SERB.
+Objective:
+SERB-TETRA aims to provide awards to competitively funded Core Research Grants (CRG) and similar projects, holding potential and promise for translation at TRL 5 or beyond. 
+Scientific Social Responsibility:
+SERB has adopted the Scientific Social Responsibility (SSR) Policy to imbibe a culture of social commitment among SERB Grantees. The policy intends to effectively utilize the scientific infrastructure and expertise of SERB grantees to benefit other S&T stakeholders, especially the less-endowed researchers and society. SSR activities need to be chosen after approval and depending on the activities chosen additional budget would be provided under a separate head to carry out the chosen activities. SERB Grantees need to undertake the proposed SSR activities during their project period.
+Duration of Support:
+• The funding will be provided normally for a period of two years.
+
+Benefits
+The award will entail an unstructured budget of up to ₹15 lakhs per year (without international travel), including overhead.
+Eligibility
+Submissions under TETRA can be made only by Principal Inventors of ongoing research grants and all extramural grants completed in the last three years, where the Principal Inventor holds or applied for a patent.
+Applicants [Principal Inventor (PI) and/or Co-Inventor(s)] should be Indian citizens. Foreign nationals (including OCI and NRI) are also eligible to apply provided they fulfill the eligibility criteria notified by SERB (SERB Funding Guidelines for foreign nationals dated 27th Oct 2016).
+The applicant(s) must hold a regular academic/research position in a recognized academic institution or national laboratory or in any other recognized R&D institution in India with at least 3 years of service remaining.
+Private Academic institutions with valid UGC/AICTE/PCI approval, Private R&D Institutions with valid DSIR-SIRO recognition, and Voluntary and Non-Non-governmental organizations registered under the NITI-AAYOG Darpan portal are eligible to host a project.
+The PI and Co-Investigator(s) should hold a Ph.D. degree in Science, Mathematics, Engineering, or M.D / M.S. / M.D.S. / M.V.Sc degree at the time of applying for the grant.
+An applicant is eligible to apply only one proposal during a call (as a PI or Co-PI).
+Not more than one project is allowed at any given time as a Principal Inventor under the program TETRA.
+Note: Any proposal technically rejected should not be resubmitted without any substantial revision to any schemes or programs of the SERB.
+Plagiarism:
+Proposals submitted must be original in ideation and content.
+Plagiarism in any form will not be acceptable.
+All submitted proposals might be subjected to a third-party similarity check and proposals are liable to be rejected if found plagiarized.
+Any text taken verbatim from other sources needs to be identified using quotation marks and proper references.
+Applicants may pre-check their proposals for plagiarism before uploading.
+Application Process
+Online
+Application Procedure:
+Step 01: The Call for applications will be notified through the websites "www.serbonline.in" and "www.serb.gov.in".
+Step 02: The application form along with a proper research proposal highlighting the research work to be undertaken should be submitted online through the website "www.serbonline.in".
+Step 03: Applicant should first register on the online website. Click here to register
+Step 04: After successful registration, the user will be sent a confirmation mail on the registered email ID. Users must click on the URL provided in the mail to confirm registration.
+Step 05: After login, the applicant(s) are required to fill all the mandatory fields in the Profile Detail section under User Profile, which includes Bio-data, Photo, Institute Address, etc.
+Step 06: Details of Patents, Publications in the last 5 years, Projects, Research Collaboration, and Academic Supervision of all investigators (PI and all Co-Inventors) have to be provided.
+Step 07: Some of the details of your proposed work like Title (max 500 characters), Patent summary (max 3000 characters), Keywords (max 6), Translation Methodology (max 1500 characters), Expected output and outcome (max 1500 characters), Innovation (max 1000 characters), Gap area (max 1000 characters) and Advantage of Prototype/ Product to be developed (max 1000 characters) have to be entered at the time of proposal submission.
+Step 08: Other relevant information of the proposal has to be uploaded in a single PDF file not more than 10 MB as other technical documents (OTD).
+Selection Procedure:
+The proposals will be evaluated through stringent peer-review processes by a suitable Programme Advisory Committee.
+The selection will be based on the recommendations of the Programme Advisory Committee (PAC) constituted by the Board. If required, the applicants may be called for discussion/ presentation.
+Documents Required
+1. Biodata (under user profile section)
+2. Certificate from Principal Investigator/Inventor
+3. Endorsement Letter from the Head of Institution
+4. Documents related to Technology Transfer from completed/ongoing project
+5. Support Letter if there is any tie-up with any Start-up or Industry
+6. Plagiarism undertaking

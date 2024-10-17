@@ -1,0 +1,174 @@
+AICTE - Scheme For Promoting Interests, Creativity And Ethics Among Students
+Ministry of Education
+InstitutionStudent
+Details
+The scheme "AICTE - Scheme for Promoting Interests, Creativity and Ethics among Students (SPICES)" is a scheme for the institutions by the All India Council for Technical Education (AICTE), Department of Higher Education (DoHE). This scheme provides financial support to institutions for developing students' clubs for the well-rounded development of students by promoting their interests, creativity, and ethics. This club should serve as a model for other clubs in the institution and also those in other institutions.
+
+Objective
+To energize and position students club/ Chapters/ Societies as facilitating entities for the pursuit of individual interests, creative work, showcasing talent, networking and teamwork opportunities, social experience; organization and management skills, exposure to professional ethics, etc.
+
+Benefits
+Duration: One-Year
+Limit of Funding: ₹ 1,00,000 only (one-time grant to one institute)
+Disbursement of the Funds: ₹ 1,00,000 as advance
+
+Programs/ Activities targeted in the Clubs: Evolution of Interests/Hobbies, Creativity/ Imagination/ Innovation, and Ethics/ Value through a range of student activities.
+Eligibility
+(a) AICTE-approved institutes with a minimum of 5 years of existence.
+(b) Only one proposal per institute for a club (with a minimum of student members 50) will be 
+admissible. Institute may choose its best performing club for applying under the scheme for the grant.
+(c) The institute must commit a contribution of a minimum ₹ 1,00,000 to the club. Contributions over 
+and above ₹ 1,00,000 from institution to club will get weightage for consideration.
+(d) Coordinator must be full-time regular faculty with at least 10-year experience in teaching/ 
+industry.
+(e) Institute should also identify a Co-coordinator who must be a faculty with at least 5 years of 
+experience in teaching/industry.
+(f) Experience and inclination of organizing events/ co-curriculum activities are desirable for the coordinator and co-coordinator.
+
+Terms and Conditions
+(a) Students on a roll to the institute shall be members of the club.
+(b) The grant can be utilized for activities mentioned at Point No. 8 and meeting the cost of registration and travel (up to 40% of the total grant) of students participating in outstation activities.
+(c) Funds once released/sanctioned for supporting the particular students club cannot be utilized for any other program.
+(d) Ex-students and ex-faculty members and other officials of the institute shall not be members of the club.
+(e) The Clubs must be encouraged to reach out to alumni and industries for fund-raising in their 
+events.
+(f) The academic background of the coordinator must be in conformity with the theme of the club.
+(g) Institute will be eligible to receive the grant under the SPICES scheme only once.
+Application Process
+Online
+(a) Applications are invited every year at the beginning of the academic session (July/ August).
+(b) Institute must apply through its login ID at aicte-india.org
+
+AICTE Portal Login
+Step 1: Visit the AICTE website https://www.aicte-india.org
+Step 2: Click on the “Web Portal Login” button.
+Step 3: Login to the AICTE portal with the credentials provided by the AICTE.
+Step 4: After successful logging, the home page of the institute appears.
+
+AQIS Application
+Step 1: After login, navigate to the AQIS application screen please click on the “AICTE quality Improvement Schemes (Financial Funding Schemes)” icon.
+Step 2: The AQIS application page of the institute is open.
+Step 3: Click on the “AQIS Application- Institute details” 
+Step 4: Institute and Bank Details will auto-populate in “AQIS Application – Institute Details” Please check and update according to changes.
+
+Note:
+1) Bank Account should be Saving Account.
+2) Account holder's name should not be a personal name.
+
+Step 5: Check the declaration flag, then click on the “Save Bank Details” button.
+Step 6: To confirm the bank details entered, kindly click on the “Confirm Bank Details” button.
+Step 7: If the bank details are incorrect, click on the Cancel button to edit the bank details again otherwise click on OK to confirm the details.
+
+Note: Once the ‘OK’ button is clicked. The Institute details and Bank details will become read-only mode.
+
+Step 8: Click on the “All AQIS Application Information”
+Step 9: Click on the “Download Mandate Form” and “Download Declaration Certificate”.
+Step 10: Click on the “AQIS Document Attachment”
+Step 11: Click on the new record ( ) button.
+Step 12: After attaching the Mandate form, click on the save ( ) button.
+
+Note: Please attach the Verified Bank Mandate Form in scanned PDF format (Maximum Size10 MB). 
+
+Application for ‘SPICES’
+Initiating New application
+Step 1: After uploading the attachment of the mandate form, Click on “All AQIS Application Information”
+Step 2: Click on the new record ( )button.
+Step 3: Select the “SPICES- Scheme for Promoting Interests, Creativity and Ethics among Students” in AQIS Schemes dropdown. 
+Step 4: After selecting the scheme, click on the ( ) Save button.
+Step 5: Click on AQIS Application ID 
+Step 6: AQIS Detail Application for SPICES.
+
+Section A: Coordinator/PI/Applicant Details
+Step 1: Click on the Coordinator/PI/Applicant Details
+Step 2: Click on the selection menu icon( ) in the Faculty ID field to add details of the scheme coordinator. Select the faculty ID from the Faculty ID list and click on the OK button.
+Step 3: Fill in all the fields of the Details of the Coordinator section.
+Step 4: Click on the selection menu icon( ) in the Co-coordinator Faculty ID field to add details of the scheme Co-coordinator. Select the faculty ID from the Faculty ID list and click on the OK button.
+Step 5: Fill in all the fields of Details of the Co-coordinator section.
+Step 6: Fill in all the fields of the “Details of the Club” section.
+Step 7: Confirm the declaration 
+
+Section B: Academic Credentials of Coordinator /PI/Applicant
+Step 1: Click on the Academic Credentials of Coordinator/ PI/Applicant
+Step 2: Click on the new record ( ) button to add the Record and select the parameter Criteria.
+Step 3: Select “YES/NO” according to the parameter, fill in the Count/Number, and fill in the Area of Specialisation. Click on the save ( ) button.
+
+Note: Further repeat the above Steps 2 and 3 for the following Parameters/Criteria
+• Whether the Coordinator has Ph.D.
+• Whether Coordinator has PG
+• Teaching/Industry Experience in years
+• Relevant experience in conducting/coordinating students activities/programs in the last three years
+• Any achievement received at the state level
+• Any achievement received at the national level
+• Any achievement received at the international level
+
+Step 4: After filling in all the required details in the fields, click on the Save ( ) button. 
+
+Section C: Credentials of Institution / Department
+Step 1: Click on the Credentials of Institution / Department
+Step 2: Click on the new record ( ) button to add the Record and select the parameter Criteria.
+Step 3: Select “YES/NO” according to the parameter, fill in the Count/Number, and fill in the Details. Click on the save ( ) button.
+
+Note: Further repeat the above Steps 2 and 3 for the following Parameters/Criteria
+• No. of Awards and recognitions received in Department /institute in the last 3 years
+• No. of functional students clubs/students societies/students chapters
+• Number of courses Accredited in the institute
+• Skill/Social Development initiatives taken by institute/department in last 3 years
+• Student, Faculty Ratio
+
+Step 4: After filling in all the required details in the fields, click on the Save ( ) button. 
+
+Section D: Justification of proposal
+Step 1: Click on the Justification of proposal
+Step 2: Click on the new record ( ) button to add the Record and select the parameter Criteria.
+Step 3: Select the parameter/criteria and fill in the Details. Click on the save ( ) button.
+Note: Further repeat the above Steps 2 and 3 for the following Parameters/Criteria
+• Action Plan of the Club for one year
+• Collaboration/ Interfacing of Club with industry/ Association/ Professional Body
+• Details of regional/state-level events organized by the Club in the last 3 years
+• Expected outcomes and benefits to students/institute
+• Details of international-level events organized by the Club in the last 3 years
+• Details of national-level events organized by the Club in the last 3 years
+• Fund Raising Strategies
+• No. of Awards/ Prize won by Club at the International level and their details
+• No. of Awards/Prize won by Club at the National level and their details
+• Vision of the Club
+Step 4: After filling in all the required details in the fields, click on the Save ( ) button. 
+
+Section E: Credentials of the Club
+Step 1: Click on the Credentials of the Club
+Step 2: Click on the new record ( ) button to add the Record and select the parameter Criteria.
+Step 3: Select “YES/NO” according to the parameter, fill in the Count/Number, and fill the Details. Click on the save ( ) button.
+
+Note: Further repeat the above Steps 2 and 3 for the following Parameters/Criteria
+• Commitment of contribution by the institute to the club
+• No. of Awards/ Prize won by Club at the state level
+• Whether club have a bank account?
+• Whether the club is having its Bye-laws
+• No. of Students associated with the Club
+• No. of years of establishment of the club
+
+Step 4: After filling in all the required details in the fields, click on the Save ( ) button. 
+
+Validate and Submit the Application
+Step 1: Click on the Coordinator/PI/Applicant Details
+Step 2: Click on the Validate application button.
+Step 3: After clicking on the Validation button the message will be populated and stated as “Validation for Scheme: SPICES Scheme for Promoting Interests, Creativity and Ethics among Students ' is completed Successfully” Click on the OK button.
+Step 4: Click on the Submit button.
+Documents Required
+Documents to be uploaded on the AICTE portal after the completion of one year:
+Institute has to fill up and update information on the AICTE portal and upload the following documents:
+(a) Photographs showing various activities during club events.
+(b) Feedback from members of the club.
+(c) A video of 2-minute duration having: 
+(i) Introduction by the Coordinator mentioning the name and state of the institute. 
+(ii) Activities details and achievements attained through Students Club 
+(iii) How the club was beneficial to students/carriers and institutes. 
+(iv) Acknowledgement of AICTE support.
+(d) Performance Report (including Feedback).
+
+Documents to be submitted after completion of one year:
+(a) Utilization certificate and statement of accounts in prescribed proforma duly audited by the Finance 
+Officer/ Account Officer as per prescribed format.
+(b) Supporting bills/ documents on account of expenses incurred for the purpose duly attested by the Head of the Institute.
+(c) The amount made available by the institution approved by the Council/ University/ State Government and other sources.
+(d) Soft copy of the final report submitted on the portal as mentioned above (in section 11).
