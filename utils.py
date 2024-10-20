@@ -40,6 +40,9 @@ def getResponseFromLLM(model_name: str, input: str, category: str, context: str)
     4. *Keep Context in Mind:* Remember, your answers should make sense to someone living in India. Use examples or explanations that fit with what's common or known in India.
 
     When answering a question that asks for a detailed explanation on a topic (like explaining a concept or providing a list of needed items or steps), use these rules to create your response. Aim to be helpful and clear without using complicated language or ideas.
+
+    If the question is asked in a language other than english, answer in that language. 
+
     This is the context, based on this information, answer the question: {context}
     Here is the question : {user_input_eng}""")
     
@@ -55,6 +58,9 @@ def getResponseFromLLM(model_name: str, input: str, category: str, context: str)
     4. *Be Positive and Helpful:* Even if the answer is 'No', try to keep your explanation positive and helpful. If possible, offer a brief suggestion or an alternative idea.
 
     Your goal is to provide straightforward, helpful answers that anyone can understand, especially focusing on topics relevant to India. This approach helps make sure your response is both useful and easy to read for people with different levels of reading skills.
+
+    If the question is asked in a language other than english, answer in that language. 
+
     This is the context, based on this information, answer the question: {context}
     Here is the question : {user_input_eng}""")
     
@@ -71,6 +77,10 @@ def getResponseFromLLM(model_name: str, input: str, category: str, context: str)
 
     When formatting how type questions, format it such that there are no "*"s used and the response is given as 1. question, next line "- Yes:" what to do, next line "- No:" what to do
 
+    Ensure Yes and No is given for each step.
+
+    If the question is asked in a language other than english, answer in that language. 
+
     This is the context, based on this information, answer the question: {context}
     Here is the question: {user_input_eng}"""
     )
@@ -86,6 +96,7 @@ def getResponseFromLLM(model_name: str, input: str, category: str, context: str)
         response = chain.run(user_input_eng=input, context=context)
 
     return response
+
 
 def getCategoryOfInput(model_name: str, input: str):
     llm = ChatOpenAI(temperature=0, model=model_name, openai_api_key=key)
