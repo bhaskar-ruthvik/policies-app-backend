@@ -63,6 +63,15 @@ def load_vector_store():
 
 vectorstore = load_vector_store()
 
+DB_FAISS_PATH = 'vectorstores/db_faiss'
+embeddings = OpenAIEmbeddings(api_key=key)
+#vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
+
+def retrieveDocuments(input_text):
+    # Retrieve documents from FAISS based on the input
+    retrieved_documents = vectorstore.as_retriever().get_relevant_documents(input_text)
+    return retrieved_documents
+
 @app.route('/',methods=["POST"])
 def index():
     if request.method == "POST": 
