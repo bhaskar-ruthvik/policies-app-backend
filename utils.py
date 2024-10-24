@@ -22,7 +22,7 @@ vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deseri
 
 def retrieveDocuments(input_text):
     # Retrieve documents from FAISS based on the input
-    retrieved_documents = vectorstore.as_retriever().get_relevant_documents(input_text)
+    retrieved_documents = vectorstore.as_retriever(search_type="similarity", search_kwargs={"k": 3})
     return retrieved_documents
 
 def getResponseFromLLM(model_name: str, input: str, category: str, context: str):
