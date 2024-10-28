@@ -169,5 +169,3 @@ def run_chain(prompt_name, input_text, context):
 #     response = get_response_from_llm(input_data)
 #     return jsonify({"response": response})
 
-if _name_ == '_main_':
-    app.run(debug=True)
