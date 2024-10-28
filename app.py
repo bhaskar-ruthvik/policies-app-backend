@@ -38,7 +38,7 @@ def load_documents_from_txt(directory: str):
 
 def setup_vector_store():
     if not os.path.exists(DB_FAISS_PATH):
-        directory = 'sparkle_schemes/'  # Ensure directory exists and contains .txt files
+        directory = 'sparkle_schemes2/'  # Ensure directory exists and contains .txt files
         documents = load_documents_from_txt(directory)
         text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
         split_documents = []

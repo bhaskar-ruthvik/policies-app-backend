@@ -16,7 +16,7 @@ app = Flask(__name__)
 
 # Configurations
 DB_FAISS_PATH = 'vectorstores/db_faiss'
-SCHEMES_DIR = 'sparkle_schemes'
+SCHEMES_DIR = 'sparkle_schemes2'
 state_set = set([
     "Andaman and Nicobar Islands", "Andhra Pradesh", "Arunachal Pradesh",
     "Assam", "Bihar", "Chandigarh", "Chhattisgarh", "Delhi", "Goa",
