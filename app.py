@@ -1,114 +1,153 @@
-from flask import Flask,jsonify,request
-from utils2 import getCategoryOfInput,getResponseFromLLM, formatParagraphType,formatFlowchartType
+from flask import Flask, jsonify, request
 import os
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
-from langchain.document_loaders import TextLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
-from langchain.schema import Document
-from langchain.embeddings.openai import OpenAIEmbeddings
-from langchain.chains import RetrievalQA
 from langchain.prompts import ChatPromptTemplate
+from langchain.chains import LLMChain
 from langchain_openai import ChatOpenAI
+import spacy
+import numpy as np
+from sklearn.feature_extraction.text import TfidfVectorizer
 import re
 from dotenv import load_dotenv
 
 app = Flask(__name__)
-model = "gpt-4o"
-
 load_dotenv()
 key = os.getenv("OPENAI_API_KEY")
 
+
 DB_FAISS_PATH = 'vectorstores/db_faiss'
+SCHEMES_DIR = 'sparkle_schemes2'  # Define this path appropriately
+STATE_BIAS = 10000
+
+# Load Embeddings and Vectorstore
 embeddings = OpenAIEmbeddings(api_key=key)
+vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
 
-def load_documents_from_txt(directory: str):
-    docs = []
-    for filename in os.listdir(directory):
-        if filename.endswith(".txt"):
-            file_path = os.path.join(directory, filename)
-            loader = TextLoader(file_path)
-            file_docs = loader.load()
-            
-            for doc in file_docs:
-                doc.metadata = {"source": filename}
-            
-            docs.extend(file_docs)
-    return docs
+# Load NER model for state detection
+nlp = spacy.load("en_core_web_sm")
+state_names = ["Andhra Pradesh", "Tamil Nadu", "Karnataka", "Kerala"]  # Add more as needed
+state_set = set(state_names)
 
-def setup_vector_store():
-    if not os.path.exists(DB_FAISS_PATH):
-        directory = 'sparkle_schemes2/'  # Ensure directory exists and contains .txt files
-        documents = load_documents_from_txt(directory)
-        text_splitter = RecursiveCharacterTextSplitter(chunk_size=1000, chunk_overlap=0)
-        split_documents = []
-        for doc in documents:
-            chunks = text_splitter.split_text(doc.page_content)
-            split_documents.extend([Document(page_content=chunk, metadata=doc.metadata) for chunk in chunks])
-        vectorstore = FAISS.from_documents(split_documents, embeddings)
-        vectorstore.save_local(DB_FAISS_PATH)
+# Initialize OpenAI LLM
+model_name = "gpt-4o"
+llm = ChatOpenAI(temperature=0, model=model_name, openai_api_key=key)
+
+# Prompts for categorization
+prompt_categ = ChatPromptTemplate.from_template("""
+Your task is to categorize the question into one of the following:
+1. Procedure-Based Question: Requires step-by-step answer.
+2. Yes/No Question: Direct Yes/No answer with an explanation.
+3. Informative Paragraph Question: Requires a detailed informative paragraph.
+
+Which category does this {input} belong to?
+""")
+
+# Define response prompts
+prompt_what = ChatPromptTemplate.from_template("""
+Use clear, simple language to answer this question based on context: {context}
+Question: {user_input_eng}
+""")
+
+prompt_is = ChatPromptTemplate.from_template("""
+Give a 'Yes' or 'No' answer with a simple explanation.
+Context: {context}
+Question: {user_input_eng}
+""")
+
+prompt_how = ChatPromptTemplate.from_template("""
+Provide a step-by-step answer using Yes/No format.
+Context: {context}
+Question: {user_input_eng}
+""")
+
+# Define the retrieval function
+def detect_state(query):
+    doc = nlp(query)
+    for ent in doc.ents:
+        if ent.label_ == "GPE" and ent.text in state_set:
+            return ent.text
+    return None
+
+def retrieve_documents(input_text):
+    return vectorstore.as_retriever().get_relevant_documents(input_text)
+
+def categorize_input(input_text):
+    chain = LLMChain(llm=llm, prompt=prompt_categ)
+    category = chain.run(input=input_text).strip()
+    return category
+
+def get_response(model_name: str, input_text: str, category: str, context: str):
+    if category == "Procedure-Based Question":
+        prompt = prompt_how
+    elif category == "Yes/No Question":
+        prompt = prompt_is
     else:
-        print("FAISS vector store already exists.")
+        prompt = prompt_what
+    
+    chain = LLMChain(llm=llm, prompt=prompt)
+    response = chain.run(user_input_eng=input_text, context=context)
+    return response
 
-def load_vector_store():
-    if os.path.exists(DB_FAISS_PATH):
-        print("Loading pre-built FAISS vector store...")
-        return FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
-    else:
-        raise FileNotFoundError(f"FAISS vector store not found at {DB_FAISS_PATH}. Please upload the vector store.")
-
-
-#setup_vector_store()
-#vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
-
-vectorstore = load_vector_store()
-
-
-#vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
-
-def retrieveDocuments(input_text):
-    # Retrieve documents from FAISS based on the input
-    retrieved_documents = vectorstore.as_retriever().get_relevant_documents(input_text)
-    return retrieved_documents
-
-@app.route('/',methods=["POST"])
+# Define the route
+@app.route('/', methods=["POST"])
 def index():
-    if request.method == "POST": 
-        ip = request.form.get("body")
-        
-        # Determine category of the input
-        #cat = getCategoryOfInput(model, ip)
-        cat = getCategoryOfInput(ip)
+    input_text = request.form.get("body")
+    
+    # Retrieve documents
+    context_documents = retrieve_documents(input_text)
+    context = "\n\n".join([doc.page_content for doc in context_documents])
+    
+    # Categorize the input
+    category = categorize_input(input_text)
+    
+    # Generate response
+    response = get_response(model_name, input_text, category, context)
+    
+    # Format response
+    if category == "Procedure-Based Question":
+        formatted_response = format_flowchart(response)
+    elif category == "Informative Paragraph Question":
+        formatted_response = format_paragraph(response)
+    else:
+        formatted_response = {"response": response}
+    
+    return jsonify({
+        "category": category,
+        "formatted_response": formatted_response
+    })
 
-        
-        # Retrieve relevant documents for context
-        retrieved_documents = retrieveDocuments(ip)
-        context = "\n\n".join([doc.page_content for doc in retrieved_documents])
-        
-        # Generate the response with the retrieved context
-        #content = getResponseFromLLM(model, ip, cat, context=context)
-        content = getResponseFromLLM(model, ip, cat, context=context)
-        
-        if cat == "Informative Paragraph Question":
-            headings, slugs = formatParagraphType(content)
-            body = {
-                "headings": headings,
-                "slugs": slugs
-            }
-        elif cat == "Procedure-Based Question":
-            body = formatFlowchartType(content)
-        else:
-            [val, cont] = content.split("\n\n", 1)
-            body = {
-                "value": val,
-                "content": cont
-            }
+# Helper functions for formatting
+def format_flowchart(response):
+    steps = response.strip().split("\n\n")
+    flowchart = []
 
-        data = {
-            "type": cat,
-            "body": body
-        }
-        return jsonify(data)
+    questionMatcher = re.compile(r"^\d+\.\s*(.+)")
+    yesMatcher = re.compile(r"-\s*Yes:\s*(.+?)(?=\s*-\s*No:|\Z)", re.DOTALL)  
+    noMatcher = re.compile(r"-\s*No:\s*(.+?)(?=\n|$)", re.DOTALL) 
+    
+    for step in steps:
+        question_match = questionMatcher.search(step)
+        yes_action_match = yesMatcher.search(step)
+        no_action_match = noMatcher.search(step)
+        
+        if question_match:
+            question_text = question_match.group(1).strip()
+            yes_text = yes_action_match.group(1).strip() if yes_action_match else None
+            no_text = no_action_match.group(1).strip() if no_action_match else None
+            
+            flowchart.append({
+                "question": question_text,
+                "yes_action": yes_text,
+                "no_action": no_text
+            })
+    return {"flowchart": flowchart}
+
+def format_paragraph(response):
+    paragraphs = response.split("\n\n")
+    headings = ["Introduction"] + [f"Section {i+1}" for i in range(1, len(paragraphs)-1)] + ["Conclusion"]
+    bodies = paragraphs
+    return {"headings": headings, "bodies": bodies}
 
 if __name__ == "__main__":
     app.run(debug=True)
