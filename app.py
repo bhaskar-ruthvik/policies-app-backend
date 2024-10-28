@@ -1,5 +1,5 @@
 from flask import Flask,jsonify,request
-from utils import getCategoryOfInput,getResponseFromLLM, formatParagraphType,formatFlowchartType
+from utils2 import getCategoryOfInput,getResponseFromLLM, formatParagraphType,formatFlowchartType
 import os
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.vectorstores import FAISS
