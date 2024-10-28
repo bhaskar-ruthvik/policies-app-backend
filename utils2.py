@@ -162,6 +162,55 @@ def run_chain(prompt_name, input_text, context):
     chain = LLMChain(llm=llm, prompt=prompt)
     return chain.run(user_input_eng=input_text, context=context)
 
+def formatFlowchartType(response: str):
+    steps = response.strip().split("\n\n")
+
+    questionMatcher = re.compile(r"^\d+\.\s*(.+)") 
+    yesMatcher = re.compile(r"-\s*Yes:\s*(.+?)(?=\s*-\s*No:|\Z)", re.DOTALL)  
+    noMatcher = re.compile(r"-\s*No:\s*(.+?)(?=\n|$)", re.DOTALL) 
+    flowchart = []
+    
+    for step in steps:
+        question_match = questionMatcher.search(step)
+        yes_action_match = yesMatcher.search(step)
+        no_action_match = noMatcher.search(step)
+        
+        if question_match:
+            question_text = question_match.group(1).strip()
+            yes_text = yes_action_match.group(1).strip() if yes_action_match else None
+            no_text = no_action_match.group(1).strip() if no_action_match else None
+            
+            flowchart.append({
+                "question": question_text,
+                "yes_action": yes_text,
+                "no_action": no_text
+            })
+
+    return {"flowchart": flowchart}
+
+
+
+def formatParagraphType(response: str):
+    headingRegex = re.compile(r'\*\*.*\*\*')
+    paragraphs = response.split("\n\n")
+    headings = []
+    bodies = []
+    
+    for i, para in enumerate(paragraphs):
+        if i == 0:
+            headings.append("Introduction")
+            bodies.append(para)
+        elif i == len(paragraphs) - 1:
+            headings.append("Conclusion")
+            bodies.append(para)
+        else:
+            headings.append(headingRegex.search(para).group(0).split("**")[1])
+            pts = [x.split("\n")[0] for x in para.split("  - ")[1:]]
+            temp = " ".join(pts)
+            bodies.append(temp)
+    
+    return headings, bodies
+
 # Flask endpoint to get the response from the LLM
 # @app.route('/get_answer', methods=['POST'])
 # def get_answer():
