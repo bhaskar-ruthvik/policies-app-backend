@@ -34,14 +34,26 @@ model_name = "gpt-4o"
 llm = ChatOpenAI(temperature=0, model=model_name, openai_api_key=key)
 
 # Prompts for categorization
-prompt_categ = ChatPromptTemplate.from_template("""
-Your task is to categorize the question into one of the following:
-1. Procedure-Based Question: Requires step-by-step answer.
-2. Yes/No Question: Direct Yes/No answer with an explanation.
-3. Informative Paragraph Question: Requires a detailed informative paragraph.
+prompt_categ = ChatPromptTemplate.from_template(
+    """Task Overview:
+    Your objective is to categorize any presented question into one of the following distinct types, based on the nature of the response it seeks:
 
-Which category does this {input} belong to?
-""")
+    Procedure-Based Questions:
+    Definition: These questions require a detailed, step-by-step guide or process as an answer. They are focused on how to accomplish a specific task or achieve a particular outcome.
+    
+    Yes/No Questions:
+    Definition: These questions can be directly answered with a "Yes" or "No," potentially followed by a succinct explanation.
+
+    Informative Paragraph Questions:
+    Definition: These questions demand an answer in the form of a comprehensive, informative paragraph.
+
+    Now which category does this {input} belong to?
+    The answer should exactly with no other text be one of the following:
+    Procedure-Based Question
+    Yes/No Question
+    Informative Paragraph Question
+    """
+    )
 
 # Define response prompts
 prompt_what = ChatPromptTemplate.from_template("""
