@@ -63,8 +63,7 @@ def load_vector_store():
 
 vectorstore = load_vector_store()
 
-DB_FAISS_PATH = 'vectorstores/db_faiss'
-embeddings = OpenAIEmbeddings(api_key=key)
+
 #vectorstore = FAISS.load_local(DB_FAISS_PATH, embeddings, allow_dangerous_deserialization=True)
 
 def retrieveDocuments(input_text):
@@ -78,13 +77,16 @@ def index():
         ip = request.form.get("body")
         
         # Determine category of the input
-        cat = getCategoryOfInput(model, ip)
+        #cat = getCategoryOfInput(model, ip)
+        cat = getCategoryOfInput(ip)
+
         
         # Retrieve relevant documents for context
         retrieved_documents = retrieveDocuments(ip)
         context = "\n\n".join([doc.page_content for doc in retrieved_documents])
         
         # Generate the response with the retrieved context
+        #content = getResponseFromLLM(model, ip, cat, context=context)
         content = getResponseFromLLM(model, ip, cat, context=context)
         
         if cat == "Informative Paragraph Question":
