@@ -14,7 +14,7 @@ from dotenv import load_dotenv
 app = Flask(__name__)
 load_dotenv()
 key = os.getenv("OPENAI_API_KEY")
-
+openai_api_key= os.getenv("OPENAI_API_KEY")
 
 DB_FAISS_PATH = 'vectorstores/db_faiss'
 SCHEMES_DIR = 'sparkle_schemes2'  # Define this path appropriately
@@ -89,7 +89,6 @@ def get_response(model_name: str, input_text: str, category: str, context: str):
     response = chain.run(user_input_eng=input_text, context=context)
     return response
 
-# Define the route
 @app.route('/', methods=["POST"])
 def index():
     input_text = request.form.get("body")
@@ -149,5 +148,20 @@ def format_paragraph(response):
     bodies = paragraphs
     return {"headings": headings, "bodies": bodies}
 
+# def main():
+#     with app.test_client() as client:
+#         user_input = "I am from Maharashtra, I want to know about a health scheme"
+        
+#         # Simulate a POST request to the '/' endpoint
+#         response = client.post('/', data={'body': user_input})
+        
+#         # Print the response data
+#         print("Response JSON:", response.get_json())
+
+
+# if __name__ == "__main__":
+#     app.run(debug=True)
+
 if __name__ == "__main__":
-    app.run(debug=True)
+    main()
+
