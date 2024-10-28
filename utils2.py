@@ -12,7 +12,7 @@ from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Load environment variables and Flask app
 load_dotenv()
-app = Flask(_name_)
+app = Flask(__name__)
 
 # Configurations
 DB_FAISS_PATH = 'vectorstores/db_faiss'
