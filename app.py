@@ -121,11 +121,10 @@ def index():
     elif category == "Informative Paragraph Question":
         formatted_response = format_paragraph(response)
     else:
-        formatted_response = {"response": response}
+        formatted_response = response
     
     return jsonify({
-        "category": category,
-        "formatted_response": formatted_response
+        "Final Response": formatted_response
     })
 
 # Helper functions for formatting
