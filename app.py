@@ -7,17 +7,13 @@ from langchain.chains import LLMChain
 from langchain_openai import ChatOpenAI
 import spacy
 import numpy as np
-from sklearn.feature_extraction.text import TfidfVectorizer
 import re
 from dotenv import load_dotenv
 
 app = Flask(__name__)
 load_dotenv()
-key = os.getenv("OPENAI_API_KEY")
-openai_api_key= os.getenv("OPENAI_API_KEY")
-
+key = os.getenv("OPENAI_API_KEY") 
 DB_FAISS_PATH = 'vectorstores/db_faiss'
-SCHEMES_DIR = 'sparkle_schemes2'  # Define this path appropriately
 STATE_BIAS = 10000
 
 # Load Embeddings and Vectorstore
@@ -53,25 +49,34 @@ prompt_categ = ChatPromptTemplate.from_template(
     Yes/No Question
     Informative Paragraph Question
     """
-    )
+)
 
 # Define response prompts
-prompt_what = ChatPromptTemplate.from_template("""
-Use clear, simple language to answer this question based on context: {context}
-Question: {user_input_eng}
-""")
+prompt_what = ChatPromptTemplate.from_template(
+        """Your job is to answer questions that need a bit more detail but keep your answers easy to understand. Follow these guidelines to help you:
 
-prompt_is = ChatPromptTemplate.from_template("""
-Give a 'Yes' or 'No' answer with a simple explanation.
-Context: {context}
-Question: {user_input_eng}
-""")
+        1. *Use Simple Language:* Explain things using basic words and short sentences. Avoid big or complicated words.
+        2. *Stick to the Facts:* Give answers based on real information. Don’t guess or make things up. Make sure what you say is true for India.
+        3. *Answer in Points:* Break down your answer into clear, numbered points. This makes it easier to read and understand.
+        4. *Keep Context in Mind:* Remember, your answers should make sense to someone living in India.
 
-prompt_how = ChatPromptTemplate.from_template("""
-Provide a step-by-step answer using Yes/No format.
-Context: {context}
-Question: {user_input_eng}
-""")
+        This is the context: {context}
+        Here is the question : {user_input_eng}"""
+)
+
+prompt_is = ChatPromptTemplate.from_template(
+        """Your main task is to give a clear 'Yes' or 'No' answer to the question asked. After you answer, add a short paragraph explaining your answer in a simple way.
+
+        This is the context: {context}
+        Here is the question : {user_input_eng}"""
+)
+
+prompt_how = ChatPromptTemplate.from_template(
+        """Provide a step-by-step answer using Yes/No questions. Keep it straightforward and accurate for someone in India.
+
+        This is the context: {context}
+        Here is the question : {user_input_eng}"""
+)
 
 # Define the retrieval function
 def detect_state(query):
@@ -101,6 +106,7 @@ def get_response(model_name: str, input_text: str, category: str, context: str):
     response = chain.run(user_input_eng=input_text, context=context)
     return response
 
+
 @app.route('/', methods=["POST"])
 def index():
     input_text = request.form.get("body")
@@ -121,11 +127,9 @@ def index():
     elif category == "Informative Paragraph Question":
         formatted_response = format_paragraph(response)
     else:
-        formatted_response = response
+        formatted_response = {"response": response} # Direct response as per the old format
     
-    return jsonify({
-        "Final Response": formatted_response
-    })
+    return jsonify(formatted_response)
 
 # Helper functions for formatting
 def format_flowchart(response):
@@ -159,20 +163,16 @@ def format_paragraph(response):
     bodies = paragraphs
     return {"headings": headings, "bodies": bodies}
 
-# def main():
-#     with app.test_client() as client:
-#         user_input = "I am from Maharashtra, I want to know about a health scheme"
+def main():
+    with app.test_client() as client:
+        user_input = "Do people with disabilities get financial aid? I live in Kerala."
         
-#         # Simulate a POST request to the '/' endpoint
-#         response = client.post('/', data={'body': user_input})
+        # Simulate a POST request to the '/' endpoint
+        response = client.post('/', data={'body': user_input})
         
-#         # Print the response data
-#         print("Response JSON:", response.get_json())
+        # Print the response data
+        print("Response JSON:", response.get_json())
 
-
-# if __name__ == "__main__":
-#     app.run(debug=True)
-
+# Run the main function to test
 if __name__ == "__main__":
     main()
-
