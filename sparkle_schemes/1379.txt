@@ -1,0 +1,58 @@
+Kisan Kaleva Yojana
+Rajasthan
+AgricultureFarmerFood
+Details
+The Kisan Kaleva Scheme, initiated by the Rajasthan Government's Agriculture Department, provides food at concessional rates through coupons to farmers and their assistants selling crops in vegetable market premises. Registered farmers and their assistants can avail a plate of food for ₹5/- under this provision. This initiative aims to alleviate the financial burden on farmers and their helpers while ensuring they have access to affordable and nutritious meals during their visits to the market. Through the Kisan Kaleva Scheme, the government demonstrates its commitment to supporting agricultural communities and promoting their well-being by offering practical assistance.
+
+Benefits
+The scheme aims to provide affordable and nutritious meals to farmers and their helpers at a subsidized rate of ₹5/- per plate.
+The meals will be provided in the mandi premises itself.
+The menu for the meal includes:
+8 chapatis (made from 250 grams of flour).
+1 bowl of dal (125 grams).
+1 bowl of vegetables (125 grams).
+50 grams of jaggery (in winter, from October to March).
+200 ml of buttermilk (in summer, from April to September).
+Eligibility
+The applicant should be Hamal/Palledar/Tulara of the farmers coming to sell agricultural commodities.
+The applicant should be a member of the market premises.
+The applicant should be a license holder of the market.
+Application Process
+Online
+Registration
+Step-1: Applicant have to visit the official portal. 
+Step-2: Click on the option “Register”.
+Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.
+  Citizen
+Step-4: Choose the either one option from  the Jan Aadhaar Or Google to process further.
+Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,
+Select your name, the name of the head of the family and all the other members and 
+Click on the ‘Send OTP’ button. Enter the ‘OTP’ and 
+Click on the ‘Verify OTP’ button to Complete the registration. 
+Google : Enter the Gmail ID, click on the ‘Next’ button, 
+Enter the password.
+A new link appear on screen, now click on the new SSO link.
+SSO id will appear on the screen, now create the password.
+Enter Mobile number, click on registration.
+Step-5: Submit.
+
+Apply
+Step-1: Applicant have to visit the official portal. 
+Step-2: After login, dashboard will open.
+Step-3: Click on “ RAJ-KISAN ” option. 
+Step-4: In "Farmer", click on "Application Entry Request".
+Step-5: Enter the "Bhamashah ID" or "Janaadhaar ID" and search.  
+Step-6: Select the person name and scheme name. 
+Step-7: Complete the Aadhaar Authentication and click on Get details. 
+Step-8: Provide the required details.
+            - Pensioner Details.
+            - Bank Details.
+            - Disability Details.
+            - Verification Details.
+            - Upload Documents.
+Step-9: Submit.
+
+When the coupon code is issued to the farmer, license holder Hamal/Palledar/Tulara is provided by the concerned farmer to the Kaleva operator, after the coupon code is verified on the operator's system, the concerned person is provided food at a concessional rate of ₹ 5/-.
+Documents Required
+Identification Proof
+Farmers coming to the market premises to sell agricultural commodities are issued a maximum of 02 food coupons on each incoming entry card issued at the market gate and 01 food coupon at a concessional rate is issued to license holder Hamal/Palledar/Tulara on the license number. The validity of the coupon issued to the concerned is till 24 hours.

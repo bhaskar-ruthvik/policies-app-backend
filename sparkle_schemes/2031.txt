@@ -1,0 +1,36 @@
+Integrated Social Security Scheme: Old Age Pension
+Ladakh
+BPLISSSOld AgePension
+Details
+The scheme "Old Age Pension (OAP)" is a sub-component of the “Integrated Social Security Scheme (IGSSS)” implemented by the Social and Tribal Welfare Department, Administration of Union Territory of Ladakh. Under this scheme, pension is provided to old aged persons males (60 years & above) and females (55 and above) and who are destitute in the sense of having no means of subsistence from their own source of income or through financial support from family members or other sources.
+
+Benefits
+Amount of pension:  ₹1,000/- per month per beneficiary 
+Eligibility
+The applicant should be a permanent resident of the Union Territory of Ladakh.
+The applicant should belong to the Below Poverty Line (BPL) Category.
+The applicant’s age should be 60 years and above for males and 55 years and above for females.
+The applicant should have no means of subsistence from their own source of income or through financial support from family members or other sources.
+Application Process
+Online
+Offline
+Registration Process:
+Step 1: Visit the ‘Ladakh E-Seva Platform’ and navigate to the “Go Live Services” tab on the right side of the screen. Select the ISSS scheme under the 'Social Welfare' section.
+Step 2: Click on the 'Registration' tab in the right corner of the screen.
+Step 3: Read the instructions carefully and fill in all the required information accurately. Upload the Passport-size scan photo (jpg image) in a clear background of size less than 50 kB. 
+Step 4: Note the User ID and Password after successful registration for future reference.
+Login to apply for the scheme benefits:
+Step 1: To apply under the scheme, visit the ‘Ladakh E-Seva Platform’ again and navigate to the “Go Live Services” tab on the right side of the screen. Select the ISSS scheme under the 'Social Welfare' section.
+Step 2: Enter your login credentials (Login ID and Password generated after registration), select "User Role" as "Citizen," enter the Captcha, and click on "Submit". 
+Step 3: After Login, the applicant has to click on the “E-services” tab in the left menu.
+Step 4: Click on the “Department of Social & Tribal Welfare” and select ‘Old Age Pension’ under “Integrated Social Security Scheme”
+Step 5: Fill in the required details accurately and upload the mandatory documents then click on Submit to complete the application process.
+Documents Required
+Passport-size Photograph
+Identity proof i.e. Aadhaar card
+Proof of Age
+Proof of Income
+Proof of Status: Below Poverty Line (BPL) category
+Address Proof
+Bank account details/ Bank Passbook
+Any other documents as required

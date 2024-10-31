@@ -1,0 +1,68 @@
+Low Tension Power Tariff (LTPT) Subsidy
+Tamil Nadu
+ElectricityEnterpriseMSMEPowerSubsidy
+Details
+The scheme "Low Tension Power Tariff (LTPT) Subsidy" by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced with the objective of assisting MSME enterprises in reducing their electricity costs. A subsidy of 20% is given for 36 months from the date of commencement of production or from the date of obtaining power connection, whichever is later, after allotment of an Entrepreneur Memorandum (Part 2) number from the District Industries Centres. The eligible industries have to file their LTPT subsidy application within three months from the date of commencement of commercial production or the date of power connection, whichever is later.
+
+Benefits
+LTPT subsidy of 20% is given for 36 months from the date of commencement of production or from the date of obtaining power connection, whichever is later, after allotment of an Entrepreneur Memorandum (Part 2) number from the District Industries Centres.
+Eligibility
+For New Enterprises
+All new Micro manufacturing enterprises established anywhere in the State
+All new Small and Medium manufacturing enterprises established in all the 251 industrially backward blocks.
+All new Agro-based industries in 385 blocks in the state.
+
+For Expansion/diversification Enterprises
+Existing Manufacturing Enterprises of the above categories that have taken up substantial expansion/diversification of the existing activities, subject to the condition that expansion ( or) diversification involves enhancement of plant and machinery value by at least 25 % of the value of existing plant and machinery and also involving enhancement of turnover by 25 % for the same product (or) new products lines.
+NOTE: Only the enterprises using Low Tension Power supply (Tariff III B) are eligible.
+
+Cases Involved in Multiple Service Connection of an Enterprise
+In cases of enterprises having multiple LT connections in the same premises, LTPT subsidy would be eligible for the first service connection only. However, if the enterprise has branch unit(s) in a different location(s) then an LTPT subsidy will be given to each of the LT connections (first LT service connection only)subject to the satisfaction of the above norm.
+Application Process
+Online
+*Access the User Manual for Online Application here
+
+Step 1: Registration
+Visit the Official Website/Portal of the Micro, Small, and Medium Enterprises Department of the Government of Tamil Nadu. In the top ribbon, click "Login / Registration".
+In the registration form, fill in the mandatory details accurately, Name, Date of Birth, Aadhaar Number, Email ID, and Mobile Number. Create a new password. The password must contain a minimum of 8 characters, 1 Upper Case Letter, 1 Lower Case Letter, and 1 Numeric Field.
+Fill in the captcha code, and click "Register".
+
+Step 2: Login
+Visit the Login Page and click "Login", and then fill in the credentials received on your registered Email ID and the registered Mobile Number.
+
+Step 3: Form Filling
+After successfully logging in, hover over "Schemes" in the top ribbon, and then click on the concerned scheme from the dropdown.
+On the next page, hover over "Apply Online" in the top ribbon, and then click on "New Application" from the dropdown.
+Fill in all the mandatory fields of the Application Form. Carefully review all the information provided, acknowledge and agree to the terms and conditions, declaration, and privacy policy, and then click "Proceed".
+Note down the reference number appearing on the screen and then click "Close".
+
+Step 4: Upload Documents
+Now, hover over "Schemes" in the top ribbon, and then click "Upload Documents" from the dropdown.
+On the next page, provide the Application ID and click "Submit".
+On the next page, upload all the mandatory documents in the specified format and size.
+After uploading the documents, click "View" to verify the documents uploaded for correctness.
+
+Step 5: Submission
+Fill in all the checkboxes appearing at the bottom of the screen and then click "Submit Application".
+The message regarding the submission of the online application to GM/DIC / RJD will be received on your mobile phone.
+
+(Optional) Step 6: Track Application Status
+You can check the status of your application here. The portal may provide updates via email or SMS regarding your application status.
+
+
+*Access the Preview of the Application Form here
+*Access the Sample of a Filled Application Form here
+Documents Required
+For Eligibility Certificate Application
+Attested Copy of EB Meter Card.
+Copy of Udyog Aadhaar Memorandum.
+
+For Subsidy Application (II C)
+Attested Copy of EB Meter Card.
+Attested Copies of the Bills and Copies of Receipts.
+Advance Stamped Receipt.
+Copy of Udyog Aadhaar Memorandum.
+Copy of Eligible Certificate (EC).
+
+NOTE: All Original documents should be produced for verification and returned at the time of inspection. If the originals are in the bank, the copies should be duly attested by the Branch  Manager of the bank that financed the project.
+NOTE: The file type should be PDF (.pdf). The file size should be less than 200 kb.

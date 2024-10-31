@@ -1,0 +1,54 @@
+Telecom Technology Development Fund
+Ministry Of Communication
+Academic InstitutionsAtmanirbhar BharatChipsetDomestic CompaniesGrantsIPR Creation MentoringMSMEsPilotStartupsTelecom In Remote AreasTelecom In Rural
+Details
+Telecommunication technology products require significantly large funding and long gestation periods for R&D and commercialization including the additional efforts and resources for the products to move from prototype to commercial grade. In the cases of high-impact deep-tech projects, elaborated in later sections, there is a need for higher funding to build such products at an affordable cost to enable state of the art services for rural areas in the country. Taking note of this strategic need in the telecom sector and to create a large pool of capital available for R&D in the country, different financing instruments are offered under various schemes of the Government of India to develop indigenous technologies and solutions. 
+Apart from the existing R&D funding mechanisms, annual collections under the Universal Service Obligation Fund (USOF) will also be utilized by the Department of Telecommunications (DoT) for funding research and development of technologies, products, and services for the purpose of providing telecom services in rural and remote areas. An allocation of 5% of annual collections from USOF will be available for funding R&D in the Telecom sector, starting with the funds collected in the financial year 2021-22. Commercialization and adoption of these telecom technologies and solutions developed shall be given priority including through USOF schemes. Induction of new technology developments in the telecom sector in rural and remote areas through pilots and trials.
+Deliverables are in line with the objectives, scope, and activities envisaged above. The impact of the Scheme would be measured in terms of:
+Number of products, solutions, Use cases developed, commercialized and its market value;
+Number of entities received educational order, culminating in getting full-fledged orders; and
+Number of IPs generated and commercialized.
+
+Benefits
+The scheme is envisaged to bridge the digital divide by developing and manufacturing the state-of-the-art technologies for rural and remote areas. The objectives are, inter alia, to promote:
+Technology Ownership and indigenous Manufacturing (Atmanirbhar Bharat) & reduce import and open up export opportunities;
+Proliferation of next-generation Telecom technologies in Rural and Remote areas;
+Creating a culture of Technology co-creation and co-innovation;
+Promote the ecosystem for research, design, prototyping, development, proof of concept testing, IPR creation, field testing, security, certification, and manufacturing of telecom products, end-to-end Solutions, Usecases, Pilots, inter alia; develop and establish relevant standards to meet national requirements and enable their standardization in international standardization bodies;
+Promote rural-specific communication technology application/use case development that caters to the needs of rural masses and adds value to their day-to-day activities both economic and social;
+Create synergies among the Academia, Research Institutes, Start-ups, and Industry for capacity building and development of the telecom ecosystem through outreach to build rural/remote areas relevant technologies and solutions;
+Bridge the gap between R&D and commercialization of products and solutions;
+Enable proliferation of affordable broadband and mobile services;
+Enable technology demonstration, product integration, pilots, and field trials of the products and solutions;
+Enable Technological/business model innovation in solutions and services by utilizing existing infrastructure of USOF/DoT/GoI funded projects; or
+Commercialize developed technologies under the scheme. USOF schemes shall incorporate necessary provisions to ensure to enable the rollout of these indigenously developed and piloted technologies developed in all its models.
+Eligibility
+The following Indian entities are only eligible for support from this fund.
+Domestic Company(ies) with focus on telecom R&D, Use case development
+Startups / MSMEs
+Academic institutions
+R&D institutions, Section 8 companies / Societies, Central & State government entities / PSUs /Autonomous Bodies/SPVs / Limited liability partnerships- with a focus on telecom research and development
+Collaborative consortium of the above entities
+For Pilots: The above entities may partner, inter alia, with PSUs, TSPs, Central/State Government entities, government autonomous bodies, SPVs, etc.
+For Pilot application: Minimum TRL 7 is required.
+Application Process
+Online
+Application Process: (Stepwise):
+Step 01: Online submission of Proposal (https://usof.gov.in/en/home)
+Step 02: Screening of the applicant
+Step 03: Review and due diligence by the Technical Evaluation Committee
+Step 04: Review and examination by the Administrative Committee
+Step 05: Final approval from Competent Authority
+Step 06: Assignment to Implementation Agency
+Step 07: Continuous monitoring by IA and fund disbursement
+Documents Required
+Applicant and collaborator Resume
+Registration certificate of the organization/Institute
+Approval Certificate from your organisation/Institute on their letterhead for submission of Open/Pilot/Chipset Proposal
+Annual report of last 3 years
+TAN/ PAN/ CIN of primary applicant/organization
+Applicant team resume
+GANTT/ PERT chart
+Detailed Technical Architecture diagram
+Presentation of proposal
+Declaration document

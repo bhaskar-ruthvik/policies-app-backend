@@ -1,0 +1,70 @@
+Merit Cum Means Based Scholarship For Students Belonging To The Minority Communities
+Ministry Of Minority Affairs
+Higher EducationMinorityScholarshipStudent
+Details
+A scholarship scheme by the Ministry of Minority Affairs for students from minority communities pursuing technical and professional courses at undergraduate and postgraduate levels in a listed institute. The scholarship will be awarded to the students who have secured not less than 50% marks (or equivalent grade) in the previous final examination and the annual income of their parents/guardian from all sources does not exceed ₹2.50 lakh.
+         The scheme aims to encourage parents from minority communities to lighten their financial burden on education and sustain their efforts to support their children to complete their education. The scheme will form the foundation for their educational attainment and provide a level playing field in the competitive employment arena. A total of 60,000 scholarships are targeted to be distributed as ‘Fresh’ Scholarships, besides, Renewal scholarships.
+
+Benefits
+Course Fee - ₹20,000/- per annum subject to actuals whichever is less (for both Hosteller & Day Scholar).
+Monthly Maintenance Allowance (for 10 months in an academic year) - ₹1,000/- for Hosteller; ₹ 500/- for Day Scholar.
+Scholarship for listed institutes - Full course fee is reimbursed for the listed Institutes.
+Eligibility
+The applicant must be a student.
+The applicant must belong to a Minority Community.
+The applicant must be pursuing a technical or professional course at the undergraduate or postgraduate level. 
+The applicant must have secured not less than 50% marks (or equivalent grade) in the previous final examination.
+The annual income of parents/guardians of the applicant (from all sources):  Less than or equal to ₹2.5 Lakhs per Annum.
+Application Process
+Online
+New Registration:
+Step 1: Visit the New Registration page of the National Scholarships Portal.
+Step 2: Guidelines for Registration will appear. Scroll to the bottom. Read the undertaking carefully and Accept the Terms. Click “Next”.
+Step 3: In the next window, enter your mobile number and OTP. Then click “Verify”.
+Step 4: After successful verification, continue with e-KYC process (as applicable).
+Step 5: Once completed, your reference number will be generated and the same will be sent to your registered phone number.
+Process for OTR ID Number Generation:
+Step 1: Download and install AadhaarFaceRD services in the android device.
+Step 2: Download and install the NSP OTR App from the Google Play Store.
+Step 3: After opening the mobile app Select the option “eKYC with FaceAuth” highlighted in red.
+Step 4: Enter the allotted reference number and click on “Send OTP” to receive OTP on your mobile no. 
+Step 5: Enter the received OTP and captcha in the screen and click Next.
+Step 6: Click on “Proceed for Face Authentication” button highlighted in red.
+Step 7: UIDAI AadhaarFaceRD services will be invoked for face authentication. Ensure AadhaarFaceRD services are preinstalled on your device.
+Step 8: On Successful completion of face-authentication OTR no. will be generated and will also be sent on your registered mobile no.
+Fresh Application:
+Step 1: Visit the applicant Login page of the National Scholarships Portal Enter your One Time Registration (OTR) number and password.
+Step 2: Type the Captcha and click “Login”.
+Step 3: On the next screen, provide the OTP received on your registered mobile number. You will be directed to the Password Reset screen. Create a new password and confirm.
+Step 4: Click “Submit”. You will be directed to the “Applicant’s Dashboard”.
+Step 5: On the left pane, click “Application Form”. The fields marked as * are compulsory. Fill in the details and upload the documents.
+Step 6: You can either click on “Save as Draft” to complete the application later. Else, click “Final Submit” to submit the application.
+Track Payment Status:
+The student can track their payment status from the template “Know Your Payment” in the Public Financial Management System (PFMS) Portal either by indicating their Aadhaar Number, Bank Account number or NSP Application ID.
+NOTE 1: The National Scholarships Portal will provide the timelines for opening & closing of the portal.
+NOTE 2: Online applications will be verified at two levels i.e. by the Institute, where the student is studying and thereafter by the concerned State Higher Education Department or any other Agency/ Official nominated by the State as State Nodal Agency (both for fresh and renewal applicants).
+NOTE 3: Students will not be permanently debarred for scholarships due to delay in renewal or verification. However, students will have to submit renewal applications within a cut-off date. Renewal for that year will not be allowed if an applicant misses this deadline.
+Documents Required
+Student’s Photo.
+Verification Form by the Institution.
+Income Certificate, issued from a Competent Authority in the State/UT Govts is required in respect of parent/guardian of the student.
+Self-Certified Community Certificate (if the applicant is greater than or equal to 18 years) or Community Certificate certified by parent/guardian.
+Self-attested Mark Sheet of  the last qualifying exam.
+Fee Receipt of ‘Current Course Year’.
+Bank Details (Account No., IFSC Code) of the applicant or Bank Details of the Parent/Guardian. (if the student does not have his/her own bank account).
+Residential/Domicile Certificate.
+Bonafide Student Certificate” from the institute (if the institute is located in a State/UT different from domicile State/UT)
+Aadhaar Number (or alternative identification documents)
+
+Alternative identification documents (in absence of Aadhaar) - The documents as stated in the Gazette Notification- S.O. No. 1284 (E) No. 1137, dated 21.04.2017.
+
+Aadhaar Enrolment ID slip (if enrolled for Aadhaar)
+A copy of her or his request made for Aadhaar enrolment.
+  and one of the following:
+Passport
+Ration Card
+Bank passbook with photograph
+Permanent Account Number (PAN) Card issued by the Income Tax Department
+Certificate of identity having photo of such student issued by a Headmaster or Principal of School under official seal of the school
+Driving license issued by the Licensing Authority under the Motor Vehicles Act, 1988 (59 of 1988)
+Any other documents specified by the State Government or Union territory Administration.

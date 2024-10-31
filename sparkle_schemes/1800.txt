@@ -1,0 +1,63 @@
+Pradhan Mantri Gramin Digital Saksharta Abhiyaan
+Ministry of Electronics and Information Technology
+DigitalEducationSkill
+Details
+Pradhan Mantri Gramin Digital Saksharta Abhiyaan (PMGDISHA) is a Digital Literacy Scheme by the Ministry of Electronics and Information Technology (MeitY), to make six crore persons in rural areas, across States/UTs, are digitally literate, reaching around 40% of rural households by covering one member from every eligible household. 
+
+The Scheme is applicable only to rural areas of the country. Only one person (14 - 60 years of age) per eligible household would be considered for training. Priority would be given to Non-smartphone users, Antyodaya households, college drop-outs, and Participants of the adult literacy mission; Digitally illiterate school students from class 9th to 12th, provided facility of Computer/ICT Training is not available in their schools. Preference would be given to SC, ST, BPL, women, differently-abled persons, and minorities.
+
+The Scheme is aimed at empowering the citizens in rural areas by training them to operate computer or digital access devices (like tablets, smartphones, etc.), send and receive e-mails, browse the Internet, access Government services, search for information, and undertake digital payment, etc. and hence enable them to use the Information Technology and related applications, especially Digital Payments to actively participate in the process of nation building. Thus the Scheme aims to bridge the digital divide, specifically targeting the rural population including the marginalized sections of society like Scheduled Castes (SC) / Scheduled Tribes (ST), Below Poverty Line (BPL), women, differently-abled persons, and minorities.
+
+Benefits
+The Scheme is aimed at empowering the citizens in rural areas by training them to operate computers or digital access devices (like tablets, smartphones, etc.), send and receive e-mails, browse the Internet, access government services, search for information, and undertake digital payment, etc. and hence enable them to use the Information Technology and related applications, especially Digital Payments to actively participate in the process of nation building.
+On average a target of 200-300 beneficiaries per Gram Panchayat is envisaged. The actual target for the Gram Panchayat would be decided by the District eGovernance Society (DEGs) chaired by the District Magistrate, keeping in view the size of the district, population, local requirements, etc. 
+Attempts shall be made to provide full Digital Literacy to the villages covered under Pradhan Mantri Adarsh Gram Yojana.
+Setting up of the Training Centres in the identified Districts/ Blocks/ Gram Panchayats.
+Delivery of content through mobile phones is proposed as a supplementary facility that can be accessed by a large number of neo-IT literates to refresh content learned during the physical training mode.
+
+The Digital Literacy Training Course
+Total Duration of the Course: 20 Hours
+
+Broad Content outline:
+Module Name
+Introduction to Digital Devices
+Operating Digital Devices
+Introduction to the Internet
+Communications using the Internet
+Applications of the Internet (include citizen-centric services and; Use of digital financial tools for undertaking cashless transactions)
+
+Learning Outcomes / Competency Standards:
+Understand the basics (terminology, navigation, and functionality) of digital devices
+Use digital devices for accessing, creating, managing, and sharing information
+Use the Internet to browse in an effective and responsible manner
+Use technology to communicate effectively
+Carry out cashless transactions using digital financial tools (USSD/ UPI/ eWallet/AEPS/ Card/ PoS)
+Use Digital Locker
+Use online citizen-centric services
+Appreciate the role of digital technology in everyday life, social life, and work
+
+The content generation/collation/management/aggregation – the creation of the content bank, etc would be carried out by CSC-SPV in consultation with various stakeholders as per the following:
+
+The content developed for the purpose of digital literacy training would be made available in 22 scheduled languages of India apart from English. A mobile ‘app’ would be made available in 22 scheduled languages so that training content can be downloaded and re-used as and when needed.
+For persons who cannot read and write, audio/visual/touch, etc.-based content would be developed. For those who can read and write, textual, structured, audio, video, and applications-based content would be made available. Efforts would be made to design target beneficiaries' specific contents with the use of local/localized resources.
+Top citizen-centric schemes as indicated below are included as part of the curriculum: G2C Services (Caste certificate, Domicile certificate, Income Certificate); UIDAI Services; Banking Services; IRCTC Railway Reservation; Insurance; Telephone / Data Card Recharge; Election ID Printing; Electricity Bill Payment; Pan Card; Passport
+Eligibility
+Target Beneficiaries:
+The beneficiary should be Digitally Illiterate
+Only one person in a household where none of the family members is digitally literate will be considered.
+The age of the beneficiary should be between 14 years and 60 years.
+
+Priority would be given to:
+Non-smartphone users, Antyodaya households, college drop-outs, and Participants of the adult literacy mission.
+Digitally illiterate school students from class 9th to 12th, provided facility of Computer/ICT Training is not available in their schools.
+
+Preference would be given to:
+SC, ST, BPL, women, differently-abled persons, and minorities.
+Application Process
+Offline
+The identification of the beneficiaries would be carried out by CSC e-Governance Services India Limited, a Special Purpose Vehicle (CSC-SPV) incorporated under the Companies Act 1956, in active collaboration with DeGS, Gram Panchayats, and Block Development Officers. The list of such beneficiaries would be made available on the scheme portal.
+
+Eligible persons are to be enrolled in the nearest PMGDISHA training Centre using their Aadhaar (UIDAI) number. Unique Username and Password to be provided to the beneficiary.
+Documents Required
+Aadhaar Number
+Proof of Age / DOB

@@ -1,0 +1,76 @@
+National Centre For Communications Security (NCCS) Internship Scheme
+Ministry Of Communication
+EducationGraduationInternshipStudentTraining
+Details
+The National Centre for Communications Security (NCCS) Internship Scheme allows young talent to be associated with the NCCS work for mutual benefit. It will enable NCCS to interact with young scholars and to get fresh ideas and study/ research support from the field of academics. At the same time, it will provide an opportunity for young scholars to contribute to the NCCS work and have an insight into the related technical work. The opportunity enables the young population to acquire knowledge in the areas like Hardware level Security, Source Code analysis (Static and dynamic analysis at HLL, Binary Code Analysis) Crypto algorithm implementation validation and Crypto Module validation, Supply chain vulnerabilities, Run time vulnerabilities in a live network (Advanced Persistent Threats), Back door entry vulnerabilities, Identification of Intentional/ Hidden Malware in Software/ Firmware of equipment.
+
+Slots
+NCCS will assess the requirement of the interns periodically.
+The total number of interns engaged shall not exceed 20 (inclusive of Category 1 & 2), at any point in time.
+
+Duration
+For Category 1: The minimum duration of the internship shall be of sixty days.
+For Category 2: The minimum duration of the internship shall be of six months, extendable up to a maximum of twelve months.
+NOTE: Extension beyond six months shall be permitted, on the application of an intern duly recommended by the concerned Head of Division and with the approval of the Head of NCCS.
+
+Placement
+The interns would be attached to one of the officers in the Divisions of the NCCS.
+An orientation workshop will be held for interns at the beginning of the internship. The work of interns will be monitored through periodic interaction with the interns. 
+The attendance record and the details of work supervision shall be maintained by the Divisions/Units in NCCS.
+
+Submission of Paper
+The interns will be required to submit a Report/Paper on the work undertaken at the end of the internship to the respective Division. The Report shall be signed by the concerned Officer with whom the intern is attached, as an acceptance of the successful completion of the Internship.
+
+Benefits
+Token Remuneration
+Interns selected under Category 1 will be paid a token remuneration @ ₹ 7,500/- per month on prorate basis.
+Interns selected under Category 2 will be paid a token remuneration @ ₹ 15,000/- per month on prorate basis.
+The remuneration shall be paid after the completion of the month subject to satisfactory progress of work duly accepted by the concerned division from the "Professional Services" head of Accounts.
+
+Certificate of Internship
+On successful completion of the Internship and submission of the Report duly signed and accepted by the competent authority, a Certificate shall be issued by the concerned Division.
+
+Logistics & Support
+NCCS shall provide them with working space, workplace Internet facility and other necessities as deemed fit by the concerned Head of Division.
+
+NOTE: Interns will be required to have their own laptops.
+Eligibility
+Category 1
+Indian students from recognized universities in India or abroad, studying in 3rd/ 4th year (Final or pre-final year) in Bachelor's Degree course in Electronics/ Communications/ Telecommunication /Radio/ Information Technology/ Computers / Electrical (with majors in electronics/communications/computers) Engineering or related discipline and secured minimum 60% marks.
+
+Category 2
+Indian students from recognized universities in India or abroad, who have completed Bachelor's Degree courses in Electronics/ Communications/ Telecommunication/ Radio/ Information Technology/ Computers/ Electrical (with majors in electronics/communications/computers) Engineering or related discipline course with a minimum of 60% marks.
+
+OR
+
+Indian students from recognized universities in India or abroad, who have completed Graduation or pursuing Post Graduate/Master's Degree courses in Electronics/ Communications/ Telecommunication/ Radio/ Information Technology/ Computers/ Electrical Engineering or related discipline courses with a minimum of 60% marks.
+
+Reservation / Preference / Priority
+Candidates having exposure in the area of intended internship with good academic background and having higher qualifications, based on need shall be given preference.
+
+NOTE 1: The qualifications may be relaxed in deserving cases based on the needs of the NCCS, on the recommendations of the Selection Committee and approval of the Head of NCCS.
+NOTE 2: Possessing minimum qualifications as above shall not guarantee an Internship in NCCS. 
+Application Process
+Offline
+Application
+The interested and eligible candidates must submit their applications along with their CVs, and areas of work interest in the prescribed application form (Annexure-II of the Scheme Guidelines) to the designated office of NCCS, in response to the advertisement/ notification from NCCS.
+
+NOTE 1: Any candidate willing to join during a particular quarter should submit the applications in the previous quarter.
+NOTE 2: The applications are open throughout the calendar year.
+
+Selection
+After the preliminary scrutiny regarding eligibility, the applications of shortlisted candidates will be placed before the selection committee.
+The selection committee may conduct a personal or telephonic interview if required.
+Depending upon the number of applications received, NCCS may shortlist the applications, limit the number of applicants to be called for a particular period and decide about the mode of screening.
+
+NOTE 1: No TA / DA shall be paid to candidates for attending the personal interview.
+NOTE 2: The internship is neither a job nor an assurance of a job with the NCCS.
+NOTE 3: NCCS can also identify interns for specific work domains/areas after interaction with academic institutions.
+Documents Required
+Passport Sized Photograph
+Proof of Identity
+Proof of Address
+Proof of the Latest Educational Qualification (Passing Certificate / Degree / Marksheet)
+Identity Card / Proof of Enrolment into the Institute
+Letter of Recommendation from the Institution
+Details of the Bank Account

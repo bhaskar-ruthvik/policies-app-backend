@@ -1,0 +1,47 @@
+Chief Minister’s Solar Rooftop Capital Incentive Scheme
+Tamil Nadu
+Renewable EnergySolar RooftopUtility
+Details
+Chief Minister’s Solar Rooftop Capital Incentive Scheme is a capital subsidy scheme by the Tamil Nadu Government. In this scheme, a capital subsidy of ₹ 20,000 per kilowatt is provided for grid-connected domestic solar PV systems in addition to the 30% subsidy scheme* of the Ministry of New and Renewable Energy (MNRE) of the Government of India. For individual homes/flats, the solar system capacity shall be 1 kW. For the residential flats solar system capacities of 5 kW, 10 kW, and multiples thereof can be applied for common usage as a group application.
+(* limited to 30% of MNRE benchmark cost or 30% of the project cost, whichever is less)
+
+Benefits
+A capital subsidy of ₹ 20,000 per kilowatt for grid-connected domestic solar PV systems in addition to the 30% subsidy scheme* of the Ministry of New and Renewable Energy (MNRE) of the Government of India. For individual homes/flats, the solar system capacity shall be 1 kW. For the residential flats solar system capacities of 5 kW, 10 kW, and multiples thereof can be applied for common usage as a group application. (* limited to 30% of MNRE benchmark cost or 30% of the project cost, whichever is less)
+You may opt for any capacity out of 1, 2, 5 & 10 kWp, but the subsidy will be limited to 1kWp per house / flat.
+A grid-connected photovoltaic power system will reduce the power bill due to the import and export of power through net metering provision. Illustration: someone imports (consumes) 1,000 kWh from the grid and exports 600 kWh to the grid in a billing cycle. The energy bill will be for 400 kWh (1000 kWh – 600 kWh) accounted by Netmeter.
+Grid-connected PV systems do not require batteries. Batteries are costly require periodic maintenance and also lead to the wastage of 15 – 20 % of energy in storage and retrieval.
+Grid-connected PV systems are much easier to operate and maintain.
+Segregation of load is not required.
+Eligibility
+Eligibility for Consumer
+The scheme is open to applicants from individual homes/flats and residential flats, having an electricity connection.
+
+Eligibility for Vendor / Installer
+Qualified Solar Installers empanelled by the Tamil Nadu Energy Development Agency through a tendering system under this scheme (www.teda.in/pdf/CIS_INSTALLERS.pdf)
+Application Process
+Online
+Step 1: Visit the official website of TEDA and click on the “Solar Rooftop” tab.
+Step 2: Click on the “Apply Online” button to access the online application form.
+Step 3: Fill in the required details in the online application form such as personal information, contact details, and project details.
+Step 4: Upload the required documents such as proof of possession, proof of identity, site plan, building layout plan, and other documents.
+Step 5: Review the application form and documents before submitting them.
+Step 6: Click on the “Submit” button to submit the application form and documents to TEDA.
+
+Post Application Steps
+Step 1: After submission, the application will be processed by TEDA and a response will be sent to the registered email address.
+Step 2: If the application is approved, TEDA will provide the capital subsidy to the bank account specified in the application.
+Step 3: The applicant can then proceed with the installation of the solar rooftop system as per the specifications provided in the application.
+Step 4: After the installation is completed, the applicant can claim the subsidy by submitting the completion certificate and other documents to TEDA.
+Step 5: TEDA will verify the installation and release the subsidy to the applicant's bank account.
+Documents Required
+Duly filled out online application form.
+Proof of possession of premises such as ownership document or lease agreement.
+Proof of Identity (Aadhaar Card, Voter ID Card, or Passport)
+Proof of address such as electricity bill, telephone bill, or ration card.
+Site plan and building layout plan indicating the location of the solar rooftop system.
+Structural stability certificate from a structural engineer.
+NOC from the electricity distribution company.
+Details of the solar rooftop system such as technical specifications, warranty, and performance guarantee.
+Proof of payment for the solar rooftop system.
+Bank account details for the transfer of the capital subsidy.
+Any other document as required by TEDA.

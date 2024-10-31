@@ -1,0 +1,57 @@
+Back Ended Interest Subsidy (BEIS)
+Tamil Nadu
+EnterpriseInterestLoanMSMESubsidy
+Details
+The scheme "Back Ended Interest Subsidy (BEIS)" by the Micro Small and Medium Enterprises Department, Government of Tamil Nadu, is introduced with the objective of reducing financial burdens of all new micro and small manufacturing enterprises who have already availed loans from banks/ other government organizations by assisting them through a subsidy on term loans for a period of 5 years.
+
+Benefits
+Subsidy of 5% on term loans subject to a maximum of ₹ 20,00,000 is given for a period of 5 years to all new micro and small manufacturing enterprises for term loans up to ₹ 2,00,00,000 obtained for Credit Guarantee Fund Trust Scheme (CGTMSE).
+Subsidy of 5% on term loans subject to a maximum of ₹ 25,00,000 is given for a period of 5 years to all new micro and small manufacturing enterprises for term loans up to ₹ 5,00,00,000 obtained for technology up-gradation / modernization.
+The maximum amount of BEIS payable per loan shall be ₹ 10,00,000 only on loans taken up to ₹ 1,00,00,000.
+
+Mode of Payment
+Interest subsidy shall be reimbursed once in three months on a quarterly basis to the financial institutions.
+Eligibility
+Micro and Small Enterprises who have availed of term loan under Technology upgradation/modernization schemes, National Equity Funds Scheme (Renamed as Micro / Small Enterprises Funding Scheme), Scheme for ISO Certification / R & D under NSIC -SIDCO Consortium and Credit Guarantee Fund Trust Scheme.
+New Enterprises that have set up their facilities, or existing Micro, Small, and Medium Enterprises, which upgrade their existing plant and machinery with state-of-the-art technology, with or without expansion, by induction of well-established and improved technologies in specified sub-sectors / products as listed in the guidelines on Credit Linked Capital Subsidy Scheme (CLCSS) Scheme of Government of India.
+Application Process
+Online
+*Access the User Manual for Online Application
+ here
+
+Step 1: Registration
+Visit the Official Website/Portal of the Micro, Small, and Medium Enterprises Department of the Government of Tamil Nadu. In the top ribbon, click "Login / Registration".
+In the registration form, fill in the mandatory details accurately, Name, Date of Birth, Aadhaar Number, Email ID, and Mobile Number. Create a new password. The password must contain a minimum of 8 characters, 1 Upper Case Letter, 1 Lower Case Letter, and 1 Numeric Field.
+Fill in the captcha code, and click "Register".
+
+Step 2: Login
+Visit the Login Page and click "Login", and then fill in the credentials received on your registered Email ID and the registered Mobile Number.
+
+Step 3: Form Filling
+After successfully logging in, hover over "Schemes" in the top ribbon, and then click on the concerned scheme from the dropdown.
+On the next page, hover over "Apply Online" in the top ribbon, and then click on "New Application" from the dropdown.
+Fill in all the mandatory fields of the Application Form. Carefully review all the information provided, acknowledge and agree to the terms and conditions, declaration, and privacy policy, and then click "Proceed".
+Note down the reference number appearing on the screen and then click "Close".
+
+Step 4: Upload Documents
+Now, hover over "Schemes" in the top ribbon, and then click "Upload Documents" from the dropdown.
+On the next page, provide the Application ID and click "Submit".
+On the next page, upload all the mandatory documents in the specified format and size.
+After uploading the documents, click "View" to verify the documents uploaded for correctness.
+
+Step 5: Submission
+Fill in all the checkboxes appearing at the bottom of the screen and then click "Submit Application".
+The message regarding the submission of the online application to GM/DIC / RJD will be received on your mobile phone.
+
+(Optional) Step 6: Track Application Status
+You can check the status of your application here. The portal may provide updates via email or SMS regarding your application status.
+
+
+*Access the Preview of the Application Form here
+*Access the Sample of a Filled Application Form here
+Documents Required
+Copy of Udyog Aadhaar memorandum/copy of Udyam Certificate.
+Copy of Loan Sanction letter from the Bank / Financial Institution in respect of Bank / Institutional financed Enterprises.
+Certificate from the bank for the interest claim for each quarter as per Annexure A.
+Bank statement for the interest paid with bank manager attestation.
+*The file type should be PDF (.pdf). The file size should be less than 200 kb.

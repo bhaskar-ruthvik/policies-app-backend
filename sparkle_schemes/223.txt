@@ -1,0 +1,90 @@
+AICTE - Research Promotion Scheme (RPS)
+Ministry of Education
+Research
+Details
+The scheme "AICTE - Research Promotion Scheme (RPS)" was introduced by the All India Council for Technical Education (AICTE), Department of Higher Education (DoHE) in order to promote research in identified thrust areas of technical education. AICTE approved Technical Institutions/University Departments having the relevant PG programs and having full-time regular faculty with research experience and publications, are eligible to apply to this scheme. The maximum limit of funding is ₹ 25,00,000. The duration of the project will be three years from the date of receipt of funds in the institute’s account.
+
+Benefits
+Duration of the Project:
+The duration of the project will be three years from the date of receipt of funds in the institute’s account.
+
+Limit of Funding:
+(a) Maximum limit of funding is ₹ 25,00,000.
+(b) Non-Recurring 75% and Recurring 25% of the total sanctioned grant.
+
+Disbursement of the Funds:
+(a) 100% Non-recurring and 50% of the recurring grant of the total sanctioned amount.
+(b) 50% of the total sanctioned recurring grant only after submission of the Audited Utilization Certificate and all requisite documents.
+
+Note 1: The grant will be utilized strictly for the purpose as specified in the sanction letter. Re-appropriation of funds from Recurring to Non-Recurring is allowed but not vice versa; Non-Recurring and recurring heads are 75% and 25% respectively of the total grant unless otherwise recommended by 
+AICTE experts. The list of equipment decided by the experts is final and there can be no changes 
+later on.
+
+Note 2: The equipment(s)/item(s) purchased from out of non-recurring should be as per the specifications sanctioned by AICTE. The purchase cost below the sanction cost shall be restricted to the actual cost, and vice versa restricted to sanctioned cost. Excess costs shall be met by the Institute from its own resources.
+
+Note 3: The recurring grant can be utilized for the items sanctioned by the AICTE. This should not be used for travel abroad to attend conferences/seminars. However, for presenting a Paper in a Seminar / 
+Conference within the country, the travel expenses may be met from the recurring grant. Further, 
+expenditure incurred towards hiring staff on a contract basis shall be considered only if the same 
+was recommended by the Experts and approved by AICTE. No budget be utilized for hiring 
+permanent staff.
+Eligibility
+(a) AICTE approved Technical Institutions/University Departments with relevant PG programs.
+(b) Full-time regular faculty with research experience and publications.
+(c) The preliminary research facilities should be available in the institute.
+(d) One proposal from one PI (Principal Investigator) will be sanctioned at any point in time within the 
+duration of the project.
+(e) The maximum number of proposals acceptable per institute (including those sanctioned earlier but not completed) shall be five and three from Govt. institute and Pvt. Institute respectively. However,
+the maximum number of proposals acceptable to be approved per institute shall be two for Govt. and Pvt. Institute both.
+Application Process
+Online
+Step 1: Visit the AICTE website https://www.aicte-india.org
+Step 2: Click on the “Web Portal Login” button.
+Step 3: Log in to the AICTE portal with your institute’s credentials.
+Step 4: After successful logging, the home page of the institute appears.
+Step 5: The AQIS application page of the institute is open.
+Step 6: Click on the “AQIS Application- Institute details”
+Step 7: Institute and Bank Details will auto-populate in “AQIS Application – Institute Details” Please check and update according to changes.
+
+Note:
+1) Bank Account should be Saving Account.
+2) Account holder's name should not be a personal name.
+
+Step 8: Check the declaration flag, then click on the “Save Bank Details” button.
+Step 9: To confirm the bank details entered, kindly click on the “Confirm Bank Details” button.
+Step 10: If the bank details are incorrect, click on the Cancel button to edit the bank details again otherwise click on OK to confirm the details.
+
+Note: Once the ‘OK’ button is clicked. The Institute details and Bank details will become read-only mode.
+
+Step 11: Click on the “All AQIS Application Information”
+Step 12: Click on the “Download Mandate Form” and “Download Declaration Certificate
+Step 13: Click on the “AQIS Document Attachment”
+Step 14: Click on the new record ( )button.
+Step 15: After attaching the Mandate form, click on the save ( ) button. 
+
+Note: Please attach Verified Bank Mandate Form in scanned PDF format (Maximum Size10 MB).
+Note: Download the mandate form and certificate of declaration from the highlighted tab and upload them in the section of AQIS document attachments after that also fill in the details of the earlier grant.
+
+Application for ‘Research Promotion Scheme'
+• Initiating New application:
+Step 1: After uploading the attachment of the mandate form, Click on “All AQIS Application Information”
+Step 2: Click on the new record ( ) button.
+Step 3: Select the “RPS-Research Promotion Scheme” in the AQIS Schemes dropdown.
+Step 4: Click on AQIS Application ID
+Step 5: After clicking on the AQIS application id fill out a further application.
+(Fill all the heads by clicking on a plus sign one by one)
+
+Note: Kindly fill details of the coordinator by filling in all the heads for the RPS scheme. RPS variant will be displayed under “DETAILS of the RPS PROPOSAL IS REQUESTED” under “Details of Co-ordinator”. Select from the drop-down your required variant. Further application will proceed according to the variant one chooses. If some tabs are disabled that means that particular filled is not for that selected variant.
+
+Step 6: After that fill AQIS application details.
+Step 7: Fill academic credentials of PI by clicking on plus sign you will find a row of parameters, for filling in each parameter you need to select plus sign every time.
+Step 8: Similarly, like step 7 you need to fill in all the below parameters.
+Step 9: After filling in all heads please validate your application and submit it. 
+You will find validate and submit button under the first head of details of the coordinator.
+
+For any query send your query screenshot with the login credentials (ID and Password) and AQIS application id on the below-mentioned Email IDs:
+Itfdc2@aicte-india.org, itfdc@aicte-india.org, Contact No: 011-29581524
+Documents Required
+(a) APR, AUC, R&P, Statement of Expenditure on completion of each financial year.
+(b) Copies of GFR-19, copies of bills & vouchers and stock entry register duly attested.
+(c) PCR with consolidated AUC & R&P.
+(d) Feedback Form.

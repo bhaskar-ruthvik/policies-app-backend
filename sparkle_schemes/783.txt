@@ -1,0 +1,86 @@
+Collaborative Research Scheme (CRS)
+Ministry of Education
+Financial AssistanceResearch GrantTechnical Education
+Details
+Launched by the All India Council for Technical Education, Collaborative Research Scheme (CRS) aims to provide financial support in the form of research grants to the young TEQIP faculties recruited in different Technical Education Quality Improvement Programme (TEQIP) institutes so as to collaborate for research and build research community.
+
+Duration of the Project:
+Duration of the project will be of One year from the date of receipt of funds in the institute’s account.
+
+Processing Methodology: The proposal shall be assessed by an expert committee constituted as follows:
+Three members expert committee not below the rank of Associate Professor. Fourth member will evaluate if any of the three are not available.
+At least two members among the experts shall be from the concerned stream.
+
+Terms and conditions:
+The Principal Investigator has the primary responsibility of the implementation of the project.
+In case the Principal Investigator leaves the Institution without transfer of the project or goes on long leave, the Co- Principal Investigator 1 would be allowed to continue with the project, subject to the consent of the Principal Investigator and approval from AICTE. All such requests should be sent to AICTE in advance. Therefore, association of a Co- Principal Investigator-1 (Co-PI-1) as ref.1.2(d)in the project is mandatory.
+In case the Principal Investigator leaves the Institute and there is no other associated Co-Investigator to carry out the project then the project will be terminated at that stage and PI along with Co-PI-1(From Host Institute) will submit Utilization Certificate. No further grant will be released.
+The grant will be utilized strictly for the purpose as specified in the sanction letter. Re-appropriation of funds from one head to another is strictly not permitted; Recurring and Non-Recurring heads are 40% and 60% respectively of the total grant, unless otherwise recommended by TEQIP experts. The list of equipment decided by the experts will be final and no changes will be permitted subsequently.
+Once the project is sanctioned, the Council shall not consider any request for additional grant.
+Separate institutional overheads for execution of the project shall not be provided.
+Out of the project grant, no funds can be used for going abroad to attend
+Conferences/Seminars. However, for presentation a paper in a Seminar/Conferencewithin the Country, the travel expenses may be met out from the recurring component of the grant. 
+
+Benefits
+Limit of Funding:
+Maximum funding of ₹ 25,00,000/-.
+Note:
+Recurring 40% and Non-Recurring 60% of the total grant sectioned.
+Institute have to open separate bank account in nationalised bank for the grant in Collaborative Research Scheme.
+Extra funds provided only in special cases.
+Disbursement of the funds:
+25% amount of total sanctioned Non-recurring Grant and 25% amount of the total sanctioned Recurring Grant in a first installment.
+Remaining of total sanctioned Recurring and Non-Recurring grant only after the submission of Utilization Certificate, all requisite documents and review of the project by expert committee.
+Eligibility
+The proposal should be submitted by a group of faculties, one is Principal Investigator (PI) from different TEQIP institutions and other are Co- Principal Investigators (Co-PIs) from TEQIP or Non TEQIP Institution.
+The group shall consist of atleast 3 faculty.
+One TEQIP-faculty should be from Host Institute who will be a Principal Investigator (PI). Along with Principal Investigator, there will be maximum four or minimum two Co-Principal Investigators (Co-PIs) from TEQIP or Non TEQIP Institution.
+One preferably a regular faculty of Host TEQIP institute to which the PI belongs shall be Co-PI-1. Such Co-PI-1 may or may not be working in same research area (though it is preferred) but should belong to the same Department to that of PI.
+Maximum Two proposal can be submitted by one PI(Principal Investigator)
+One proposal from one PI (Principal Investigator) only will be sanctioned at any point of time within the duration of project.
+
+Note: 
+For institute collaboration, first priority should be given to collaborate with TEQIP mentor institute or NIT/ IIT /Central University of the same state or region and that is nearer to host institute and the faculty concerned shall be Co-PIs.
+The group may have as additional Co-PIs as necessary from any institution (TEQIP or Non-TEQIP institute from India or Abroad) and also from an industrials sectors.
+Application Process
+Online
+Registration of New Institute:
+Step 01: Visit http://portal.aicte-india.org/partnerportal_enu/start.swe and click on 'New Institute' button.
+Step 02: Users will be redirected to another website. Hover the cursor on Login and select ‘Investor Login’.
+Step 03: New users need to click on ‘Sign Up Now’ to register.
+Step 04: Enter the details and click on ‘Verify’ to receive OTP on your Email Id and Mobile Number.
+Step 05: After successful verification Click on ‘Sign Up Now’ to register.
+
+Post-Registration Process:
+Step 01: Visit http://portal.aicte-india.org/partnerportal_enu/start.swe and log in with the credentials provided by AICTE.
+Step 02: Navigate to CRS Application Screen by clicking on ‘CRS Application’ screen tab..
+Step 03: Institute details will auto populate in the CRS Application.
+Step 04: Fill demographic and Bank details. Check the Declaration flag and then click on “Save Bank Details” button.
+Step 05: Only after confirming the Bank Details, the 'New' button will be enabled for adding the CRS Application. Click on 'New' button to create CRS Application.
+Step 06: A unique AQIS Application ID will get created. Select the "Collaborative Research Scheme (CRS)" as Scheme from the drop down List.
+Step 07: Click on the selection menu icon in TEQIP Faculty Id field to add details of TEQIP Faculty Id. A pop up window will open with Faculty details present in Institute for current. Select the Faculty from the list.
+Step 08: Navigate to CRS Application. Further Navigate to CRS Faculty Details.
+Step 09: Create the database of all the CO-PIs (Co-PI 1,2,3,4) by clicking on “NEW” icon. Then Enter the faculty details:.
+Step 10: Further Navigate to CRS Institute Attachments. Upload the institutes mandate form for the same bank details which are entered initially.
+Step 10: Navigate to CRS Application details. Click on the system generated CRS application ID an enter the details.
+Step 11: After clicking on CRS application ID, user will be navigated to new page. Enter the details. Once all the details are filled click on ‘Save’ button.
+Step 12: Scroll Down you will see the Proforma’s of the Documents which needs to be downloaded for the attachments.
+Step 13: Navigate to PI Details tab for CRS Scheme. Enter the details. Click on ‘Save’ button.
+Step 14:Navigate to CRS CO-PI 1 PI Details tab for CRS Scheme. Enter the details. Click on ‘Save’ button.
+Step 15: Navigate to CRS CO-PI 2,3,4 PI Details tab for CRS Scheme. Enter the details. Click on ‘Save’ button.
+Step 16: Navigate to Academic Credentials of Coordinator/ PI/ Applicant tab for CRS Scheme.
+Step 17: All the parameters are required for the ‘Academic Credentials of Coordinator/ PI/Applicant’ tab and if any of the parameter is missing then following error message is displayed on click of ‘Validate Application’ button.
+Step 18: Navigate to CRS Project Justification tab for CRS Scheme.
+Step 19: All the parameters are required for the ‘Justification’ tab and if any of the parameter is missing then following error message is displayed on click of ‘Validate Application’ button.
+Step 20: Navigate to ‘Credential of Institute / Department’ tab for CRS Scheme. 
+Step 21: All the parameters are required for the ‘Credential of Institute / Department’ tab and if any of the parameter is missing then following error message is displayed on click of ‘Validate Application’ button.
+Step 22: Navigate to CRS Budget Non-Recurring tab for CRS Scheme. Click on “New” button to add Budget Non-Recurring Details.
+Step 23: Navigate to Equipments in lab tab for CRS Scheme. Click on “New” button to add Equipments Details.
+Step 24: Navigate to CRS Budget Recurring tab for CRS Scheme. Click on “New” button to add Budget Recurring Details.
+Step 25: Download the Proforma and attach the filled scanned copy in the CRS Attachment tab, attachment should be in Pdf or image.
+Documents Required
+Institute should submit their Mandate form (Refer Page No. 7) in given Format with duly signed by Head of the Institution and bank authority on portal.
+Institute should submit the certificate of collaboration signed by Principal Investigator(PI), Co- Principal Investigators (Co-PIs) and Head of the Institution in provided certificate format.
+Institute should submit the bio-data of all the PI & CO-PIs
+Equipment’s list
+Brief of Research Proposal containing project activities, schedule/timeline, relevance of Collaboration, industrial & social outcomes etc. (not more than 500 words)

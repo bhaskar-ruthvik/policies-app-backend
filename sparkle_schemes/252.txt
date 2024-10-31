@@ -1,0 +1,78 @@
+AICTE-IDEA (Idea Development, Evaluation & Application) LAB SCHEME
+Ministry of Education
+Engineering College And UniversityFinancial SupportInfrastructureLab
+Details
+AICTE has decided to establish IDEA (Idea Development, Evaluation & Application) Lab in AICTE approved institutions, encouraging students for application of science, technology engineering and mathematics (STEM) fundamentals towards enhanced hands-on experience, learning by doing and even product visualization. As a common facility embedded in the institution, the IDEA Lab will make engineering graduates more imaginative and creative, besides getting basic training in the 21st century skills like- critical thinking, problem solving, design thinking, collaboration, communication, lifelong learning etc. IDEA Lab can facilitate the students and faculty to “engage, explore, experience, express and excel” as desired by the Hon'ble Prime Minister in the wake of release of National Educational Policy 2020,
+Purpose:
+The purpose of IDEA Lab is to provide all facilities under one roof, for conversion of an idea into a prototype. With these facilities in the campus, more students and faculty will be encouraged to take up creative work and in the process, get training on creative thinking, problem solving, collaboration etc. which conventional labs are not able to. 
+The focus will be on training students so that they become imaginative and creative and stay so at the workplaces they join. The whole idea is to transform engineering education with such a Lab in all colleges and for this they must proactively expose all students to the IDEA Lab, organize training sessions for interested students as well as support projects and by providing online learning materials. 
+Proposal:
+As the IDEA Lab is going to be a long-term intervention aiming to transform education imparted in the institution, the proposal must spell out a clear vision for the Lab, plan of implementation, mobilization of resources, strength and enthusiasm of faculty, utilization and expansion of facilities, etc.
+The alignment of activities with larger national goals/ missions/ initiatives or industrial requirements or serving disadvantaged sections of society etc. and commitment of resources for the same, will impart an edge for any proposal.
+Shortlisted proposals will be subjected to scrutiny by a panel of experts before sanctioning of the project by AICTE.
+  Implementation:
+The college/ educational campus/ university and industry are expected to participate financially, to match the contribution sought from AICTE or even exceed it, in establishing the IDEA Lab which ideally requires:
+An area of 5000 sq. ft.
+Should ideally remain open 24x7.
+To be equipped with facilities, tools and consumables to support translation of an idea to prototype development or develop solution of a problem.
+To hold workshops/ trainings, ideation sessions, boot-camps, competitions etc. and participate in similar activities organized by other IDEA Labs/ organizers and also in national/ international events so as to ensure that IDEA Lab is used productively and also extensively.
+To maintain the IDEA Lab, keep it well-furnished, take care of security, provide a safe working environment and stock adequate supplies of consumables.
+To provide necessary staff and all support facilities and amenities required to operate and maintain the Lab.
+To follow the guidelines issued by AICTE in the matter of IDEA Lab and other Government of India rules besides following the enunciated Code of Conduct (as in Annexures) in letter and spirit.
+
+Benefits
+Financial Assistance:
+Estimated project cost per AICTE Lab is ₹ 1,10,00,000/- non-recurring expenditures (covering the cost of equipment, tools and consumables) of₹ 80,00,000/- and recurring expenditures (covering the cost of events and activities for two years) of ₹ 30,000,00/-. AICTE can provide up to 50% i.e. ₹ 55,00,000/-.
+Training to Faculties and Students:
+Various types of training will be provided to the faculties and the students on creative thinking, problem solving, collaboration, etc.
+Activities to be conducted by an IDEA Lab:
+The following table lists activities/ events and their number/ frequency in AICTE IDEA Lab and there has to be commitment to conduct minimum numbers, to be eligible for sanctioning of the project.
+
+Sr. No. Event & Duration Target & Batch size  Objective & Justification Frequency/Numbers 
+1. FDP (06 Days)  Faculty (20)  Faculty needs to be trained on equipment, to be able to guide students and conduct events- including those from other institutions  Twice in a year
+2. Skilling Programs (06 Days)  Students (20-30) Training in areas like electrical and electronics fabrication, embedded systems design. Embedded programming, 3D printing, robotics, welding, IOT, Machine learning, Al, bio-engineering, biomedical, etc  One per quarter 
+3. Bootcamps (12 Days)  Faculty (05-10)  Training of faculty (including those from other institutions, spread over a few weeks, continuing at workplaces, if required Twice a year  Twice a year
+4. ldeation workshops (03-05 Days)  Students (30-40) To generate ideas on which students can work in the IDEA Lab, including field visits Once in three months
+5. Awareness Workshops for Industry (02 Days)  Industry participants (5-10)  Publicizing IDEA Lab among industries, to encourage them to use the facilities  Once in three months 
+6. Internships (2 to 6 months)  Students(15-20)  For hands-on training as part of their course-work during summer and winter vacations. Internships based on industry problems should be preferred.  As per curriculum.
+7. Professional Skilling Programs (12 Days)  ITI students or class 10/12 pass students (5-10)  Welding, 3D printing, mechanical fabrication. etc  Once in a quarter 
+8. School Teachers Awareness Program (06 Days)  Teachers of nearby schools  Demonstration and providing hands-on experience of facilities  Twice a year (during school vacations) 
+9. Projects by School  Students identified by schools (10-15) Opportunity for school students to do projects  Once a year (as per convenience)
+10. Open Day for school students (one day) Students (class XI-XIl) nominated by schools (25-30)  Exposure to facilities in IDEA Lab to ignite their minds (on Science Day/Technology Day/Teachers Day/ Engineers Day) Once a year (as per convenience)
+11. Participation in annual technical exhibitions Nationwide IDEA labs  Technical exhibitions etc For example, Tech FEST, Mind SPARK, etc. organized by renowned Institutions/ Industries, etc to showcase activities/products/prototypes developed in IDEA labs  Once in a year
+12. Newsletter  Nationwide IDEA labs  To disseminate information to all the labs about activities of other labs, technology issues, any interesting developments, etc.  Monthly/Bi-monthly 
+13. Webpage All stakeholders For web-presence of IDEA Lab, and showcasing itself before the stakeholders and other IDEA Labs   Weekly/Bi-weekly updation 
+14. Annual conference/ symposium of all IDEA labs  All IDEA Labs, DIY labs or similar labs across the nation/outside the nation also To promote active interaction, showcase of lab activities, promote collaboration at national and international level labs  Once in a year
+Eligibility
+AICTE-approved engineering colleges/ university departments in existence for having at least 10 years and at least one course with live NBA accreditation.
+Aspiring institutions shall have to muster financial contribution to the tune of at least 50% for the IDEA Lab. Weightage will be given to additional quantum of funds, coming specially from industry.
+The institution must provide a built-up and furnished space of 3000 sq. ft. to house.
+The institution must provide all support staff, facilities and amenities required to operate and maintain the Lab.
+Application Process
+Online
+Registration Process:
+Go to https://idealnet.aicte-india.org/ and click on 'Log In' then on 'Register' button.
+Click on Get Details button. The details of the Institute including Name, Address and Email will auto populate. Now Enter your Institute’s Permanent Id.
+Enter all the mandatory details.
+Set a  password for and click on 'Register'.
+After successful registration, the applicant will get an e-mail for the account activation to the registered Email Id during registration.
+Click on the 'Verify Email' button in the e-mail to activate your account.
+
+Post-Registration Process:
+After the successful account activation, you can login to the website using the email id and password: https://idealnet.aicte-india.org/login
+Open the side menu bar and nagigate to the follwing tabs then fill the required data Click on 'Save' button to save the details: Institute Details; HOI & Faculty Coordinator Details; Build Up Area Details; Credentials of Institute/Department; Credentials of Chief Mentor(HOI); Credentials of Faculty Coordinator; Credentials of Faculty Co-coordinator; Proposal for the Project;
+Now Navigate to 'Non-Recurring Expenditure' tab, 
+This consists of Four tabs: Part-I (Equipment); Part-II (Consumables); Part-III (Tools) and Part-IV (Optional Equipment/Consumable/Tool).
+Fill the required data and Click on 'Save' button to save the details.
+Navigate to 'Non-Recurring Expenditure' tab, using the side menu bar. 
+This consists of two parts: Part-I and Part-II.
+Fill the required data and Click on 'Save' button to save the details.
+Navigate to “Contribution to Budget” tab, using the side menu bar.
+Upload the files and click on 'Save' button.
+Navigate to “Preview & Submit” tab, using the side menu bar,
+Check all the filled details and can submit the application by clicking on 'Submit' button afterchecking the declaration. You cannot edit any details once submitted.
+Documents Required
+Quotations of Equipment/s (All quotations must be in a single PDF file only)
+Industrial Contribution Commitment Letter (File should be in pdf format only)
+Institute Contribution Commitment Letter (File should be in pdf format only)
+Endorsement from the Head of Institute (File should be in pdf format only)

@@ -1,0 +1,55 @@
+Farm Pond (Khet Talai) Nirman Karyakram
+Rajasthan
+DevelopmentFarmerFinancial AssistanceWater Shortage
+Details
+The Farm Pond Construction Program, initiated on April 1, 2020, by the Rajasthan Agriculture Department, offers a solution to addressing a critical challenge of water scarcity for Rajasthan's farmers . This program allows farmers to establish farm ponds, essentially rainwater collection structures, for irrigation purposes. Recognizing the program's significance, the state government provides subsidies to facilitate farm pond construction. This enables farmers to effectively utilize rainwater and irrigate their fields.
+
+Benefits
+Subsidy breakdown:
+Raw farm pond: 50% of the construction cost (capped at ₹52,500)
+Plastic lined farm pond: 50% of the construction cost with lining (capped at ₹75,000)
+Additional subsidy:
+Raw farm pond: Up to 60% of the total cost (capped at ₹63,000)
+Plastic lined farm pond: Up to 60% of the total cost (capped at ₹90,000)
+Eligibility
+The applicant should be a native of Rajasthan.
+All categories of farmers are eligible.
+The applicant farmer should have a minimum cultivable land of 0.5 hectares at one place on his name. 
+Application Process
+Online
+Registration
+Step-1: Applicant have to visit the official portal. 
+Step-2: Click on the option “Register”.
+Step-3: Then you will be redirected to the SSO registration page. The registration page will appear with the following options.
+  Citizen
+Step-4: Choose the either one option from  the Jan Aadhaar Or Google to process further.
+Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,
+Select your name, the name of the head of the family and all the other members and 
+Click on the ‘Send OTP’ button. Enter the ‘OTP’ and 
+Click on the ‘Verify OTP’ button to Complete the registration. 
+Google : Enter the Gmail ID, click on the ‘Next’ button, 
+Enter the password.
+A new link appear on screen, now click on new SSO link.
+SSO id will appear on screen, now create the password.
+Enter Mobile number, click on registration.
+Step-5: Complete the registration process.
+
+Apply
+Step-1: Applicant have to visit the official portal. 
+Step-2: After login, dashboard will open.
+Step-3: Click on “ RAJ-KISAN ” option. 
+Step-4: In "Citizen", click on "Application Entry Request".
+Step-5: Enter the "Bhamashah Family ID" and search.  
+Step-6: Select the person name and scheme name. 
+Step-7: Complete the Aadhaar Authentication and click on Get details. 
+Step-8: Provide the required details.
+            - Pensioner Details.
+            - Bank Details.
+            - Disability Details.
+            - Verification Details.
+            - Upload Documents.
+Step-9: Submit.
+Documents Required
+Aadhar Card.
+Bank Passbook.
+Land Proof.

@@ -1,0 +1,86 @@
+Startup India Seed Fund Scheme- For Startups
+Ministry Of Commerce And Industry
+Financial AssistanceGrantIncubatorSeed FundStartup
+Details
+The scheme “Startup India Seed Fund Scheme (SISFS)” was launched by the Department for Promotion of Industry and Internal Trade (DPIIT) on 19th April 2021 with an outlay of INR 945 Crore to provide financial assistance to startups for Proof of Concept, prototype development, product trials, market-entry, and commercialization. Eligible startups can apply for the scheme on the Startup India portal. The Seed Fund will be disbursed to selected startups through eligible incubators across India.
+Objective Of The Scheme:
+Startup India Seed Fund Scheme (SISFS) aims to provide financial assistance to startups for proof of concept, prototype development, product trials, market-entry, and commercialization. This would enable these startups to graduate to a level where they will be able to raise investments from angel investors or venture capitalists or seek loans from commercial banks or financial institutions.
+Features:
+• Year-round ‘Call for Applications’ for Incubators and Startups
+• Sector-agnostic
+• No mandatory physical incubation
+• PAN-India startup programme
+• Startups can apply to 3 incubators simultaneously
+
+Benefits
+Seed Funds to an eligible startup by the incubator shall be disbursed as follows:
+Up to ₹20 Lakhs as a grant for validation of Proof of Concept, prototype development, or product trials. The grant shall be disbursed in milestone-based installments. These milestones can be related to the development of prototypes, product testing, building a product ready for market launch, etc.
+Up to ₹50 Lakhs of investment for market entry, commercialization, or scaling up through convertible debentures or debt or debt-linked instruments.
+Seed funds shall strictly not be used by startups for the creation of any facilities and shall be utilized for the purpose it has been granted for.
+Note 01: Not more than 20% of the total grant to an incubator shall be given as grants to start-ups by the incubator. The rate of interest (as defined under GFR) on unutilized funds available with the incubator would also be taken into account and adjusted at the time of the next release by DPIIT.
+Note 02: For startups being supported through convertible debentures or debt, or debt-linked instruments, funds shall be provided at a rate of interest of not more than the prevailing repo rate. The tenure should be fixed at the time of sanctioning the loan by the incubator, which shall be not more than 60 months (5 years). A moratorium of up to 12 months may be provided for the startups. Because of the early stage of the startups, this shall be unsecured and no guarantee from the promoter or third party will be required.
+Note 03: The incubator shall execute a legal agreement with the selected startups before the release of the first installment. The incubators shall ensure that the necessary terms and conditions, including milestones, related to the Seed Fund are detailed in the agreement.
+Note 04: Subsequent disbursement would be linked to the achievement of previously specified milestones as per agreement between the startup and incubator.
+Note 05: Startups will receive the funds in their company bank accounts.
+Note 06: For grants, the first installment to any selected startup shall be released not more than 60 days from receipt of the application from the startup. The startup shall submit the interim progress update and utilization certificate to initiate the release of subsequent installments of the grant.
+Note 07: Startup shall submit a final report and audited utilization certificate at the end of the project duration. For failed ventures, the entrepreneur will share his/her learnings and the reasons for failure in the report and submit this along with the utilization certificate for the fund amount.
+Note 08: The incubator or any of its staff members shall not charge any fee in cash or in kind from applicants or beneficiaries under the scheme for any process of selection, disbursement, incubation, or monitoring.
+Note 09: A grievance cell shall be set up at DPIIT for the scheme to address issues of applicants, such as delayed evaluation of applications, delayed disbursements by incubators, etc.
+Eligibility
+The eligibility criteria for a startup to apply under the Startup India Seed Fund Scheme shall be as follows:
+A startup, recognized by DPIIT, incorporated not more than 2 years ago at the time of application.
+Startups must have a business idea to develop a product or a service with market fit, viable commercialization, and scope of scaling.
+A startup should be using technology in its core product or service, or business model, or distribution model, or methodology to solve the problem being targeted.
+Preference would be given to startups creating innovative solutions in sectors such as social impact, waste management, water management, financial inclusion, education, agriculture, food processing, biotechnology, healthcare, energy, mobility, defense, space, railways, oil and gas, textiles, etc.
+The startup should not have received more than ₹10 lakhs of monetary support under any other Central or State Government scheme. This does not include prize money from competitions and grand challenges, subsidized working space, founder monthly allowance, access to labs, or access to a prototyping facility.
+Shareholding by Indian promoters in the startup should be at least 51% at the time of application to the incubator for the scheme, as per the Companies Act, 2013 and SEBI (ICDR) Regulations, 2018.
+A startup applicant can avail seed support in the form of grants and debt/convertible debentures each once as per the guidelines of the scheme.
+Application Process
+Online
+Application Procedure:
+Step 01: An online call for applications shall be hosted on an ongoing basis on the Startup India portal.
+Step 02: The DPIIT-recognized startup can apply through the official Startup India Portal (https://seedfund.startupindia.gov.in/).
+Step 03: On the home page, click on the ‘Apply Now’ button and proceed with ‘Apply Now’ for startups.
+Step 04: The startup can login using the credentials used during the startup recognition process to apply for the scheme and submit the application form.
+Step 05: Applicants can apply for seed funds to any three incubators selected as disbursing partners for this scheme in order of their preference.
+Note 01: The application submission is completely online, and no physical submission of documents is required. 
+Note 02: All applications received will be shared online with respective incubators for further evaluation.
+Note 03: The applicant may be asked to submit details on the team profile, problem statement, product/service overview, business model, customer profile, market size, quantum of funds needed, projected utilization plan for funds, etc.
+Note 04: There are no application fees for the scheme. Even after the selection of a startup by an incubator for assistance under this scheme, the startup shall not be charged any fees. The incubator or any of its staff members shall not charge any fee in cash or in kind from applicants or beneficiaries under the scheme for any process of selection, disbursement, incubation, or monitoring. 
+Selection of Startups:
+1. Each of the incubators applying for the Startup India Seed Fund Scheme will constitute a committee called the Incubator Seed Management Committee (ISMC), consisting of experts who can evaluate and select startups for seed support. The composition of ISMC would be as follows:
+• Nominee of Incubator (Chairman)
+• Representative from the State Government’s Startup Nodal Team
+• Representative of a Venture Capital Fund or Angel Network
+• A domain expert from Industry
+• A domain expert from academia
+• Two Successful Entrepreneurs
+• Any other relevant Stakeholder
+The final composition and members of ISMC of each incubator shall be approved by EAC and will be a critical parameter in the selection of incubators
+2. The startups shall be selected through an open, transparent, and fair process, comprising, inter-alia:
+a) Eligible applications will be evaluated by ISMC using the following criteria:
+• Need for this Idea: Market size, market gap filling, solving a real-world problem
+• Feasibility: Feasibility and reasonability of the technical claims, methodology used/ to be used for PoC and validation, and roadmap for product development.
+• Potential Impact: Customer demographic & the technology’s effect on these, national importance (if any)
+• Novelty: USP of the technology, associated IP
+• Team: Strength of the team, Technical and business expertise
+• Fund Utilization Plan: Roadmap of money utilization
+• Additional Parameters: Any additional parameters considered appropriate by the incubator
+• Presentation: Overall assessment
+b) The incubator may shortlist applicants based on their evaluation for a presentation before ISMC
+c) ISMC shall evaluate applicants based on their submissions and presentations and select startups for Seed Fund within 45 days of receipt of the application
+d) All incubators shall provide information about the progress of the evaluation of startups in real-time to the Startup India portal
+e) Selected startups shall receive seed funding under the respective incubator that selects them as beneficiaries as per their preference shared during application (for example, if incubators at Preference 1 and Preference 2 both select a startup, the funding shall be given by Preference 1 incubator. If the Preference 1 incubator rejects and the Preference 2 incubator selects, the funding shall be given by the incubator at Preference 2, and so on.)
+f) All applicants will be able to track the progress of their application on the Startup India portal on a real-time basis
+g) Applicants who are rejected will also be notified through email
+h) An applicant, if rejected once, may apply afresh
+Documents Required
+1. Board resolution/Authorization Letter/PoA
+2. PAN Card
+3. GST number
+4. Aadhaar Card
+5. Bank account details
+6. Certificate of incorporation/ partnership deed
+7. Financial statements 
+8. A video about your startup describing your product, service or business model
+9. Any other relevant documents, as required.

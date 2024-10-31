@@ -1,0 +1,69 @@
+Shravanbal Seva State Pension Scheme
+Maharashtra
+Below Poverty LineDestituteFinancial AssistancePensionSenior Citizen
+Details
+The "Shravanbal Seva State Pension Scheme" is a Pension Scheme by the Department of Social Justice & Special Assistance, Govt. of Maharashtra. In this scheme, a monthly pension of ₹ 600/- is provided to destitute persons in the state of Maharashtra. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is 100% funded by the Govt. of Maharashtra.
+
+Benefits
+₹ 600/- per month is given to each beneficiary.
+
+Group (A): The destitute men and women who are 65 years or above in age, and whose family is listed as "Below Poverty Line", are provided a monthly pension of ₹ 600/-. In this pension, ₹ 200/- per month is provided under Indira Gandhi Old Age Pension Scheme (Central Govt.), and ₹ 400/- per month under Shravan Bal State Pension Scheme.
+
+Group (B): The destitute men and women who are 65 years or above in age, whose family is not listed as "Below Poverty Line", and whose annual family income is less than or equal to ₹ 21,000 are provided a monthly pension of ₹ 600/- entirely by the Shravan Bal State Pension Scheme.
+Eligibility
+The applicant should be a citizen of India.
+The applicant should be a domicile / permanent resident of the state of Maharashtra for at least 15 years.
+The applicant should be destitute.
+The applicant should be 65 years or above in age.
+The name of the applicant should be in the list of Below Poverty Line (BPL) families OR the annual income of the family should be less than or equal to ₹ 21,000/-.
+Application Process
+Online
+Offline
+Registration:
+
+Step 1: Visit the Official Portal of Aaple Sarkar (Maha DBT). On the right pane (green), click "New User? Register Here". You will be directed to the Registration Page.
+
+Step 2: Verify your Email ID and Mobile Number using OTP and then create a Unique Username and Password. (You will also find the link to the Registration Manual on the top right of the page.)
+
+In the "Applicant Detail" section, fill in the following mandatory fields: Salutation, Full Name(English), Full Name(Marathi), Father's Salutation, Father's Name (English), Father's Name(Marathi), Date of Birth, Age, Gender, Occupation.
+
+In the "Applicant's Address" section, fill in the following mandatory fields: Address (English), Address (Marathi), Street (English), Street (Marathi), Section (English), Section (Marathi), Building (English), Building (Marathi), Landmark (English), Landmark (Marathi), District, Taluka, Village, Pincode
+
+In the "Mobile No. & Username Verification" section, fill in the following mandatory fields: 10-digit Mobile Number (to be verified via OTP), PAN No, User Name, Email ID (to be verified via OTP), Password, and Confirm Password. 
+
+In the "Upload your Photograph" section, upload your passport-sized photograph following the instructions given below:
+1. The file size should fall between 5 KB to 20 KB.
+2. The format should be JPEG.
+3. The width should be 160 pixels.
+4. The height should fall between 200 to 212 pixels.
+
+In the "Proof Of Identity" section, upload ANY ONE of the following documents: PAN Card, Voter ID Card (POI), Passport (POI), Aadhaar Card (POI), Driving License (POI), Government / Semi-Government ID, Proof MNREGA Job Card, RSBY Card.
+The format should be JPEG/ PDF, and the file size should be between 75 KB to 256 KB.
+
+In the "Proof Of Address" section, upload ANY ONE of the following documents: Ration Card Passport (POA), Aadhaar Card (POA), Driving License (POA), Voter ID Card (POA), Extracts of 7/12 and 8 A, Property Tax Receipt, Property Agreement Copy, Water Bill, Electricity Bill, Telephone Bill, Rent Receipt.
+
+Step 3: At the bottom of the Registration Page, read the following declaration carefully:
+"I declare that the above-mentioned information submitted by me is true and correct to my knowledge and belief. I hereby agree to be liable for legal consequences for any information found incorrect or false under section 200 of the Indian penal code 1960."
+
+Select the "I accept" checkbox, and click "Register". Your Login Credentials will be shared over your registered Email ID and Mobile Number.
+
+Application:
+
+Step 1: Visit the Official Portal of Aaple Sarkar (Maha DBT). On the right pane (green), click "Already Registered? Login Here". Provide your Username and Password. Fill in the Captcha Code, Select your District from the dropdown menu, and click "Login".
+
+Step 2: On the next page, in the left pane, click "All Schemes". From the dropdown menu, select the Department Name, and the name of the scheme that you seek to apply for. Click "Apply" against the concerned scheme.
+
+Step 3: Fill in all the mandatory fields and upload the mandatory documents, and click "Apply". A popup message acknowledging the successful submission of the application will be displayed, along with the Application ID:
+"Dear [Username], you have successfully applied for [Scheme Name]. Your Application ID is [Application ID here]."
+
+The Application ID will also be shared over your registered Email ID and Mobile Number. Save this Application ID for future reference and for checking the application status.
+
+Step 4: You can also view the status of your applications (Under Scrutiny / Approved / Rejected / Fund Disbursed) using the "My Applied Scheme History" in the left pane.
+Documents Required
+Aadhaar Card.
+2-Passport Sized Photograph (Signed Across).
+Proof of Age.
+Income Certificate / BPL Card of the Family (if applicable)
+Residential Certificate / Domicile Certificate of the State of Maharashtra.
+Details of the Bank Account (Bank Name, Branch Name, Address, IFSC, etc).
+Any other document required by the District Social Welfare Office.

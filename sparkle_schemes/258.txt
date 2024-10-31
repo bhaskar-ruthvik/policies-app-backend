@@ -1,0 +1,49 @@
+Death Benefit (A.B.O.C.W.W.B)
+Assam
+Building WorkerConstruction WorkerDeathFinancial AssistanceLabour
+Details
+The scheme “Death Benefit” was started by the Assam Building and Other Construction Workers Welfare Board (A.B.O.C.W.W.B), Labour Welfare Department, Government of Assam. Under this scheme, financial assistance shall be given to the nominees/dependents of a registered worker towards death benefit, in case of normal death or due to an accident during the course of employment.
+
+Benefits
+The financial assistance of ₹50,000/- shall be given to the nominees/dependents of a registered construction worker in case of normal death during the course of employment.
+The financial assistance of ₹3,00,000/- shall be given to the nominee/dependents of a registered construction worker, in case the death is due to an accident during the course of employment.
+Eligibility
+The applicant should be a permanent resident of Assam.
+The applicant should be a nominee/dependent of deceased worker.
+The deceased worker should have been engaged in any building and other construction work.
+The deceased worker should have been registered with the Assam Building and Other Construction Workers Welfare Board.
+The deceased worker should have had an active membership with the Board.
+Application Process
+Online
+Online - Via CSCs
+Application Process to apply under the scheme:
+Step 01: The eligible applicants may apply through the portal. https://abocwwb.assam.gov.in/
+Step 02: The eligible applicants may login in through ID No./registered phone number. On the home page of the portal, click on ‘Login Now’ and enter the Mobile Number or User ID. OTP received on the registered mobile number should be entered to complete the login.
+Step 03: The individual console of the applicant gets opened with various functions such as detail updating, Fees due, and benefits eligible.
+Step 04: Click on ‘Benefit’ and select the applicable scheme (Death Benefit) under the benefit and the portal redirects to an online application form specific to the scheme.
+Step 05: The applicant may fill up the application with all mandatory fields and upload the necessary documents.
+Step 06: The applicant submits the application form and a tracking/reference number is generated as a future reference for the applicant.
+Post-Application Process:
+Step 01: Successfully submitted applications pop up in the concerned Officers console. The officer may assign a subordinate to make verifications through the portal.
+Step 02: Subsequent to preliminary verification, the application is placed in the scrutiny committee for detailed checks.
+Step 03: Minutes of the Scrutiny Committee meeting get uploaded and Forwarded to the H.O.
+Step 04: Applications/ Pops up in the Officer’s Console of Head Office. Officer assigns to the Assistant concerned and allotted with the District concerned.
+Step 05: The assistant processes the application through PFMS. Account details get auto-verified in PFMS.
+Step 06: On successful PFMS verification, Print Advice is generated through PFMS.
+Step 07: Approving authority approves for disbursement of the benefit through PFMS.
+(User Manual)
+Documents Required
+ABOCWWB ID Card of the deceased worker
+Applicant's Photo
+Signature of the Applicant
+Attested Copy of ID Card of the Deceased Worker
+Death Certificate Issued by Government Doctor/Appropriate Authority
+Succession Certificate
+Certificate of Guardianship with consent from the other family members and minor nominee
+Copy of Payslip of Account Paybook
+Caste Certificate (Other than General category)
+Applicant's Identification Certificate from the Government Gaonburah and Village Panchayat Officer
+Loan Recovery Documents, if any
+Age Proof Certificate for minor
+Bank account details
+Any other related documents

@@ -1,0 +1,73 @@
+Saksham Yuva Scheme
+Haryana
+AllowanceEmployementSaksham YuvaUnemployedUnemploymentYouth
+Details
+The scheme “Saksham Yuva Scheme” is implemented by the Directorate of Employment, Government of Haryana. The Government of Haryana recognizes the importance of providing dignity to state youth and engaging them constructively in gainful assignments. Accordingly, the Government launched the “Educated Youth Allowance and Honorarium Scheme- 2016” popularly known as “Saksham Yuva Scheme” on 1st November, 2016 on the occasion of Haryana Swarn Jyanti to provide unemployment allowance and honorarium to the eligible post-graduate youth of Haryana in lieu of 100 hours of honorary work. Later, the Scheme has been extended to include Science, Engineering and Science equivalent Graduates, B. Com and BA with Maths, BA (Arts) and 10+2 pass eligible applicants gradually.
+
+Benefits
+The following is the amount of Unemployment Allowance and Honorarium under the Saksham Yuva Scheme:
+Sl. No. Qualification (for both Male & Female) Rate of Unemployment Allowance  Rate of honorarium
+1 10+2 ₹900/- per month ₹6,000/- per month
+2 Graduates ₹1,500/- per month ₹6,000/- per month
+3 Post-Graduates ₹3,000/- per month ₹6,000/- per month
+Eligibility
+Applicant should be a domicile of Haryana.
+Applicant should be registered in the Live Register of the concerned Employment Exchange. If not already registered, a 10+2/graduate/post-graduate qualified applicant may simultaneously register on www.hrex.gov.in website of the Department.
+The eligible Post Graduate/Graduate degree should have been obtained only through regular courses from Punjabi University, Patiala and any recognized University in UT Chandigarh or NCT Delhi or Haryana. Those applicants who have obtained their eligible degree through correspondence courses and have been taking benefits under the scheme will also continue to avail the benefits.
+Applicant should have passed the 10+2 examination, as a regular student, from any recognized school, affiliated to the Board of School Education Haryana, Bhiwani, Central Board of School Education (CBSE) Delhi and Indian Certificate of Secondary Education (ICSE) Board, Delhi, situated in Haryana and UT Chandigarh only.
+Applicant’s age should be between 18 to 35 years for 10+2 and 21 to 35 years for graduate/post-graduate.
+Applicant should not have passed the 10+2 examination through correspondence/ National Open School.
+Applicant should not be a regular student under a full-time course.
+Applicant should not be an employee dismissed from Government Service.
+Applicant should not be in any employment e.g. public/private sector/quasi-government or self-employment.
+The annual family income of applicant shall not exceed ₹3,00,000/- from all sources.
+The honorarium shall be paid for a maximum period of 03 years (36 months) or 35 years of age, whichever is earlier. A period of 3 years (36 months) shall start from the date of allotment of honorarium assignment and the age of 35 years shall be the exact date of completion of 35 years.
+Note: Further, the applicant shall furnish a self-attested declaration with the following conditions:-
+That the house of the applicant has a functional toilet. If the applicant has no functional toilet, he/she shall make a functional toilet within two months from the date of registration.
+That the family of the applicant has no pending dues payable to/is defaulter of the Power Department or its companies and if in default, then she/he undertakes to utilize part of the honorarium/allowance towards clearance of the dues.
+That the family of the applicant is not a defaulter of any Co-operative Bank and if in default, then he/she undertakes to utilize part of the honorarium/allowance towards payment of such dues.
+That there is no encroachment on public/Panchayat land by any member of his/her family.
+That the family of the applicant is not a defaulter of house tax payable to a Urban Local Body and if in default, then he/she undertakes to utilize part of the honorarium/allowance towards such dues.
+Application Process
+Online
+Registration Process on Saksham Yuva Portal:
+Step 1: Visit the official portal of Saksham Yuva: https://hreyahs.gov.in.
+Step 2: On the homepage, read the instructions provided under “Instructions for Saksham Yuva” and click on ‘Sign Up’ under ‘Saksham Yuva’.
+Step 3: Select your qualification, click on ‘Go to Registration,’ read the terms & conditions carefully, enter your details, and then click on ‘Submit & Next’.
+Step 4: Enter the OTP sent to your email and mobile number. Then, enter your family ID and select your name.
+Step 5: Enter the OTP sent to the mobile number registered with the family ID and click on ‘Register’. After successful registration, a User ID and password will be sent to your registered mobile number and email.
+Login to Apply Under the Scheme:
+Step 1: Visit the official portal of Saksham Yuva: https://hreyahs.gov.in.
+Step 2: On the homepage, click on ‘Sign In’ under Saksham Yuva. Enter your User ID, Password, Qualification, and Captcha, then click on ‘Login’.
+Step 3: Read the terms & conditions, select the eligibility conditions and declaration conditions, and click on ‘Save & Next’.
+Step 4: Enter your Personal Information, Family Background, Qualification, Additional Qualification, Special Qualification, District Preference, Job Preference, Job Status, and Skill Preference.
+Step 5: Upload all the required documents, agree to the declaration, and submit the application form.
+Step 6: Print the filled application form, attach all the relevant documents, and submit it to the nearest employment office.
+
+Registration Process on Antyodaya-SARAL Portal:
+Step 01: The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal.
+Step 02: If the applicant is not registered on the portal, he/she gets registered there. 
+Step 03: For registration, click “New User” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’.
+Step 04: Verify your mobile number and email ID through the received OTP and complete the registration process.
+Login to apply for the scheme:
+Step 01: To avail the benefits of the scheme, visit the Official Antyodaya-SARAL Portal and log in through the email ID used while registering.
+Step 02: Enter Password & Captcha and click on ‘Login’.
+Step 03: After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’
+Step 04: Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.
+Step 05: Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.
+Step 06: Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”
+Step 07: Fill in all the mandatory details and upload all the mandatory documents.
+Step 08: Preview the application form and click on ‘Submit’.
+Tracking of Application:
+Applicants can track his/her application through the Official Antyodaya-SARAL Portal by entering their Department Name, Scheme Name, and Application Reference ID. 
+Documents Required
+Applicant’s Passport-size photograph
+Applicant’s Signature
+Aadhaar Card
+Domicile Certificate
+Family ID (PPP document)
+Birth certificate/Metric Certificate for date of Birth proof
+Highest qualification Certificate/Degree/Provisional Degree
+Employment Registration Certificate
+Income certificate issued by competent Authority
+Any other document as required 

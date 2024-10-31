@@ -1,0 +1,38 @@
+Integrated Social Security Scheme: Pension to Physically Challenged Persons
+Ladakh
+BPLDisabilityISSSPensionPwD
+Details
+The scheme "Pension to Physically Challenged Persons" is a sub-component of the “Integrated Social Security Scheme (IGSSS)” implemented by the Social and Tribal Welfare Department, Administration of Union Territory of Ladakh. Under this scheme, a monthly pension of ₹1,000/- is provided to poor physically handicapped persons (including those who are blind, deaf, or dumb) with a degree of disability 40% or above and having no source of income.
+
+Benefits
+Amount of pension:  ₹1,000/- per month per beneficiary 
+Eligibility
+The applicant should be a permanent resident of the Union Territory of Ladakh.
+The applicant should be a physically challenged person with a disability of 40% or more (including Blind, Deaf, Dumb).
+The applicant should belong to the Below Poverty Line (BPL) category.
+The applicant's age should be between 18 and 79 years.
+The applicant should have no source of income.
+Application Process
+Online
+Offline
+Registration Process:
+Step 1: Visit the ‘Ladakh E-Seva Platform’ and navigate to the “Go Live Services” tab on the right side of the screen. Select the ISSS scheme under the 'Social Welfare' section.
+Step 2: Click on the 'Registration' tab in the right corner of the screen. 
+Step 3: Read the instructions carefully and fill in all the required information accurately. Upload the Passport-size scan photo (jpg image) in a clear background of size less than 50 kB. 
+Step 4: Note the User ID and Password after successful registration for future reference.
+Login to apply for scheme benefits:
+Step 1: To apply under the scheme, visit the ‘Ladakh E-Seva Platform’ again and navigate to the “Go Live Services” tab on the right side of the screen. Select the ISSS scheme under the 'Social Welfare' section.
+Step 2: Enter your login credentials (Login ID and Password generated after registration), select "User Role" as "Citizen," enter the Captcha, and click on "Submit". 
+Step 3: After Login, the applicant has to click on the “E-services” tab in the left menu.
+Step 4: Click on the “Department of Social & Tribal Welfare” and select the scheme ‘Pension to Physically Challenged Persons’ under “Integrated Social Security Scheme”.
+Step 5: Fill in the required details accurately and upload the mandatory documents then click on Submit to complete the application process.
+Documents Required
+1. Passport-size Photograph
+2. Identity proof i.e. Aadhaar card
+3. Proof of Age
+4. Proof of Income
+5. Disability certificate
+6. Proof of Status: Below Poverty Line (BPL) category
+7. Address Proof
+8. Bank account details/Bank Passbook
+9. Any other documents as required

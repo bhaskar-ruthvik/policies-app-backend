@@ -1,0 +1,71 @@
+Lakshya Scheme
+Tripura
+ExamFinancial AssistanceInterviewScholarshipUPSC
+Details
+The state scheme "LAKSHYA" was launched by the Directorate of Higher Education, Government of Tripura. The objective of the scheme is to provide financial support in the form of scholarships to permanent residents in Tripura who have cleared the Civil Services Examination (CSE) conducted by the Union Public Service Commission (UPSC). The intervention will be in the form of direct financial support to candidates clearing  Civil Services which includes Part I (Prelims to main- candidates who cleared prelims and appearing in the mains) and Part II (Mains to Interview- candidates who are invited to appear the interview) conducted by UPSC.
+
+Benefits
+Part I: Candidate Clears the Civil Services Prelims Exam and Will Be Appearing for the Mains Exam
+₹1,00,000/ (₹70,000 for coaching centre fee & study material cost­, and  ₹30,000 for travelling cost), extended from the date of publication of result till the date of Mains examination (date of last paper). 
+Part II: Candidate Clears the Mains Exam and is Invited for an Interview by UPSC
+₹20,000/-, extended from the date of publication of results of Mains and date of interview.
+Mode of Disbursement
+The monthly payment will be done in Direct Benefit Transfer (DBT) mode by the Implementing Agency. 
+*The financial support will be given to a candidate once for Part I and once for Part II.
+*The candidate needs to tell the Implementing Agency about the Main exam date two months before it happens. 
+*If the candidate gets called for an interview, he/she should also inform them before the interview date.
+Eligibility
+The Candidates should be a domicile of Tripura. 
+The Candidate should have cleared the Civil Services Exam (Prelims Exam) conducted by the UPSC. 
+The combined annual family income of the candidate should not exceed ₹10,00,000/-. 
+A candidate can receive assistance only twice, regardless of how many times he/she attempts to pass the exam.
+Application Process
+Online
+Registration Process:
+Applicant should visit the Beneficiary Management Ecosystem (BMS) Govt. of Tripura portal.
+Click on "Citizen Login" and then select "Register here."
+Student fill in the required fields: Full Name, Email ID, and Mobile Number.
+Enter the OTP received on the registered mobile number to complete the registration process.
+After registration, login using either the registered Mobile Number or Email ID and enter the received OTP.
+Apply on Departmental Schemes:
+After Login, the student will see the Home Page.
+Navigate to the Education Section to view the list of onboarded Government DBT Schemes.
+Select the desired department scheme, such as "Lakhshay - Chief Minister’s Special Scholarship Scheme for UPSC (CSE)" with scheme code "CPBS9."
+Click the "Enroll" button to apply for the selected scheme.
+Review Scheme Basic Info & Scheme Payment Info and click "Proceed."
+Optionally, view the Standard Operating Procedure (SOP) for detailed application submission guidelines.
+Scheme Enrollment:
+On the enrollment page, select domicile status.
+If applicable, enter the 12-digit Ration Card No. and search.
+Select the applicant's name from the list of family members if found.
+Save personal and address details fetched from the Ration Card database.
+Fill in all mandatory fields and upload required documents.
+After saving, update the profile with mandatory data fields if prompted.
+Click "Save Profile" and then proceed to apply for the selected scheme again.
+Click "Enroll" to enroll in the scheme once more.
+Review the scheme details and click "Proceed."
+Scheme Enrollment Form and Submission:
+Fill in Basic Mandatory Info, Address Area, and Bank Account Information.
+Upload required documents: Photograph (jpg format), Bank Passbook, Income Certificate from SDM/DCM, UPSC Prelims/Mains Clearance Proof.
+Provide Scheme Specific Information and Payment Related Information.
+Click "Next" to proceed to the final submission of the application.
+Final Submission Page:
+Review the application details.
+View uploaded documents by clicking "view more."
+Confirm final details and click "Final Submit" to complete the application submission.
+View/Print Acknowledgement Slip:
+After final submission, view or print the Acknowledgement Slip from the Dashboard.
+Resubmission Process (If some cases student upload wrong data or documents):
+If requested by the Higher Authority Checker due to incorrect data or documents, log in to the account.
+Find the option to resubmit the defective application and provide the required documents/details.
+Click "Proceed" and follow the instructions to upload corrected documents.
+Click "Next" to complete the resubmission process.
+Documents Required
+Photograph (jpg format).
+RC member ID.
+Bank Passbook.
+Permanent Resident Tripura Certificate (PRTC).
+Income Certificate (Issued by Sub-Divisional Magistrate (SDM)/ Deputy Commissioner of Magistrate (DCM)/ Deputy Commissioner (DC)).
+Admit Card/ Hall Ticket/ Roll Slip. 
+UPSC Prelims/Mains Clearance Proof 
+Proof of Admission (Coaching Centre).

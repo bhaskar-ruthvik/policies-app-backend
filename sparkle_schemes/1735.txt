@@ -1,0 +1,46 @@
+Power Subsidy Scheme
+Goa
+CompanyElectricityInformation TechnologyPowerSubsidy
+Details
+Launched in 2018, the "Power Subsidy Scheme" is one of the "Information Technology Policy Schemes" by the Department of Information Technology, Government of Goa. The objective and the scope of this scheme is to provide Power Subsidy to the eligible Information Technology Units in the State of Goa. All the New and Existing Units having their operations in Goa are eligible. The scheme has been framed as a part of Goa's IT Policy that envisages Goa as an aspirational geographical and human resource base for IT Units and a preferred destination for their investment and expansion.
+
+Benefits
+20% subsidy on power bills (on the power charges, excluding any duty and taxes, but not on the total bill), subject to a maximum of ₹ 5,00,000 per annum per Unit whichever is lower. 
+The subsidy will be provided for a period of 3 years from the date of commencement of operations or from the date of notification of this policy whichever is later.
+NOTE 1: The benefits under this scheme are subject to budgetary allocation. No Promissory Estoppel shall be applicable if benefits are discontinued in case the allocation is exceeded.
+NOTE 2: Only expenditure incurred during the operation of the Policy will be eligible for the rebate.
+Eligibility
+1. All the new and existing units must have their operations in Goa.
+2. The applicant must be one of the below:
+Proprietorship Firm
+Private Limited Company incorporated under the Companies Act, 2013 (or equivalent)
+Public Limited Company incorporated under the Companies Act, 2013 (or equivalent)
+Registered Partnership Firm incorporated under the Indian Partnership Act, 1932 (or equivalent)
+Limited Liability Partnership incorporated under the Limited Liability Partnership Act, 2008 (or equivalent)
+3. The bank accounts of the unit and/or its partner(s)/director(s) should be linked to Aadhaar.
+Application Process
+Online
+Step 1: Visit the Official Web Portal of Goa Online. At the top right corner, click "Register".
+Step 2: On the next page, verify your Email ID and Mobile Number using OTP. You will be redirected to the Registration Page.
+Step 3: On the Registration Page, fill in all the mandatory fields of the registration form. Create a Login Name and a strong Password. Carefully read the Declaration and the Terms & Conditions, and tick the checkboxes. Fill in the Captcha Code, and click "Register/Signup".
+Step 4: Login to the website using your Login Name and Password. Fill in the Captcha Code, and click "Login".
+Step 5: In the top ribbon, click on "Services", then click on "IT Services". Click on the name of the scheme. You will be taken to the application form for the scheme. Fill in all the mandatory fields and upload all the mandatory documents.
+Step 6: Submit the application. A unique registration number will be generated. Note this number for future reference.
+NOTE: The applicant can apply for this scheme on a quarterly/bi-annually/annual basis after incurring the relevant expenditure. 
+
+Disbursement Timeline
+Incentive Application Receipt: D
+Application scrutiny as per checklist: D+30days
+Application approval by the Empowered Committee: D+60 days
+Issue of Regret Letter/Sanction Orders and Disbursement: D+90 days
+Documents Required
+1. Copy of Incorporation Certificate
+2. Copy of new unit registration document/certificate
+3. Copies of PAN, Aadhaar and GST TIN
+4. Memorandum and Articles of Association
+5. Copy of first bill generated showing the date of commencement of operations or other relevant document
+6. Occupancy certificate from developer/local authority for said office space
+7. Details of employees and percentage of employees of Goan origin
+8. Copies of all electricity bills for the period for which subsidy is being claimed for, clearly showing the name and address of the unit
+9. Proof of payment of the bills
+10. Udyog Aadhaar.

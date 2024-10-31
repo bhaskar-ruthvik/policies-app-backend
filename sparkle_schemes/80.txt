@@ -1,0 +1,60 @@
+Atal Beemit Vyakti Kalyan Yojana
+Ministry Of Labour and Employment
+AtalEmployeeInsuranceInsured PersonUnemployment
+Details
+The scheme “Atal Beemit Vyakti Kalyan Yojana (ABVKY)” was introduced by the Employees’ State Insurance Corporation (ESIC) on a pilot basis for a period of 2 years w.e.f. 01.07.2018 for providing relief to the Insured Persons (IPs) who have become unemployed. Under this scheme relief in the form of cash compensation to the extent of 50% of the average per day earnings was paid up to a maximum of 90 days of unemployment subject to conditions that the employee should have completed two years of Insurable employment and has contributed not less than Seventy-Eight (78) days in each of the three consecutive contribution periods immediately preceding to the claim of the relief.
+
+Benefits
+The scheme provides relief to the extent of 50% of the average per day earnings of employees during their last employment.
+The relief amount to be paid up to a maximum of 90 days of unemployment (once in a lifetime) subject to conditions that the employee should have completed two years of Insurable employment and has contributed not less than Seventy-Eight (78) days in each of the three consecutive contribution periods.
+The IP will be eligible for Medical benefits as provided under the Act for the period he is availing this relief.
+Note 01: The Insured Person should have been in insurable employment for a minimum period of two years immediately before his/her unemployment and should have contributed for not less than 78 days in the contribution period immediately preceding the unemployment and a minimum of 78 days in one of the remaining three contribution periods in two years prior to unemployment.
+Note 02: Claim shall become due 30 days after the date of unemployment. Earlier this period was 90 days.
+Eligibility
+The Insured Person (IP) should have been rendered unemployed during the period the relief is claimed.
+The Insured Person should have been in insurable employment for a minimum period of two years.
+The Insured Person should have contributed not less than 78 days during each of the preceding three contribution periods.
+The contribution in respect of him/her should have been paid or payable by the employer.
+The unemployment contingency should not have resulted from any punishment for misconduct, superannuation, or voluntary retirement.
+The Aadhaar and Bank Account of the Insured Person should be linked with the insured person database.
+Note: All the Insured Persons covered under the ESI Act are entitled under the scheme and no separate registration is required.
+Other conditions for the administration of the scheme:
+In case the IP is working for more than one employer and is covered under the ESI scheme he will be considered unemployed only in case he is rendered unemployed with all employers.
+As specified in Section 65 of the ESI Act, an IP shall not be entitled to any other cash compensation and Relief under ABVKY simultaneously for the same period. However, periodical payments of Permanent Disability Benefit (PDB) under the ESI Act and Regulations shall continue.
+As specified under Section 61 of the ESI Act, an IP who is in receipt of Relief under ABVKY shall not be entitled to receive any similar benefit admissible under the provisions of any other enactment.
+Disqualification/Termination of relief under ABVKY:
+During lockout
+Strike resorted to by the employees declared illegal by the competent authority
+Voluntary abandonment of employment/ voluntary retirement/ premature retirement
+Less than two years of contributory service
+On attaining the age of superannuation
+Convicted (i.e. punished for false statement) under the provisions of Section 84 of the ESI Act read with Rule 62 of the ESI (Central) Rule
+On being re-employed elsewhere during the period he/she is in receipt of Relief under ABVKY
+Dismissal/termination under disciplinary action
+On the death of IP
+Application Process
+Online
+Application Process:
+Step 01: To submit an online claim, the application can be made online at the website: https://esic.gov.in/
+Step 02: On the home page of the official website: Services-->Employees -->IP Portal -->Select Insured Person -->Sign Up.
+Step 03: For new users ‘Sign-Up’ is required to fill Insurance Number, Date of Birth, and Mobile Number after that get the User Name and password.
+Step 04: Now, the applicant can login through his/her credentials and select the scheme to claim the benefits.
+Step 05: Fill in all the mandatory details in the form including bank details etc.
+Step 06: Download the AB-1 Form and fill in all the details wherever required. The scanned copy of the completely filled AB-1 Form and Aadhaar Card can be uploaded on the website.
+Step 07: After uploading all the required documents, the application form can be submitted.
+Step 08: Now, the applicant will take the printouts of the claim submitted above and the letter to the employer thus generated by the system and submit the duly signed claim in an affidavit along with the required forwarding by the employer to his designated ESIC Branch Office.
+Step 09: On receipt of the claim the details as mentioned by the applicant IP will be checked in the system by the staff at the Branch Office under the supervision of the Branch Manager. The system will calculate the claimant's eligibility for relief under the scheme and the quantum to which the claimant is entitled based upon the details provided by the IP as well as the contribution and other details available in the system. The payment of the relief will be made to the IP's bank account.
+Mode of payment:
+The relief under ABVKY will be electronically transferred directly to the bank accounts of Insured Persons (IPs) by the Branch Office.
+In the event of the death of IP, the amount of Relief under ABVKY shall be paid/ payable to his/her nominee/legal heir as prescribed under Para(s) P.3.79.1 to P.3.81 of the Branch Office Manual by the account payee cheque only.
+The bank account details of the claimant in the ESIC Database are a pre-condition for claiming this relief, but in case the bank account details of the claimant are not available in the ESIC Database or the IP has changed his bank account then the same may be authenticated by the Branch Manager on the basis of the cancelled cheque leaf or the passbook of the bank account having the name of the claimant on it, which the claimant will provide along with the claim for this relief.
+Documents Required
+1. Aadhaar card
+2. Bank passbook/cancelled cheque leaf (Account number, IFSC code, Branch name)
+3. Insurance detail
+4. Address proof 
+5. Employer detail
+6. An affidavit
+7. Salary Slip for last two months
+8. Attendance sheet of the applicant
+9. Any other relevant documents, if required
